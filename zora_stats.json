@@ -1,5 +1,5 @@
 {
-    "total_learned": 1217,
+    "total_learned": 1218,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2616,7 +2616,11 @@
         {
             "topic": "GitHub Global: 1290288259/miguan / API.md",
             "timestamp": "2026-10-11 20:21:01"
+        },
+        {
+            "topic": "GitHub Global: proofcarryingdata/zupass / bot.md",
+            "timestamp": "2026-10-11 20:21:39"
         }
     ],
-    "last_updated": "2026-10-11 20:21:01"
+    "last_updated": "2026-10-11 20:21:39"
 }
