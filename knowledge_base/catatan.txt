@@ -1237,3 +1237,21 @@ rag = CyberThreatRAG(db_path="./chroma_db", persist=True)
 
 Load CVE and NIST vulnerab
 ----------------------------------------
+
+Topik: GitHub Global: hypit-ai/hypitoken / DR.md
+Isi Pengetahuan:
+# Disaster Recovery — hypitoken
+
+If the server is lost beyond recovery, you can rebuild hypitoken from **the
+project code + the newest object in the `apibackup` bucket**. User balances,
+wallet ledger, payments, sessions, and upstream credentials all survive.
+
+## What gets backed up (daily, encrypted, off-host)
+
+A daily systemd timer runs `hypitoken backup --config <cfg>`, which uploads
+`apibackup/hypitoken/YYYY-MM-DD.tar.gz.enc` (X25519 sealed; rolling 7 days).
+Contents:
+
+- `saas.db` — users (balance_usd), wallet_tx ledger, alipay_orders, user_tokens, … **(money)**
+- `saas.db.jwt_secret` — ses
+----------------------------------------
