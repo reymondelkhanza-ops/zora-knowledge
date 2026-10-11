@@ -371,3 +371,14 @@ bot是Xcode Server在源代码仓库中对当前版本的项目执行持续集�
 Topik: GitHub: GitHub (Andrewmika/Xcode-Server-and-Continuous-Integration-Guide-in-Chinese / 5.md)
 Ringkasan: # Xcode Server环境变量参考
 Xcode Server定义了许多内置环境变量，您可以在`Run Script`构建阶段使用这些变量，作为集成、预集成触发器和后集成触发器的一部分。当进行Xcode Server API请求时这些变量提供的信息将非常有用。有关Xcode Server API的信息，参见[ Xcode Server API Reference](https://developer.apple.com/library/content/documentation/Xcode/Conceptual/XcodeServerAPIReference/index.html#//ap...
+
+Topik: GitHub: GitHub (Bulat-Ziganshin/FastECC / RS.md)
+Ringkasan: ### Program usage
+
+`RS [N=19 [SIZE=2052]]` - benchmark NTT-based Reed-Solomon encoding using 2^N input (data) blocks and 2^N output (parity) blocks, each block SIZE bytes long
+
+
+### Prior art
+
+The encoding and decoding algorithms implemented by FastECC were described in the paper
+[An Efficient (n,k)...
