@@ -400,3 +400,10 @@ _find the previous version of this document at
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [Do...
+
+Topik: GitHub: GitHub (svaksha/Julia.jl / AI.md)
+Ringkasan: **Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages. Category sorting of packages is a WIP.**
+
++ [MACHINE LEARNING](#machine-learning)
++ [NLP](#nlp)
+   + [English](#englis...
