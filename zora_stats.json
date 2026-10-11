@@ -1,5 +1,5 @@
 {
-    "total_learned": 1224,
+    "total_learned": 1225,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2636,7 +2636,11 @@
         {
             "topic": "GitHub Global: costinEEST/almanacs / db.md",
             "timestamp": "2026-10-11 20:26:16"
+        },
+        {
+            "topic": "GitHub Global: cvert-qc/pyjcall / doc.md",
+            "timestamp": "2026-10-11 20:27:35"
         }
     ],
-    "last_updated": "2026-10-11 20:26:54"
+    "last_updated": "2026-10-11 20:27:35"
 }
