@@ -1,5 +1,5 @@
 {
-    "total_learned": 1174,
+    "total_learned": 1175,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2488,7 +2488,11 @@
         {
             "topic": "GitHub Global: melling/ComputerLanguages / go.md",
             "timestamp": "2026-10-11 19:53:43"
+        },
+        {
+            "topic": "GitHub Global: Azure/AzureDatabricksBestPractices / toc.md",
+            "timestamp": "2026-10-11 19:54:21"
         }
     ],
-    "last_updated": "2026-10-11 19:53:43"
+    "last_updated": "2026-10-11 19:54:21"
 }
