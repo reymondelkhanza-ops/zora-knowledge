@@ -1,5 +1,5 @@
 {
-    "total_learned": 937,
+    "total_learned": 939,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2060,7 +2060,15 @@
         {
             "topic": "WA: Ayes",
             "timestamp": "2026-10-11 14:35:44"
+        },
+        {
+            "topic": "WA: Ayes",
+            "timestamp": "2026-10-11 14:35:46"
+        },
+        {
+            "topic": "WA: Ayes",
+            "timestamp": "2026-10-11 14:35:51"
         }
     ],
-    "last_updated": "2026-10-11 14:35:44"
+    "last_updated": "2026-10-11 14:35:51"
 }
