@@ -236,3 +236,16 @@ Ringkasan: # 六、HTTP 参数污染
 HTTP 参数污染，或者 HPP，在网站接受用户输入，将其用于生成发往其它系统的 HTTP 请求，并且不校验用户输出的时候发生。它以两种方式产生，通过服务器（后端）或者通过客户端。
 
 在 StackExchange 上，SilverlightFox 提供了一个 HPP 服务端攻击的不错的例子。假设我...
+
+Topik: GitHub: GitHub (mayfrost/guides / X.md)
+Ringkasan: # X
+Set __X__ and a desktop environment fast.
+
+1. [INSTALLING X](#installing-x)  
+2. [CONFIGURING X](#configuring-x)  
+2.1. [SCREEN RESOLUTION](#screen-resolution)  
+2.2. [SCREEN TEARING](#screen-tearing)  
+3. [FONTS](#fonts)  
+3.1. [CORE FONTS](#core-fonts)  
+3.2. [FONTCONFIG](#fontconfig)  
+4. [TH...
