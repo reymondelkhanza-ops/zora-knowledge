@@ -511,3 +511,13 @@ Ringkasan: Otak manusia merupakan organ pusat dari sistem saraf manusia, isinya 
 
 Topik: Bursa saham
 Ringkasan: Bursa efek adalah sebuah pasar yang berhubungan dengan pembelian dan penjualan efek perusahaan yang sudah terdaftar di bursa itu. Bursa efek tersebut, bersama-sama dengan pasar uang merupakan sumber utama permodalan eksternal bagi perusahaan dan pemerintah. Biasanya terdapat suatu lokasi pusat, seti...
+
+Topik: GitHub: GitHub (thlorenz/v8-perf / gc.md)
+Ringkasan: # V8 Garbage Collector
+
+_find the previous version of this document at
+[crankshaft/gc.md](crankshaft/gc.md)_
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [Do...
