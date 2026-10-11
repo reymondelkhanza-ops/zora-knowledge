@@ -8515,3 +8515,56 @@ Isi Pengetahuan:
 
 介绍:这是瑞士人工智能实验室Jurgen Schmidhu
 ----------------------------------------
+
+Topik: GitHub Global: 1290288259/miguan / API.md
+Isi Pengetahuan:
+# Flask API 接口文档
+
+本文档描述了Flask后端API接口的使用方法。
+
+## 基础信息
+
+- **基础URL**: `http://localhost:5000`
+- **内容类型**: `application/json`
+- **字符编码**: `UTF-8`
+
+## 通用响应格式
+
+所有API响应都遵循以下格式：
+
+```json
+{
+  "code": 200, // 200表示成功，非200表示失败
+  "message": "响应消息（可选）",
+  "data": "响应数据（可选）"
+}
+```
+
+## 认证方式
+
+大多数接口需要JWT认证。在请求头中添加：
+`Authorization: Bearer <access_token>`
+
+## API 接口列表
+
+### 1. 用户认证
+
+#### 1.1 用户登录
+
+- **URL**: `/api/user/login`
+- **Method**: `POST`
+- **Body**:
+```json
+{
+    "username": "administrator",
+    "password": "password"
+}
+```
+
+#### 1.2 用户注册
+
+- **URL**: `/api/user/register`
+- **Method**: `POST`
+- **Body**:
+`
+----------------------------------------
