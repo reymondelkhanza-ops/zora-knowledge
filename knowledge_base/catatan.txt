@@ -350,3 +350,13 @@ Ringkasan: # Table of contents
  - [Lazy initialization of services](#lazy-initialization-of-services)
  - [Single implementation multiple interfaces](#single-implementation-multiple-interfaces)
  - [Creating instances of types from an IServiceProvide...
+
+Topik: GitHub: GitHub (svaksha/pythonidae / AI.md)
+Ringkasan: **AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural Nets, NLP, etc...**
+
+
++ [§1. AI](#1-AI)
++ [§2. DATA SCIENCE](#2-DATA-SCIENCE)
++ [§3. MACHINE LEARNING](#3-MACHINE-LEARNING)
+   + [§3.1. Deep Learning](#3-1-Deep-Learning)
+   + [§3.2. Classification Algor...
