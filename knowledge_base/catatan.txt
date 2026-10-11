@@ -4975,3 +4975,31 @@ Isi Pengetahuan:
 
 在系统设计面试之前，我们已经在《系统设计面试之前需要知道的八件事》中谈到，就是从简单的东西开始。让我们专注于构建在单线程上运行的基本网页爬虫。有了这
 ----------------------------------------
+
+Topik: GitHub Global: shenwei356/awesome / r.md
+Isi Pengetahuan:
+# R
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Base](#base)
+- [Tutorial ](#tutorial)
+- [Packages](#packages)
+- [Text](#text)
+- [Performance](#performance)
+- [Data wrangling](#data%C2%A0wrangling)
+- [CLI](#cli)
+- [ML](#ml)
+- [Visualization](#visualization)
+- [Color](#color)
+- [Heatmap](#heatmap)
+- [ggplot2](#ggplot2)
+- [Statistics](#statistics)
+- [Cluster](#cluster)
+- [File formats](#file-formats)
+- [Misc](#misc)
+
+<!-- END doctoc generated TOC please keep comment h
+----------------------------------------
