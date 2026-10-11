@@ -8997,3 +8997,19 @@ Add ssfm-v30 model support to the MCP server. Includes new emotion presets (whis
   - `previous_text`: Previous context text
  
 ----------------------------------------
+
+Topik: GitHub Global: procload/dnd-mcp / mcp.md
+Isi Pengetahuan:
+# Example Clients
+
+Source: https://modelcontextprotocol.io/clients
+
+A list of applications that support MCP integrations
+
+This page provides an overview of applications that support the Model Context Protocol (MCP). Each client may support different MCP features, allowing for varying levels of integration with MCP servers.
+
+## Feature support matrix
+
+| Client                               | [Resources] | [Prompts] | [Tools] | [Sampling] | Roots | Notes                                                              |
+| ------------------------------------ | ----------- | --------- | ------- | ---
+----------------------------------------
