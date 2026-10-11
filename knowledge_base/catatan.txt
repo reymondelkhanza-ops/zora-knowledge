@@ -1,0 +1,9 @@
+Reymond el khanza adalah pembuat ZoraAI.
+ZoraAI adalah sistem asisten lokal mandiri.
+
+
+Topik: GitHub: GitHub (aaronshaf/security-plus / 2.md)
+Ringkasan: # 2.0 Technologies and Tools
+
+- [2.0 Technologies and Tools](#20-technologies-and-tools)
+  - [2.1 Install and configure network components, both hardware and software-based, to support organizational security.](#21-install-and-configure-network-components-both-hardware-and-software-based-to-support-...
