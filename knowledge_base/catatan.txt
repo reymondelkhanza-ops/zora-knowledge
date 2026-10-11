@@ -1055,3 +1055,33 @@ Topik: Wikipedia: Sejarah komputer
 Isi Pengetahuan:
 Sejarah komputer berawal dari abad ke-19, ketika Charles Babbage mencoba untuk mendesain komputer mekanik yang bernama Mesin Analitikal. Desain ini menjadi basis kerangka desain komputer sekarang.
 ----------------------------------------
+
+Topik: GitHub Global: ebenishere/AgenticAIProj / API.md
+Isi Pengetahuan:
+# 🔌 API Documentation
+
+Programming interface for Cyber Threat Intelligence RAG system.
+
+## CyberThreatRAG Class
+
+Main class for threat analysis. Use this to integrate RAG into your applications.
+
+### Initialization
+
+```python
+from rag.cyber_threat_rag import CyberThreatRAG
+
+# Create instance
+rag = CyberThreatRAG(db_path="./chroma_db", persist=True)
+```
+
+**Parameters:**
+- `db_path` (str): Path to store Chroma vector database. Default: `"./chroma_db"`
+- `persist` (bool): Save database to disk for reuse. Default: `True`
+
+### Methods
+
+#### load_data(cve_file, nist_file)
+
+Load CVE and NIST vulnerab
+----------------------------------------
