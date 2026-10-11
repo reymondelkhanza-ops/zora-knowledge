@@ -4806,3 +4806,38 @@ Rather than being a(nother) feature in nodemon, and as per the [design principle
 
 In your `nodemon.json` (or in your `package.json`) you can include the following event handler to
 ----------------------------------------
+
+Topik: GitHub Global: kali-docs-cn/kali-linux-web-pentest-cookbook-zh / ch2.md
+Isi Pengetahuan:
+# 第二章 侦查
+
+> 作者：Gilberto Najera-Gutierrez
+
+> 译者：[飞龙](https://github.com/)
+
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## 简介
+
+在每个渗透测试中，无论对于网络还是 Web 应用，都有一套流程。其中需要完成一些步骤，来增加我们发现和利用每个影响我们目标的可能的漏洞的机会。例如：
+
++   侦查
+
++   枚举
+
++   利用
+
++   维持访问
+
++   清理踪迹
+
+在 Web测试场景中，侦查是一个层面，其中测试者必须识别网络、防火墙和入侵检测系统中所有可能组件。它们也会收集关于公司、网络和雇员的最大信息。在我们的例子中，对于 Web 应用渗透测试，这个阶段主要关于了解应用、数据库、用户、服务器以及应用和我们之间的关系。
+
+侦查是每个渗透测试中的必要阶段。我们得到了的目标信息越多，发现和利用漏洞时，我们拥有的选项就越多。
+
+## 2.1 使用 Nmap 扫描和识别服务
+
+Nmap 可能是世界上最广泛使用的端口扫描器。他可以用于识别活动主机、扫描 TCP 和 UDP 开放端口，检测防火墙，获得运行在远程主机上的服务版本，甚至是，可以使用脚本来发现和利用漏洞。
+
+这个秘籍中，我们会使用 Nmap 来识别运行
+----------------------------------------
