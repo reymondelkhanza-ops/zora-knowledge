@@ -3857,3 +3857,43 @@ rules in `ROADMAP.md` govern this file.
 These are reusable Hex libraries rather than Pi extensions. Building them first
 prevents e
 ----------------------------------------
+
+Topik: GitHub Global: mgc1194/wmata-train-arrivals / API.md
+Isi Pengetahuan:
+# WMATA Train Arrivals API
+
+A Flask API that serves train arrival data from the WMATA API, along with static station information.
+
+## Authentication
+
+No authentication required. The API is open for local use.
+
+## Base URL
+
+`http://localhost:5001`
+
+---
+
+## [GET] /api/stations
+
+Retrieve a summarized list of all stations.
+
+### Response Example
+```json
+[
+  {
+    "itemAccessibilityLabelField": "Metro Center",
+    "label": "Metro Center",
+    "value": "A01"
+  }
+]
+```
+
+### Responses
+
+| Status | Description |
+| :--- | :--- |
+| `200` | List of stations |
+| `404` | No stations found |
+| `500` | Failed t
+----------------------------------------
