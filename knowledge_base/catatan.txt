@@ -6650,3 +6650,32 @@ ISO C+&#x200d;+ 标准委员会既没有一组得到广泛认可的设计标准�
 - 在《C+&#x200d;+ 语言的设计和演化》[Stroustrup 1994]（[§2.1](02.md#21-第一个十年)）中提出的“经验法则”包括 RAII（[§2.2.1](02.md#221-语言特性)）、面向对象编程、泛型编程和静态类型安全。
 - “简单的事情简单做！”（[§4.2](04.md
 ----------------------------------------
+
+Topik: GitHub Global: shenwei356/awesome / c.md
+Isi Pengetahuan:
+# C
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Tutorial](#tutorial)
+    - [Guide](#guide)
+    - [Performance](#performance)
+    - [regexp](#regexp)
+- [Practice](#practice)
+- [C vs C++](#c-vs-c)
+- [Resources](#resources)
+- [Book](#book)
+- [Library](#library)
+    - [DB](#db)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+## Tutorial
+
+### Guide
+
+- [用一年时间如何能掌握 C++ ？](htt
+----------------------------------------
