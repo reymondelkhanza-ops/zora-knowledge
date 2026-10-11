@@ -7758,3 +7758,14 @@ new LtpClient(
 
 - `url` (string, required): WebSoc
 ----------------------------------------
+
+Topik: GitHub Global: deaconjs/ThousandVariantCallersRepo / SV.md
+Isi Pengetahuan:
+## Structural Variant Callers
+Identify break points and follow them.
+
+|Caller|Year|From|Study|Source|Algorithm|
+|------|----|----|-----|------|---------|
+|[popins](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#popins)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3801)|[source](https://github.com/bkehr/popins)|Assembly of unmapped reads across multiple samples, placing of contigs into reference genome, genotyping|
+|[svaba](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svaba)|2017|Broad Institute|[study](http://biorxiv.org/content/early/2017/0
+----------------------------------------
