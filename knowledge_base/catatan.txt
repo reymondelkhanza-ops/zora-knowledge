@@ -1428,3 +1428,11 @@ Written by: Priya Aswani, WW Data Engineering & AI Technical Lead
 - [Introduction](#Introduction)
 - [Scalable ADB Deployments: Guidelines for Networking, Security, and Capacity Planning](#scalable-ADB-Deployments-Guidelines-for-Networking
 ----------------------------------------
+
+Topik: GitHub Global: costinEEST/almanacs / db.md
+Isi Pengetahuan:
+# Book
+
+- https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
+- [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793) + https://schiener.io/2
+----------------------------------------
