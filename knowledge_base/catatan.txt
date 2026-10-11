@@ -5324,3 +5324,23 @@ Isi Pengetahuan:
 - https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793) + https://schiener.io/2
 ----------------------------------------
+
+Topik: GitHub Global: julianjensen/dominators / RM.md
+Isi Pengetahuan:
+# dominators
+
+[![Coveralls Status][coveralls-image]][coveralls-url]
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][depstat-image]][depstat-url]
+[![npm version][npm-image]][npm-url]
+[![License][license-image]][license-url]
+[![Known Vulnerabilities][snyk-image]][snyk-url]
+[![david-dm][david-dm-image]][david-dm-url]
+
+> Various dominator tree generators.
+
+It implements two different methods for finding the immediate dominators of a graph.
+
+1. Implements a near-linear time iterative dominator generator based on the
+    paper [A Simple, Fast Dominance Algorithm](https://www.cs.ric
+----------------------------------------
