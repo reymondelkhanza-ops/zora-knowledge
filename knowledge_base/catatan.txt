@@ -7769,3 +7769,20 @@ Identify break points and follow them.
 |[popins](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#popins)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3801)|[source](https://github.com/bkehr/popins)|Assembly of unmapped reads across multiple samples, placing of contigs into reference genome, genotyping|
 |[svaba](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svaba)|2017|Broad Institute|[study](http://biorxiv.org/content/early/2017/0
 ----------------------------------------
+
+Topik: GitHub Global: senapati484/pandaclaw / bot.md
+Isi Pengetahuan:
+# 🤖 PandaClaw Telegram Bot Creation & Secure Device Pairing Plan
+
+This document details the configuration requirements for creating the PandaClaw Telegram bot using BotFather, along with a secure, zero-config pairing protocol to bind your local machine/device with your Telegram account.
+
+---
+
+## 🔑 Part 1: BotFather Configuration Fields
+
+To create and customize your Telegram Bot, search for [@BotFather](https://t.me/BotFather) on Telegram and execute the following configurations:
+
+### 1. Bot Creation (`/newbot`)
+*   **Command**: `/newbot`
+*   **Name**: Choose a premium, human-readable name for 
+----------------------------------------
