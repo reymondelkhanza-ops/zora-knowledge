@@ -1,5 +1,5 @@
 {
-    "total_learned": 1628,
+    "total_learned": 1629,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -3756,7 +3756,11 @@
         {
             "topic": "WA: LarpLarpsahooor",
             "timestamp": "2026-10-11 23:29:12"
+        },
+        {
+            "topic": "WA: Adolf Hitler",
+            "timestamp": "2026-10-11 23:29:22"
         }
     ],
-    "last_updated": "2026-10-11 23:29:12"
+    "last_updated": "2026-10-11 23:29:22"
 }
