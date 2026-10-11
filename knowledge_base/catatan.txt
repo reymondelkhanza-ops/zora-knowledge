@@ -9961,3 +9961,23 @@ Isi Pengetahuan:
  2. [Fast and provable algorithms for spectrally sparse signal reconstruction via low-rank Hankel matrix completion](http://dx.doi.org/10.1016/j.acha.2017.04.004). Applied and Computational Harmonic Analysis, 2017.
  3. [Hankel Matrix Nuclear Norm Regularized Tensor Completion for N-dimensional Exponential Signals](https://doi.org/10.1109/TSP.2017.2695566). IEEE Transactions on Signal Proce
 ----------------------------------------
+
+Topik: GitHub Global: crestalnetwork/intentkit / LLM.md
+Isi Pengetahuan:
+# IntentKit LLM Guide
+
+## Architecture
+
+- `intentkit/` — pip package
+  - `core/` — agent system (LangGraph)
+    - `system_tools/` — built-in system tools
+  - `models/` — Pydantic + SQLAlchemy dual models
+  - `config/` — system config (DB, LLM keys, tool provider keys)
+  - `tools/` — tool system (LangChain BaseTool)
+  - `wallets/` — wallet providers (CDP, Privy, native Web3)
+  - `abstracts/` — interfaces for core/ and tools/
+  - `utils/` — utilities
+  - `clients/` — external service clients
+- `app/` — API server, autonomous runner, background scheduler
+- `frontend/` — Next.js agent management U
+----------------------------------------
