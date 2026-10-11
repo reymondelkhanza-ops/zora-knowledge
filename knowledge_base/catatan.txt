@@ -7939,3 +7939,24 @@ Isi Pengetahuan:
 - https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793) + https://schiener.io/2
 ----------------------------------------
+
+Topik: GitHub Global: Azure/AzureDatabricksBestPractices / toc.md
+Isi Pengetahuan:
+<p align="center">
+    <img width="500" height="300" src="https://github.com/Azure/AzureDatabricksBestPractices/blob/master/ADBicon.jpg">
+</p>
+
+# Azure Databricks Best Practices
+
+Authors: 
+* Dhruv Kumar, Senior Solutions Architect, Databricks 
+* Premal Shah, Azure Databricks PM, Microsoft
+* Bhanu Prakash, Azure Databricks PM, Microsoft
+
+Written by: Priya Aswani, WW Data Engineering & AI Technical Lead 
+
+# Table of Contents
+
+- [Introduction](#Introduction)
+- [Scalable ADB Deployments: Guidelines for Networking, Security, and Capacity Planning](#scalable-ADB-Deployments-Guidelines-for-Networking
+----------------------------------------
