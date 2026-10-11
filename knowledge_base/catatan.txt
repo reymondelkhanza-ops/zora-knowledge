@@ -6260,3 +6260,27 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 + [Visual Studio Code Plugin](https://
 ----------------------------------------
+
+Topik: GitHub Global: luminati-io/Awesome-Web-Scraping / r.md
+Isi Pengetahuan:
+# R Web Scraping
+
+This document contains a list of libraries and resources for web scraping in R.
+
+## Table of Contents
+
+- [Libraries](#libraries)
+  - [Network](#network)
+    - [HTTP Clients and WebSockets](#http-clients-and-websockets)
+    - [WebSockets](#websockets)
+    - [Other](#other)
+  - [Parsers](#parsers)
+    - [HTML/XML Parsers](#htmlxml-parsers)
+    - [URL Parsers](#url-parsers)
+    - [CSV Parsers](#csv-parsers)
+    - [Date and Time Parsers](#date-and-time-parsers)
+    - [PDF Parsers](#pdf-parsers)
+    - [Markdown Parsers](#markdown-parsers)
+    - [YAML Parsers](#yaml-parsers)
+    - 
+----------------------------------------
