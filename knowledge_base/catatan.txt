@@ -335,3 +335,11 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 介绍:PostgreSQL 源码分析系列文章
 
 * [《PG 内存上下文》](http://ww...
+
+Topik: GitHub: GitHub (Together-Java/TJ-Bot / PP.md)
+Ringkasan: # Privacy Policy
+
+## Definitions
+
+* "**TJ-Bot**" (also "**bot**") refers to the Discord bot that is subject under this policy
+* "**[Together Java](https://github.com/orgs/Together-Java/teams/moderators/members)**" (also "**We**" or "**Us**") is the group of people responsible for the **TJ-Bot** prod...
