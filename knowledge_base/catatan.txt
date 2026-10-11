@@ -596,3 +596,8 @@ Scan and save tokens from:
 - **Raydium AMM V4** (pool creation + liquidity)
 - **Orca Whirlpool** (co
 ----------------------------------------
+
+Topik: Wikipedia: Basis data relasional
+Isi Pengetahuan:
+Basis data Oracle adalah basis data relasional yang terdiri dari kumpulan data dalam suatu sistem manajemen basis data RDBMS. Perusahaan perangkat lunak Oracle memasarkan jenis basis data ini untuk bermacam-macam aplikasi yang bisa berjalan pada banyak jenis dan merk perangkat keras komputer (platform).
+----------------------------------------
