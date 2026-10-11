@@ -4004,3 +4004,31 @@ Odoo 起初是一个后台系统，但很快就有了前端界面的需求。早
 
 本文中我们将为图书会员添加一个自助服务功能。可供会员分别登录账号来访问他们的借阅请求列表。这样我们就可以学习网站开发的基本技术：创建动态页面、在页面间传递参数、创建表单以及处理表单数据验证。对这些新的图书网站功能，我
 ----------------------------------------
+
+Topik: GitHub Global: apachecn/ds-ai-tech-notes / 9.md
+Isi Pengetahuan:
+# 九、模型验证
+
+> 作者：[Chris Albon](https://chrisalbon.com/)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+# 准确率
+
+![](img/44cffe94ab676a80cb08e22bc19fb02d.jpg)
+
+```py
+# 加载库
+from sklearn.model_selection import cross_val_score
+from sklearn.linear_model import LogisticRegression
+from sklearn.datasets import make_classification
+
+# 生成特征矩阵和目标向量
+X, y = make_classification(n_samples = 10000,
+                           n_features = 3,
+                           n_informative = 3,
+                           n_redundant = 0,
+         
+----------------------------------------
