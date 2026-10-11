@@ -817,3 +817,8 @@ Written by: Priya Aswani, WW Data Engineering & AI Technical Lead
 - [Introduction](#Introduction)
 - [Scalable ADB Deployments: Guidelines for Networking, Security, and Capacity Planning](#scalable-ADB-Deployments-Guidelines-for-Networking
 ----------------------------------------
+
+Topik: Wikipedia: Teori relativitas
+Isi Pengetahuan:
+Teori relativitas adalah teori yang membahas mengenai kecepatan dan percepatan yang diukur secara berbeda melalui kerangka acuan. Konsep dasar dari teori relativitas disusun oleh Albert Einstein menjadi dua jenis, yaitu teori relativitas khusus dan teori relativitas umum. Kedua teori ini diciptakan untuk menjelaskan bahwa gelombang elektromagnetik tidak sesuai dengan teori gerakan Newton. Gelombang elektromagnetik dibuktikan bergerak pada kecepatan yang konstan, tanpa dipengaruhi gerakan sang pengamat. Inti pemikiran dari kedua teori ini adalah bahwa dua pengamat yang bergerak relatif terhadap
+----------------------------------------
