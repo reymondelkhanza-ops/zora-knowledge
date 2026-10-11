@@ -822,3 +822,27 @@ Topik: Wikipedia: Teori relativitas
 Isi Pengetahuan:
 Teori relativitas adalah teori yang membahas mengenai kecepatan dan percepatan yang diukur secara berbeda melalui kerangka acuan. Konsep dasar dari teori relativitas disusun oleh Albert Einstein menjadi dua jenis, yaitu teori relativitas khusus dan teori relativitas umum. Kedua teori ini diciptakan untuk menjelaskan bahwa gelombang elektromagnetik tidak sesuai dengan teori gerakan Newton. Gelombang elektromagnetik dibuktikan bergerak pada kecepatan yang konstan, tanpa dipengaruhi gerakan sang pengamat. Inti pemikiran dari kedua teori ini adalah bahwa dua pengamat yang bergerak relatif terhadap
 ----------------------------------------
+
+Topik: GitHub Global: luminati-io/Awesome-Web-Scraping / r.md
+Isi Pengetahuan:
+# R Web Scraping
+
+This document contains a list of libraries and resources for web scraping in R.
+
+## Table of Contents
+
+- [Libraries](#libraries)
+  - [Network](#network)
+    - [HTTP Clients and WebSockets](#http-clients-and-websockets)
+    - [WebSockets](#websockets)
+    - [Other](#other)
+  - [Parsers](#parsers)
+    - [HTML/XML Parsers](#htmlxml-parsers)
+    - [URL Parsers](#url-parsers)
+    - [CSV Parsers](#csv-parsers)
+    - [Date and Time Parsers](#date-and-time-parsers)
+    - [PDF Parsers](#pdf-parsers)
+    - [Markdown Parsers](#markdown-parsers)
+    - [YAML Parsers](#yaml-parsers)
+    - 
+----------------------------------------
