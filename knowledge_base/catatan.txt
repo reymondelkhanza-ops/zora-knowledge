@@ -390,3 +390,13 @@ Ringkasan: # Privacy Policy
 
 * "**TJ-Bot**" (also "**bot**") refers to the Discord bot that is subject under this policy
 * "**[Together Java](https://github.com/orgs/Together-Java/teams/moderators/members)**" (also "**We**" or "**Us**") is the group of people responsible for the **TJ-Bot** prod...
+
+Topik: GitHub: GitHub (thlorenz/v8-perf / gc.md)
+Ringkasan: # V8 Garbage Collector
+
+_find the previous version of this document at
+[crankshaft/gc.md](crankshaft/gc.md)_
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [Do...
