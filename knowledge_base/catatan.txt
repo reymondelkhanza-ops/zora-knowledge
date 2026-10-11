@@ -184,3 +184,6 @@ Ringkasan: # Privacy Policy
 
 * "**TJ-Bot**" (also "**bot**") refers to the Discord bot that is subject under this policy
 * "**[Together Java](https://github.com/orgs/Together-Java/teams/moderators/members)**" (also "**We**" or "**Us**") is the group of people responsible for the **TJ-Bot** prod...
+
+Topik: Termodinamika
+Ringkasan: Termodinamika merupakan salah satu cabang fisika yang membahas mengenai perubahan energi panas menjadi bentuk energi lain. Hukum pertama termodinamika dan hukum termodinamika kedua menjadi acuan dalam membahas mengenai perubahan energi. Pengukuran di dalam termodinamika tidak dinyatakan dengan besar...
