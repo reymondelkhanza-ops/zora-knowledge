@@ -382,3 +382,11 @@ Ringkasan: ### Program usage
 
 The encoding and decoding algorithms implemented by FastECC were described in the paper
 [An Efficient (n,k)...
+
+Topik: GitHub: GitHub (Together-Java/TJ-Bot / PP.md)
+Ringkasan: # Privacy Policy
+
+## Definitions
+
+* "**TJ-Bot**" (also "**bot**") refers to the Discord bot that is subject under this policy
+* "**[Together Java](https://github.com/orgs/Together-Java/teams/moderators/members)**" (also "**We**" or "**Us**") is the group of people responsible for the **TJ-Bot** prod...
