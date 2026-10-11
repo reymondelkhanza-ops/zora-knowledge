@@ -170,3 +170,6 @@ Ringkasan: Internet adalah sistem jaringan komputer yang saling terhubung secara
 
 Topik: Bursa saham
 Ringkasan: Bursa efek adalah sebuah pasar yang berhubungan dengan pembelian dan penjualan efek perusahaan yang sudah terdaftar di bursa itu. Bursa efek tersebut, bersama-sama dengan pasar uang merupakan sumber utama permodalan eksternal bagi perusahaan dan pemerintah. Biasanya terdapat suatu lokasi pusat, seti...
+
+Topik: Sejarah komputer
+Ringkasan: Sejarah komputer berawal dari abad ke-19, ketika Charles Babbage mencoba untuk mendesain komputer mekanik yang bernama Mesin Analitikal. Desain ini menjadi basis kerangka desain komputer sekarang....
