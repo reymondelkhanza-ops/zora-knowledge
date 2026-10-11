@@ -9613,3 +9613,18 @@ _Doing these steps in order is more likely to result in success_
 
 In the environment file `apps/passport-server/.env`, fill in the `TELEGRAM_BOT_TOKEN` with the Telegram token you
 ----------------------------------------
+
+Topik: GitHub Global: opencomponents/oc / V1.md
+Isi Pengetahuan:
+# OpenComponents v1 — Re-architecture Plan
+
+Status: Draft · Generated 2026-07-26 · Progress last synced against merged and open PRs 2026-08-10
+
+**Legend:** ✅ Done · 🚧 In progress · ⬜ Not started
+
+This document describes the **full re-architecture** we intend to ship as OpenComponents
+`v1`. It is the "breaking swing": the changes that genuinely require a major version.
+Non-breaking modernization (promise APIs added additively, internal ESM migration,
+dependency hygiene) does **not** need to wait for v1 — it lands incrementally on the
+`0.x` line first, so that v1 itself is mostly *removals* plus
+----------------------------------------
