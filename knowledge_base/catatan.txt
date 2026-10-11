@@ -23,3 +23,20 @@ Ringkasan: **AI :: Artificial Intelligence, Cognitive Science, Machine Learning 
 
 Topik: Basis data relasional
 Ringkasan: Basis data Oracle adalah basis data relasional yang terdiri dari kumpulan data dalam suatu sistem manajemen basis data RDBMS. Perusahaan perangkat lunak Oracle memasarkan jenis basis data ini untuk bermacam-macam aplikasi yang bisa berjalan pada banyak jenis dan merk perangkat keras komputer (platfo...
+
+Topik: GitHub: GitHub (wizardforcel/web-hacking-101-zh / 8.md)
+Ringkasan: # 八、跨站请求伪造
+
+> 作者：Peter Yaworski
+
+> 译者：[飞龙](https://github.com/)
+
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## 描述
+
+跨站请求伪造，或 CSRF 攻击，在恶意网站、电子邮件、即使消息、应用以及其它，使用户的 Web 浏览器执行其它站点上的一些操作，并且用户已经授权或登录了该站点时发生。这通常会在用户不知道操作已经执行的情况下发生。
+
+CSRF 攻击的影响取决于收到操作的站点。这里是一个例子：
+
+1.  Bob 登录了它的...
