@@ -343,3 +343,10 @@ Ringkasan: # Privacy Policy
 
 * "**TJ-Bot**" (also "**bot**") refers to the Discord bot that is subject under this policy
 * "**[Together Java](https://github.com/orgs/Together-Java/teams/moderators/members)**" (also "**We**" or "**Us**") is the group of people responsible for the **TJ-Bot** prod...
+
+Topik: GitHub: GitHub (davidfowl/DotNetCodingPatterns / 1.md)
+Ringkasan: # Table of contents
+ - [Generics types as a factory](#generics-types-as-a-factory)
+ - [Lazy initialization of services](#lazy-initialization-of-services)
+ - [Single implementation multiple interfaces](#single-implementation-multiple-interfaces)
+ - [Creating instances of types from an IServiceProvide...
