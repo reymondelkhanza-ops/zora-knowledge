@@ -5003,3 +5003,24 @@ Isi Pengetahuan:
 
 <!-- END doctoc generated TOC please keep comment h
 ----------------------------------------
+
+Topik: GitHub Global: Michael-Meade/snackhack2 / WEB.md
+Isi Pengetahuan:
+#### Web
+
+- [WordPress](#wordpress)
+- [Getting Server Header](#getting-server-header)
+  * [cURL](#curl)
+  * [Cloudflare](#cloudflare)
+  * [Cloudfront](#cloudfront)
+  * [Detect Headers](#detect-headers)
+- [Robots.txt](#robotstxt)
+  * [Disallow](#disallow)
+  * [Allow](#allow)
+- [Google Analytics](#google-analytics)
+  * [Scrape Top million site's GA](#scrape-top-million-sites-ga)
+  * [Stats on Scrapped GA's](#stats-on-scrapped-gas)
+- [Get site's CERT Hash](#get-site-s-cert-hash)
+- [Get ALL the links of a site](#get-all-the-links-of-a-site)
+- [Get site's Meta Data](#get-site-s-meta
+----------------------------------------
