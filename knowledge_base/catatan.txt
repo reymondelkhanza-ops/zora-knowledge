@@ -7985,3 +7985,43 @@ Isi Pengetahuan:
 
 在系统设计面试之前，我们已经在《系统设计面试之前需要知道的八件事》中谈到，就是从简单的东西开始。让我们专注于构建在单线程上运行的基本网页爬虫。有了这
 ----------------------------------------
+
+Topik: GitHub Global: JDubas/gs_mobile / API.md
+Isi Pengetahuan:
+## Endpoints da API Flask
+
+## Dependências para rodar a API
+
+- Python 3
+- Flask
+- Flask-CORS
+- OracleDB
+
+```bash
+pip install flask
+pip install flask-cors
+pip install oracledb
+```
+
+Use o comnando abaixo para rodar a  api localmente:
+```bash
+npm run api
+```
+
+
+### POST /upload-image
+- **Descrição:** Upload de uma imagem para o servidor.
+
+### POST /login
+- **Descrição:** Autenticação do usuário.
+- **Exemplo: **  http://127.0.0.1:5000/login
+    ```json
+  {
+    "email": "example@example.com",
+    "senha": "senha"
+  }
+  ```
+
+### POST /recuperar-senha
+- **Descrição:** Recuperação de senha com base no 
+----------------------------------------
