@@ -939,3 +939,18 @@ Isi Pengetahuan:
 
 在系统设计面试之前，我们已经在《系统设计面试之前需要知道的八件事》中谈到，就是从简单的东西开始。让我们专注于构建在单线程上运行的基本网页爬虫。有了这
 ----------------------------------------
+
+Topik: GitHub Global: fdhhhdjd/Class_NodeJs_Systems / BOT.md
+Isi Pengetahuan:
+# BOT 
+
+# 1. TELEGRAM
+
+## Into telegram enter with BotFather
+```cmd
+    /newbot
+    class_telegram
+    class_telegram_bot
+    click open telegram bot
+```
+----------------------------------------
