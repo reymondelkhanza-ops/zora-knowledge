@@ -5582,3 +5582,26 @@ Isi Pengetahuan:
 
 - [用一年时间如何能掌握 C++ ？](htt
 ----------------------------------------
+
+Topik: GitHub Global: theshashankk/DocuMindAI / BOT.md
+Isi Pengetahuan:
+# 🤖 DocuMind AI — Telethon Telegram Bot Guide
+
+```text
+ # © 2026 Shashank Sharma. All Rights Reserved. The Project: DocuMind AI — Multi-Agent Document & Contract Intelligence Engine
+```
+
+Author: **Shashank Sharma** · Portfolio: [https://theshashankk.qzz.io](https://theshashankk.qzz.io) · License: **Apache 2.0**
+
+---
+
+## ⚡ Quick Execution Guide (The Easy Way)
+
+To kick off the **entire application** — the Telegram Bot, the FastAPI backend REST API, and the Streamlit Web Dashboard — you don't need three separate commands. Just run:
+
+```bash
+python bot.py
+```
+
+> **🔥 How it works**: Running `python
+----------------------------------------
