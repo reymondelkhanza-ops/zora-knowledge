@@ -4841,3 +4841,21 @@ Nmap 可能是世界上最广泛使用的端口扫描器。他可以用于识别
 
 这个秘籍中，我们会使用 Nmap 来识别运行
 ----------------------------------------
+
+Topik: GitHub Global: google/grr-doc / faq.md
+Isi Pengetahuan:
+# Frequently Asked Questions
+
+## Who wrote GRR and Why?
+
+GRR started at Google as a 20% project and gained in popularity until it
+became fully-supported and open sourced. The primary motivation was that
+we felt the state of the art for incident response was going in the
+wrong direction, and wasn’t going to meet our cross platform,
+scalability, obfuscation or flexibility goals for an incident response
+agent.
+
+Additionally, we believe that for things to progress in security,
+everyone has to up their game and improve their capabilities. We hope
+that by open sourcing GRR, we can foster development
+----------------------------------------
