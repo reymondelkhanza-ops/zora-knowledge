@@ -3071,3 +3071,42 @@ Isi Pengetahuan:
 + [UNSUPERVISED LEARNING](#unsupervised-learning)
    + [Neural Networks](#neural-networ
 ----------------------------------------
+
+Topik: GitHub Global: Azure/AzureDatabricksBestPractices / toc.md
+Isi Pengetahuan:
+<p align="center">
+    <img width="500" height="300" src="https://github.com/Azure/AzureDatabricksBestPractices/blob/master/ADBicon.jpg">
+</p>
+
+# Azure Databricks Best Practices
+
+Authors: 
+* Dhruv Kumar, Senior Solutions Architect, Databricks 
+* Premal Shah, Azure Databricks PM, Microsoft
+* Bhanu Prakash, Azure Databricks PM, Microsoft
+
+Written by: Priya Aswani, WW Data Engineering & AI Technical Lead 
+
+# Table of Contents
+
+- [Introduction](#Introduction)
+- [Scalable ADB Deployments: Guidelines for Networking, Security, and Capacity Planning](#scalable-ADB-Deployments-Guidelines-for-Networking
+----------------------------------------
+
+Topik: GitHub Global: svaksha/pythonidae / AI.md
+Isi Pengetahuan:
+**AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural Nets, NLP, etc...**
+
+
++ [§1. AI](#1-AI)
++ [§2. DATA SCIENCE](#2-DATA-SCIENCE)
++ [§3. MACHINE LEARNING](#3-MACHINE-LEARNING)
+   + [§3.1. Deep Learning](#3-1-Deep-Learning)
+   + [§3.2. Classification Algorithms](#3-2-Classification-Algorithms)
+   + [§3.3. Graph Theory](#3-3-Graph-Theory)
+   + [§3.4. GPU](#3-4-GPU)
++ [§4. NLP](#4-NLP)
+   + [§4.1. Computational Linguistics](#4-1-Computational-Linguistics)
+        + [§4.1.1. Named Entity Recognition](#4-1-1-Named-Entity-Recognition)
+   + [§4.2. Digital 
+----------------------------------------
