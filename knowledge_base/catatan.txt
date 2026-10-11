@@ -601,3 +601,49 @@ Topik: Wikipedia: Basis data relasional
 Isi Pengetahuan:
 Basis data Oracle adalah basis data relasional yang terdiri dari kumpulan data dalam suatu sistem manajemen basis data RDBMS. Perusahaan perangkat lunak Oracle memasarkan jenis basis data ini untuk bermacam-macam aplikasi yang bisa berjalan pada banyak jenis dan merk perangkat keras komputer (platform).
 ----------------------------------------
+
+Topik: GitHub Global: GenPRD/genprd-react-app / API.md
+Isi Pengetahuan:
+# GenPRD API Documentation
+
+## Base URL
+
+All API endpoints are prefixed with:
+
+```
+/api
+```
+
+For local development, the full URL would be:
+
+```
+http://localhost:3000/api
+```
+
+For production, the full URL would be:
+
+```
+https://express-backend-418864732285.asia-southeast2.run.app/api
+```
+
+## Authentication
+
+### Google OAuth
+
+#### GET /api/auth/google
+
+Initiates Google OAuth authentication flow.
+
+**Response:** Redirects to Google authentication page.
+
+#### GET /api/auth/google/callback
+
+Callback endpoint for Google OAuth authentication.
+
+**Response:**
+
+```json
+{
+  "status": "success",
+  "message
+----------------------------------------
