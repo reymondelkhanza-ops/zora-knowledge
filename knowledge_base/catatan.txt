@@ -10,3 +10,13 @@ Ringkasan: # 2.0 Technologies and Tools
 
 Topik: Mesin roket
 Ringkasan: Roket merupakan wahana luar angkasa, peluru kendali, atau kendaraan terbang yang mendapatkan dorongan melalui reaksi roket terhadap keluarnya secara cepat bahan fluida dari keluaran mesin roket. Aksi dari keluaran dalam ruang bakar dan nozle pengembang, mampu membuat gas mengalir dengan kecepatan hi...
+
+Topik: GitHub: GitHub (svaksha/pythonidae / AI.md)
+Ringkasan: **AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural Nets, NLP, etc...**
+
+
++ [§1. AI](#1-AI)
++ [§2. DATA SCIENCE](#2-DATA-SCIENCE)
++ [§3. MACHINE LEARNING](#3-MACHINE-LEARNING)
+   + [§3.1. Deep Learning](#3-1-Deep-Learning)
+   + [§3.2. Classification Algor...
