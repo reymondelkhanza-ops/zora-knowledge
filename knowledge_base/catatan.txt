@@ -5060,3 +5060,19 @@ rules in `ROADMAP.md` govern this file.
 These are reusable Hex libraries rather than Pi extensions. Building them first
 prevents e
 ----------------------------------------
+
+Topik: GitHub Global: quangdangtranvn/petgen / bot.md
+Isi Pengetahuan:
+Nội dung file `bot.py` trong repo PetGen. Dưới đây là phần mô tả tính năng chi tiết của bot và bảng báo giá triển khai.
+
+---
+
+📄 Mô tả tính năng Bot PetGen (bot.py)
+
+Bot này được xây dựng bằng Python, sử dụng thư viện telebot để tương tác với người dùng qua Telegram. Dưới đây là các tính năng chính:
+___
+| Tính năng | Mô tả |
+|-----------|------|
+| 🎯 Gợi ý giống thú cưng | Dựa trên thông tin người dùng nhập (giới tính, độ tuổi, tính cách, môi trường sống…), bot sẽ gợi ý giống chó/mèo phù hợp |
+| 🗣️ Tương tác qua Telegram | Bot hoạt động trên nền tảng Telegram, nhận và phản hồi tin nhắn người dùn
+----------------------------------------
