@@ -3576,3 +3576,31 @@ List all Sales Dialer campaigns.
 - Dictionary containing:
   - `status`: Status of the
 ----------------------------------------
+
+Topik: GitHub Global: vincenzo-afk/ReconGPT / todo.md
+Isi Pengetahuan:
+# Project TODO
+
+- [x] Build a secure server-side API key configuration layer for Shodan, VirusTotal, AbuseIPDB, urlscan.io, IPinfo, and a user-supplied Groq/OpenAI LLM key; never expose keys in the browser.
+- [x] Create database schema and query helpers for recon runs, module events, normalized entities, entity relationships, analyst settings, and persisted reports.
+- [x] Implement a server-sent event stream for real-time recon module status and finding events without client polling.
+- [x] Build normalized target parsing and input validation for domains, IPv4/IPv6 addresses, email addresses, u
+----------------------------------------
+
+Topik: GitHub Global: svaksha/pythonidae / AI.md
+Isi Pengetahuan:
+**AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural Nets, NLP, etc...**
+
+
++ [§1. AI](#1-AI)
++ [§2. DATA SCIENCE](#2-DATA-SCIENCE)
++ [§3. MACHINE LEARNING](#3-MACHINE-LEARNING)
+   + [§3.1. Deep Learning](#3-1-Deep-Learning)
+   + [§3.2. Classification Algorithms](#3-2-Classification-Algorithms)
+   + [§3.3. Graph Theory](#3-3-Graph-Theory)
+   + [§3.4. GPU](#3-4-GPU)
++ [§4. NLP](#4-NLP)
+   + [§4.1. Computational Linguistics](#4-1-Computational-Linguistics)
+        + [§4.1.1. Named Entity Recognition](#4-1-1-Named-Entity-Recognition)
+   + [§4.2. Digital 
+----------------------------------------
