@@ -3145,3 +3145,23 @@ Isi Pengetahuan:
         + [§4.1.1. Named Entity Recognition](#4-1-1-Named-Entity-Recognition)
    + [§4.2. Digital 
 ----------------------------------------
+
+Topik: GitHub Global: julianjensen/dominators / RM.md
+Isi Pengetahuan:
+# dominators
+
+[![Coveralls Status][coveralls-image]][coveralls-url]
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][depstat-image]][depstat-url]
+[![npm version][npm-image]][npm-url]
+[![License][license-image]][license-url]
+[![Known Vulnerabilities][snyk-image]][snyk-url]
+[![david-dm][david-dm-image]][david-dm-url]
+
+> Various dominator tree generators.
+
+It implements two different methods for finding the immediate dominators of a graph.
+
+1. Implements a near-linear time iterative dominator generator based on the
+    paper [A Simple, Fast Dominance Algorithm](https://www.cs.ric
+----------------------------------------
