@@ -4095,3 +4095,20 @@ Isi Pengetahuan:
 
 - [用一年时间如何能掌握 C++ ？](htt
 ----------------------------------------
+
+Topik: GitHub Global: senapati484/pandaclaw / bot.md
+Isi Pengetahuan:
+# 🤖 PandaClaw Telegram Bot Creation & Secure Device Pairing Plan
+
+This document details the configuration requirements for creating the PandaClaw Telegram bot using BotFather, along with a secure, zero-config pairing protocol to bind your local machine/device with your Telegram account.
+
+---
+
+## 🔑 Part 1: BotFather Configuration Fields
+
+To create and customize your Telegram Bot, search for [@BotFather](https://t.me/BotFather) on Telegram and execute the following configurations:
+
+### 1. Bot Creation (`/newbot`)
+*   **Command**: `/newbot`
+*   **Name**: Choose a premium, human-readable name for 
+----------------------------------------
