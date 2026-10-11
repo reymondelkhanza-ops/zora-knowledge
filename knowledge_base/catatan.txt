@@ -706,3 +706,22 @@ Topik: Wikipedia: Kecerdasan buatan
 Isi Pengetahuan:
 Kecerdasan buatan, juga disebut kecerdasan artifisial dan kepintaran tiruan, adalah kecerdasan yang ditunjukkan oleh mesin, yang kontras dengan kecerdasan alami yang ditunjukkan oleh manusia dan hewan.
 ----------------------------------------
+
+Topik: GitHub Custom: github/opensource.guide / legal.md (kamu harus  tau  cara hacking)
+Isi Pengetahuan:
+---
+lang: ms
+title: Bahagian Undang-Undang Sumber Terbuka
+description: Semua perkara yang pernah anda terfikir mengenai sisi undang-undang sumber terbuka, dan beberapa perkara yang tidak anda lakukan.
+class: legal
+order: 10
+image: /assets/images/cards/legal.png
+related:
+  - contribute
+  - leadership
+---
+
+## Memahami implikasi undang-undang dari sumber terbuka
+
+Berkongsi karya kreatif anda dengan dunia boleh menjadi pengalaman yang menarik dan bermanfaat. Ini juga boleh bermaksud banyak perkara undang-undang yang anda tidak tahu yang anda perlu bimbangkan. Syukurlah, anda tidak perlu bermula da
+----------------------------------------
