@@ -6284,3 +6284,34 @@ This document contains a list of libraries and resources for web scraping in R.
     - [YAML Parsers](#yaml-parsers)
     - 
 ----------------------------------------
+
+Topik: GitHub Global: lqhuang/flight-rules / web.md
+Isi Pengetahuan:
+---
+title: Web Development
+created: 2023-04-02
+updated: 2023-10-29
+---
+
+## Limit web crawler from search engine
+
+Besides `robots.txt`, there are several other approaches to adjust web crawler's
+behaviors on your sites.
+
+1. `meta` tags in html page
+
+   ```html
+   <meta name="robots" content="noindex, follow" />
+   <meta name="robots" content="index, nofollow" />
+   <meta name="robots" content="noindex, nofollow" />
+   ```
+
+2. `X-Robots-Tag` headers in response
+
+   ```
+   X-Robots-Tag: noindex
+   X-Robots-Tag: unavailable_after: 25 Jun 2010 15:00:00 PST
+   ```
+
+3. Using the `data-nosnippet` HTML
+----------------------------------------
