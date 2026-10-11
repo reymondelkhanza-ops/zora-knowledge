@@ -1,5 +1,5 @@
 {
-    "total_learned": 865,
+    "total_learned": 866,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -1816,7 +1816,11 @@
         {
             "topic": "GitHub: GitHub Global (UCLA-VAST/tapa / CLA.md)",
             "timestamp": "2026-10-11 11:50:44"
+        },
+        {
+            "topic": "GitHub: GitHub Global (Kivy-CN/ml-for-humans-zh / 6.md)",
+            "timestamp": "2026-10-11 11:51:36"
         }
     ],
-    "last_updated": "2026-10-11 11:50:44"
+    "last_updated": "2026-10-11 11:51:36"
 }
