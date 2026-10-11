@@ -10332,3 +10332,21 @@ Isi Pengetahuan:
 - https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793) + https://schiener.io/2
 ----------------------------------------
+
+Topik: GitHub Global: hypit-ai/hypitoken / DR.md
+Isi Pengetahuan:
+# Disaster Recovery — hypitoken
+
+If the server is lost beyond recovery, you can rebuild hypitoken from **the
+project code + the newest object in the `apibackup` bucket**. User balances,
+wallet ledger, payments, sessions, and upstream credentials all survive.
+
+## What gets backed up (daily, encrypted, off-host)
+
+A daily systemd timer runs `hypitoken backup --config <cfg>`, which uploads
+`apibackup/hypitoken/YYYY-MM-DD.tar.gz.enc` (X25519 sealed; rolling 7 days).
+Contents:
+
+- `saas.db` — users (balance_usd), wallet_tx ledger, alipay_orders, user_tokens, … **(money)**
+- `saas.db.jwt_secret` — ses
+----------------------------------------
