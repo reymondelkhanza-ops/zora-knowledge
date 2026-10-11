@@ -1,5 +1,5 @@
 {
-    "total_learned": 1094,
+    "total_learned": 1095,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2320,7 +2320,11 @@
         {
             "topic": "WA: kvn",
             "timestamp": "2026-10-11 16:26:47"
+        },
+        {
+            "topic": "WA: Seseorang",
+            "timestamp": "2026-10-11 16:28:48"
         }
     ],
-    "last_updated": "2026-10-11 16:28:35"
+    "last_updated": "2026-10-11 16:28:48"
 }
