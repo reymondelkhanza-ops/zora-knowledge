@@ -674,3 +674,20 @@ Isi Pengetahuan:
 - [x] Implement a server-sent event stream for real-time recon module status and finding events without client polling.
 - [x] Build normalized target parsing and input validation for domains, IPv4/IPv6 addresses, email addresses, u
 ----------------------------------------
+
+Topik: GitHub Custom: microsoft/IoT-For-Beginners / README.md (kamu  tahu cara merespon orang dengan elegan)
+Isi Pengetahuan:
+# Jaga Keamanan Tanaman Anda
+
+![Gambaran sketchnote dari pelajaran ini](../../../../../translated_images/id/lesson-10.829c86b80b9403bb.webp)
+
+> Sketchnote oleh [Nitya Narasimhan](https://github.com/nitya). Klik gambar untuk versi yang lebih besar.
+
+## Kuis Sebelum Pelajaran
+
+[Kuis Sebelum Pelajaran](https://black-meadow-040d15503.1.azurestaticapps.net/quiz/19)
+
+## Pendahuluan
+
+Dalam beberapa pelajaran terakhir, Anda telah membuat perangkat IoT untuk memantau kelembapan tanah dan menghubungkannya ke cloud. Namun, bagaimana jika peretas yang bekerja untuk petani pesaing berhasil mengambil alih p
+----------------------------------------
