@@ -1,5 +1,5 @@
 {
-    "total_learned": 917,
+    "total_learned": 918,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -1992,7 +1992,11 @@
         {
             "topic": "WA: irgi lopyu",
             "timestamp": "2026-10-11 12:27:30"
+        },
+        {
+            "topic": "WA: irgi lopyu",
+            "timestamp": "2026-10-11 12:27:40"
         }
     ],
-    "last_updated": "2026-10-11 12:27:34"
+    "last_updated": "2026-10-11 12:27:40"
 }
