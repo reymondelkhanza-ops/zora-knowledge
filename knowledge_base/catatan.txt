@@ -2238,3 +2238,23 @@ Additionally, we believe that for things to progress in security,
 everyone has to up their game and improve their capabilities. We hope
 that by open sourcing GRR, we can foster development
 ----------------------------------------
+
+Topik: GitHub Global: crestalnetwork/intentkit / LLM.md
+Isi Pengetahuan:
+# IntentKit LLM Guide
+
+## Architecture
+
+- `intentkit/` — pip package
+  - `core/` — agent system (LangGraph)
+    - `system_tools/` — built-in system tools
+  - `models/` — Pydantic + SQLAlchemy dual models
+  - `config/` — system config (DB, LLM keys, tool provider keys)
+  - `tools/` — tool system (LangChain BaseTool)
+  - `wallets/` — wallet providers (CDP, Privy, native Web3)
+  - `abstracts/` — interfaces for core/ and tools/
+  - `utils/` — utilities
+  - `clients/` — external service clients
+- `app/` — API server, autonomous runner, background scheduler
+- `frontend/` — Next.js agent management U
+----------------------------------------
