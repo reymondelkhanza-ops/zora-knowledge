@@ -1,5 +1,5 @@
 {
-    "total_learned": 1222,
+    "total_learned": 1223,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2632,7 +2632,11 @@
         {
             "topic": "GitHub Global: xinychen/tracebase / bib.md",
             "timestamp": "2026-10-11 20:24:57"
+        },
+        {
+            "topic": "GitHub Global: costinEEST/almanacs / db.md",
+            "timestamp": "2026-10-11 20:26:16"
         }
     ],
-    "last_updated": "2026-10-11 20:25:36"
+    "last_updated": "2026-10-11 20:26:16"
 }
