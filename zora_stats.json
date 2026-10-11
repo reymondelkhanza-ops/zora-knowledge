@@ -1,5 +1,5 @@
 {
-    "total_learned": 1030,
+    "total_learned": 1031,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2236,7 +2236,11 @@
         {
             "topic": "GitHub: GitHub (Andrewmika/Xcode-Server-and-Continuous-Integration-Guide-in-Chinese / 6.md)",
             "timestamp": "2026-10-11 15:37:32"
+        },
+        {
+            "topic": "GitHub: GitHub (rShetty/awesome-podcasts / DE.md)",
+            "timestamp": "2026-10-11 15:38:16"
         }
     ],
-    "last_updated": "2026-10-11 15:37:32"
+    "last_updated": "2026-10-11 15:38:16"
 }
