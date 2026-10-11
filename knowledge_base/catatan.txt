@@ -1147,3 +1147,8 @@ Topik: Wikipedia: Termodinamika
 Isi Pengetahuan:
 Termodinamika merupakan salah satu cabang fisika yang membahas mengenai perubahan energi panas menjadi bentuk energi lain. Hukum pertama termodinamika dan hukum termodinamika kedua menjadi acuan dalam membahas mengenai perubahan energi. Pengukuran di dalam termodinamika tidak dinyatakan dengan besaran mikroskopis melainkan dengan besaran makroskopis. Termodinamika membahas mengenai hubungan antara energi, panas, kerja, entropi dan kespontanan proses. Termodinamika berhubungan dekat dengan mekanika statistika di mana hubungan termodinamika berasal. Asal kata termodinamika adalah dari dua kata b
 ----------------------------------------
+
+Topik: Wikipedia: Mesin roket
+Isi Pengetahuan:
+Roket merupakan wahana luar angkasa, peluru kendali, atau kendaraan terbang yang mendapatkan dorongan melalui reaksi roket terhadap keluarnya secara cepat bahan fluida dari keluaran mesin roket. Aksi dari keluaran dalam ruang bakar dan nozle pengembang, mampu membuat gas mengalir dengan kecepatan hipersonik sehingga menimbulkan dorongan reaktif yang besar untuk roket. Sering kali definisi roket digunakan untuk merujuk kepada mesin roket.
+----------------------------------------
