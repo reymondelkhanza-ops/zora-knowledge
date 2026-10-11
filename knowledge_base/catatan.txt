@@ -1085,3 +1085,8 @@ rag = CyberThreatRAG(db_path="./chroma_db", persist=True)
 
 Load CVE and NIST vulnerab
 ----------------------------------------
+
+Topik: Wikipedia: Internet
+Isi Pengetahuan:
+Internet adalah sistem jaringan komputer yang saling terhubung secara global dengan menggunakan paket protokol internet (TCP/IP) untuk menghubungkan perangkat di seluruh dunia. Ini adalah jaringan dari jaringan yang terdiri dari jaringan privat, publik, akademik, bisnis, dan pemerintah lokal ke lingkup global, dihubungkan oleh beragam teknologi elektronik, nirkabel, dan jaringan optik. Internet membawa beragam sumber daya dan layanan informasi, seperti dokumen hiperteks yang saling terkait dan aplikasi World Wide Web (WWW), surat elektronik, telepon, dan berbagi berkas.
+----------------------------------------
