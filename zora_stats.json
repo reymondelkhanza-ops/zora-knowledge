@@ -1,5 +1,5 @@
 {
-    "total_learned": 927,
+    "total_learned": 928,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2024,7 +2024,11 @@
         {
             "topic": "GitHub: GitHub (ty4z2008/Qix / pg.md)",
             "timestamp": "2026-10-11 12:32:01"
+        },
+        {
+            "topic": "WA: Seseorang",
+            "timestamp": "2026-10-11 12:37:01"
         }
     ],
-    "last_updated": "2026-10-11 12:36:34"
+    "last_updated": "2026-10-11 12:37:01"
 }
