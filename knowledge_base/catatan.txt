@@ -2487,3 +2487,18 @@ Rather than being a(nother) feature in nodemon, and as per the [design principle
 
 In your `nodemon.json` (or in your `package.json`) you can include the following event handler to
 ----------------------------------------
+
+Topik: GitHub Global: remy/nodemon / faq.md
+Isi Pengetahuan:
+# FAQ
+
+This is being added to as common issues occur on the [issues](http://github.com/remy/nodemon/issues), and where appropriate the answers will be added here.
+
+This is a working document, and if it makes sense, I'll take pull requests to help make it better.
+
+# How to clear the console on restart
+
+Rather than being a(nother) feature in nodemon, and as per the [design principles](https://github.com/remy/nodemon#design-principles) you can clear the console using nodemon's existing architecture.
+
+In your `nodemon.json` (or in your `package.json`) you can include the following event handler to
+----------------------------------------
