@@ -1,5 +1,5 @@
 {
-    "total_learned": 948,
+    "total_learned": 949,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2080,7 +2080,11 @@
         {
             "topic": "GitHub: GitHub (majek/dump / a.md)",
             "timestamp": "2026-10-11 14:40:47"
+        },
+        {
+            "topic": "GitHub: GitHub (JakeSteam/Mermaid / c4.md)",
+            "timestamp": "2026-10-11 14:43:05"
         }
     ],
-    "last_updated": "2026-10-11 14:42:16"
+    "last_updated": "2026-10-11 14:43:05"
 }
