@@ -4898,3 +4898,30 @@ Identify break points and follow them.
 |[popins](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#popins)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3801)|[source](https://github.com/bkehr/popins)|Assembly of unmapped reads across multiple samples, placing of contigs into reference genome, genotyping|
 |[svaba](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svaba)|2017|Broad Institute|[study](http://biorxiv.org/content/early/2017/0
 ----------------------------------------
+
+Topik: GitHub Global: an2in/Network-Forensics / wu.md
+Isi Pengetahuan:
+# Lets do network forensicsssssssssssss
+I am tasked with doing all these challenges in ~~1~~ 2 week**s** <img src="pepeluv.png" width="20" height="16" />.
+
+**Lab Cyberdefender**
+
+    PsExec Hunt
+    BlueSky Ransomware
+    HawkEye
+    PacketMaze
+    HoneyBot
+    Acoustic
+    WireDive
+**Viblo Asia CTF**
+
+    Netlab 1,2,6,7,8
+
+Lets do it bb.
+## PsExec Hunt
+I am given a pcap file and I need to asnwer 7 questions.
+
+**Question 1: To effectively trace the attacker's activities within our network, can you identify the IP address of the machine from which the attacker initially gained access?**
+
+I quic
+----------------------------------------
