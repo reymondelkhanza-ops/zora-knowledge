@@ -492,3 +492,9 @@ Ringkasan: # R
 * [Basic Statistics](https://www.coursera.org/learn/basic-statistics)
 * [Анализ данных на R в примерах и задачах (Computer Science Center, videos)](http://www.youtube.com/playlist?list=PLlb7e2G7aSpSSa_PlFEwnd6-3gzAa08_m)
 * [Advanced R ...
+
+Topik: GitHub: GitHub (aaronshaf/security-plus / 2.md)
+Ringkasan: # 2.0 Technologies and Tools
+
+- [2.0 Technologies and Tools](#20-technologies-and-tools)
+  - [2.1 Install and configure network components, both hardware and software-based, to support organizational security.](#21-install-and-configure-network-components-both-hardware-and-software-based-to-support-...
