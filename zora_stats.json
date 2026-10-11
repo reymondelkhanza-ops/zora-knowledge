@@ -1,5 +1,5 @@
 {
-    "total_learned": 899,
+    "total_learned": 900,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -1936,7 +1936,11 @@
         {
             "topic": "GitHub: GitHub Global (dotnetcore/WTM / QA.md)",
             "timestamp": "2026-10-11 12:11:34"
+        },
+        {
+            "topic": "Membuat Komunitas Belajar yang Sehat",
+            "timestamp": "2026-10-11 12:12:18"
         }
     ],
-    "last_updated": "2026-10-11 12:11:34"
+    "last_updated": "2026-10-11 12:12:18"
 }
