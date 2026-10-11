@@ -1685,3 +1685,27 @@ ___
 | 🎯 Gợi ý giống thú cưng | Dựa trên thông tin người dùng nhập (giới tính, độ tuổi, tính cách, môi trường sống…), bot sẽ gợi ý giống chó/mèo phù hợp |
 | 🗣️ Tương tác qua Telegram | Bot hoạt động trên nền tảng Telegram, nhận và phản hồi tin nhắn người dùn
 ----------------------------------------
+
+Topik: GitHub Global: ddwhan0123/Useful-Open-Source-Android / Dao.md
+Isi Pengetahuan:
+## 数据库：<br>
+
+
+
+
+项目名：realm-java<br>
+git地址：https://github.com/realm/realm-java<br>
+预览:<br>
+<img src="https://github.com/realm/realm-java/raw/master/logo.png" width="30%"/><br>
+描述：Realm is a mobile database: a replacement for SQLite & ORMs http://realm.io<br>
+
+项目名：inquiry<br>
+git地址：https://github.com/afollestad/inquiry<br>
+描述：Inquiry is a simple library for Android that makes construction and use of SQLite databases super easy<br>
+
+项目名：Paper<br>
+git地址：https://github.com/pilgr/Paper<br>
+预览:<br>
+<img src="https://github.com/pilgr/Paper/raw/master/paper_icon.png" width="30%"/><br>
+描述：Fast and simple
+----------------------------------------
