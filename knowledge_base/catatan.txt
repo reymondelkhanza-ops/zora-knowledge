@@ -10180,3 +10180,18 @@ behaviors on your sites.
 
 3. Using the `data-nosnippet` HTML
 ----------------------------------------
+
+Topik: GitHub Global: datasets/commons / ai.md
+Isi Pengetahuan:
+---
+title: Artificial Intelligence
+description: Datasets tracking AI model development, technology adoption, compute trends, and related indicators.
+keywords: ai datasets, artificial intelligence data, machine learning models, technology adoption, ai progress
+date: 2026-03-13
+modified: 2026-03-13
+---
+
+Artificial intelligence has become one of the defining technological forces of our era. This collection brings together datasets tracking the progress of AI — from historical adoption curves and compute scaling to model capability benchmarks and economic impact indicators.
+
+## Datasets on DataHub
+----------------------------------------
