@@ -117,3 +117,16 @@ Ringkasan: # 从零开始的自制Vtuber: 6.与神之假身的接触
 在之前的章节里，莉沫酱的五官位置都是固定的，现在我们来让她做一些不同的表情！
 
 我们...
+
+Topik: GitHub: GitHub (mayfrost/guides / X.md)
+Ringkasan: # X
+Set __X__ and a desktop environment fast.
+
+1. [INSTALLING X](#installing-x)  
+2. [CONFIGURING X](#configuring-x)  
+2.1. [SCREEN RESOLUTION](#screen-resolution)  
+2.2. [SCREEN TEARING](#screen-tearing)  
+3. [FONTS](#fonts)  
+3.1. [CORE FONTS](#core-fonts)  
+3.2. [FONTCONFIG](#fontconfig)  
+4. [TH...
