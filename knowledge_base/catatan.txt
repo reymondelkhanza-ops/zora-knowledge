@@ -7440,3 +7440,12 @@ Membuat tiga tabel.
 2.	users_hobby - Hobi pengguna disimpan di sini.
 3.	users_city - Kota pengguna di
 ----------------------------------------
+
+Topik: GitHub Global: dhamaniasad/top10k / c++.md
+Isi Pengetahuan:
+1. [nw.js](https://github.com/nwjs/nw.js) [25137, 2760]: *Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.*
+2. [electron](https://github.com/atom/electron) [18404, 1590]: *Build cross platform desktop apps with web technologies*
+3. [phantomjs](https://github.com/ariya/phantomjs) [15601, 3089]: *Scriptable Headless WebKit*
+4. [hhvm](https://github.com/facebook/hhvm) [12751, 2308]: *A virtual machine designed for executing programs written in Hack and PHP. *
+5. [rethinkdb](https://github.com/rethinkdb/rethinkdb) [10691, 891]: *The
+----------------------------------------
