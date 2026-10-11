@@ -367,3 +367,7 @@ bot是Xcode Server在源代码仓库中对当前版本的项目执行持续集�
 在开发Mac上，_scheme_是构建您产品的方案。一个scheme包含target、源文件和构成产品的所有其他内容。它同时也定义了在集成期间bot执行的操作。要自动化集成，您需要共享scheme并创建一个bot在需要的时候使用scheme执行集成。bot可被配置运行在：
 
   - ...
+
+Topik: GitHub: GitHub (Andrewmika/Xcode-Server-and-Continuous-Integration-Guide-in-Chinese / 5.md)
+Ringkasan: # Xcode Server环境变量参考
+Xcode Server定义了许多内置环境变量，您可以在`Run Script`构建阶段使用这些变量，作为集成、预集成触发器和后集成触发器的一部分。当进行Xcode Server API请求时这些变量提供的信息将非常有用。有关Xcode Server API的信息，参见[ Xcode Server API Reference](https://developer.apple.com/library/content/documentation/Xcode/Conceptual/XcodeServerAPIReference/index.html#//ap...
