@@ -5095,3 +5095,61 @@ Isi Pengetahuan:
 
 介绍:这是瑞士人工智能实验室Jurgen Schmidhu
 ----------------------------------------
+
+Topik: GitHub Global: thlorenz/v8-perf / gc.md
+Isi Pengetahuan:
+# V8 Garbage Collector
+
+_find the previous version of this document at
+[crankshaft/gc.md](crankshaft/gc.md)_
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Goals, Techniques](#goals-techniques)
+- [Cost of Allocating Memory](#cost-of-allocating-memory)
+- [How objects are determined to be dead](#how-objects-are-determined-to-be-dead)
+- [Two Generations](#two-generations)
+  - [Generational Garbage Collector](
+----------------------------------------
+
+Topik: GitHub Global: JDubas/gs_mobile / API.md
+Isi Pengetahuan:
+## Endpoints da API Flask
+
+## Dependências para rodar a API
+
+- Python 3
+- Flask
+- Flask-CORS
+- OracleDB
+
+```bash
+pip install flask
+pip install flask-cors
+pip install oracledb
+```
+
+Use o comnando abaixo para rodar a  api localmente:
+```bash
+npm run api
+```
+
+
+### POST /upload-image
+- **Descrição:** Upload de uma imagem para o servidor.
+
+### POST /login
+- **Descrição:** Autenticação do usuário.
+- **Exemplo: **  http://127.0.0.1:5000/login
+    ```json
+  {
+    "email": "example@example.com",
+    "senha": "senha"
+  }
+  ```
+
+### POST /recuperar-senha
+- **Descrição:** Recuperação de senha com base no 
+----------------------------------------
