@@ -1015,3 +1015,24 @@ Isi Pengetahuan:
 4. [hhvm](https://github.com/facebook/hhvm) [12751, 2308]: *A virtual machine designed for executing programs written in Hack and PHP. *
 5. [rethinkdb](https://github.com/rethinkdb/rethinkdb) [10691, 891]: *The
 ----------------------------------------
+
+Topik: Wikipedia: Kriptografi
+Isi Pengetahuan:
+Kriptografi merupakan keahlian dan ilmu dari cara-cara untuk komunikasi aman pada kehadirannya di pihak ketiga. Secara umum, kriptografi ialah mengenai mengkonstruksi dan menganalisis protokol komunikasi yang dapat memblokir lawan; berbagai aspek dalam keamanan informasi seperti data rahasia, integritas data, autentikasi, dan non-repudansi merupakan pusat dari kriptografi modern. Kriptografi modern terjadi karena terdapat titik temu antara disiplin ilmu matematika, ilmu komputer, dan teknik elektro. Aplikasi dari kriptografi termasuk ATM, password komputer, dan E-commerce.
+----------------------------------------
+
+Topik: GitHub Global: svaksha/Julia.jl / AI.md
+Isi Pengetahuan:
+**Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages. Category sorting of packages is a WIP.**
+
++ [MACHINE LEARNING](#machine-learning)
++ [NLP](#nlp)
+   + [English](#english)
+   + [Finite Automata](#finite-automata)
+   + [Japanese](#japanese)
++ [REINFORCEMENT LEARNING](#reinforcement-learning)
++ [SPEECH RECOGNITION](#speech-recognition)
++ [SUPERVISED LEARNING](#supervised-learning)
++ [UNSUPERVISED LEARNING](#unsupervised-learning)
+   + [Neural Networks](#neural-networ
+----------------------------------------
