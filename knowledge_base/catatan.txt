@@ -161,3 +161,6 @@ Ringkasan: ### Program usage
 
 The encoding and decoding algorithms implemented by FastECC were described in the paper
 [An Efficient (n,k)...
+
+Topik: Teori relativitas
+Ringkasan: Teori relativitas adalah teori yang membahas mengenai kecepatan dan percepatan yang diukur secara berbeda melalui kerangka acuan. Konsep dasar dari teori relativitas disusun oleh Albert Einstein menjadi dua jenis, yaitu teori relativitas khusus dan teori relativitas umum. Kedua teori ini diciptakan ...
