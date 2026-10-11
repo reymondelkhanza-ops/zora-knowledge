@@ -1,5 +1,5 @@
 {
-    "total_learned": 1458,
+    "total_learned": 1459,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -3408,7 +3408,11 @@
         {
             "topic": "WA: Dafi",
             "timestamp": "2026-10-11 21:41:30"
+        },
+        {
+            "topic": "WA: Astec",
+            "timestamp": "2026-10-11 21:41:38"
         }
     ],
-    "last_updated": "2026-10-11 21:41:30"
+    "last_updated": "2026-10-11 21:41:38"
 }
