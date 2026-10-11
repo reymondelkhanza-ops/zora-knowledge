@@ -1,5 +1,5 @@
 {
-    "total_learned": 1642,
+    "total_learned": 1643,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -3772,7 +3772,11 @@
         {
             "topic": "GitHub Global: JDubas/gs_mobile / API.md",
             "timestamp": "2026-10-11 23:30:55"
+        },
+        {
+            "topic": "GitHub Global: asardell/IUT_SD1 / TP5.md",
+            "timestamp": "2026-10-11 23:42:06"
         }
     ],
-    "last_updated": "2026-10-11 23:41:27"
+    "last_updated": "2026-10-11 23:42:06"
 }
