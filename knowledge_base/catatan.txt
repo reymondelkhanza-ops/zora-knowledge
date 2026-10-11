@@ -691,3 +691,8 @@ Isi Pengetahuan:
 
 Dalam beberapa pelajaran terakhir, Anda telah membuat perangkat IoT untuk memantau kelembapan tanah dan menghubungkannya ke cloud. Namun, bagaimana jika peretas yang bekerja untuk petani pesaing berhasil mengambil alih p
 ----------------------------------------
+
+Topik: Wikipedia: Bursa saham
+Isi Pengetahuan:
+Bursa efek adalah sebuah pasar yang berhubungan dengan pembelian dan penjualan efek perusahaan yang sudah terdaftar di bursa itu. Bursa efek tersebut, bersama-sama dengan pasar uang merupakan sumber utama permodalan eksternal bagi perusahaan dan pemerintah. Biasanya terdapat suatu lokasi pusat, setidaknya untuk catatan, tetapi perdagangan kini semakin sedikit dikaitkan dengan tempat seperti itu, karena bursa saham modern kini adalah jaringan internet, yang memberikan keuntungan dari segi kecepatan dan biaya transaksi. Karena pihak-pihak yang bertransaksi tidak perlu saling tahu lawan transaksi
+----------------------------------------
