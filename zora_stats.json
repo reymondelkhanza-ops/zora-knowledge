@@ -1,5 +1,5 @@
 {
-    "total_learned": 1276,
+    "total_learned": 1277,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2788,7 +2788,11 @@
         {
             "topic": "GitHub Global: apachecn/fastai-num-linalg-v2-zh / 7.md",
             "timestamp": "2026-10-11 20:51:14"
+        },
+        {
+            "topic": "GitHub Global: TryEnlight/tryenlight.github.io / ml.md",
+            "timestamp": "2026-10-11 20:56:47"
         }
     ],
-    "last_updated": "2026-10-11 20:56:01"
+    "last_updated": "2026-10-11 20:56:47"
 }
