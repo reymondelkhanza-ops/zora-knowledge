@@ -303,3 +303,10 @@ Ringkasan: # C4 diagram cheatsheet
 [Official documentation](https://mermaid.js.org/syntax/c4.html).
 
 C4 diagrams are essentially a standardised and formalised way of using other diagrams, as such the syntax is similar to other diagrams. Since there is only experimental support it may change, but here's an exa...
+
+Topik: GitHub: GitHub (LuNiZz/websec101 / 5.md)
+Ringkasan: ### 5. Adım: Web Uygulamalarında Güvenlik Mimarisi
+
+Şimdiye kadar belirli güvenlik açıklarını tanıdık: SQL Injection, XSS, Broken Authentication... Fakat tüm bu açıkların üstesinden gelmek sadece yamalarla, tek tek noktalara çözüm bulmakla olmaz. **Sağlam bir güvenlik mimarisine** ihtiyaç vardır.
+
+G...
