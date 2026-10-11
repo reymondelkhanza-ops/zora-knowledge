@@ -3519,3 +3519,31 @@ rules in `ROADMAP.md` govern this file.
 These are reusable Hex libraries rather than Pi extensions. Building them first
 prevents e
 ----------------------------------------
+
+Topik: GitHub Global: shenwei356/awesome / r.md
+Isi Pengetahuan:
+# R
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Base](#base)
+- [Tutorial ](#tutorial)
+- [Packages](#packages)
+- [Text](#text)
+- [Performance](#performance)
+- [Data wrangling](#data%C2%A0wrangling)
+- [CLI](#cli)
+- [ML](#ml)
+- [Visualization](#visualization)
+- [Color](#color)
+- [Heatmap](#heatmap)
+- [ggplot2](#ggplot2)
+- [Statistics](#statistics)
+- [Cluster](#cluster)
+- [File formats](#file-formats)
+- [Misc](#misc)
+
+<!-- END doctoc generated TOC please keep comment h
+----------------------------------------
