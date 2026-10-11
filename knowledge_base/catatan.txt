@@ -7337,3 +7337,20 @@ Isi Pengetahuan:
     click open telegram bot
 ```
 ----------------------------------------
+
+Topik: GitHub Global: jlittle22/learn-programming / web.md
+Isi Pengetahuan:
+```
+The World Wide Web (WWW or simply the Web) is an information system that enables
+content sharing over the Internet through user-friendly ways meant to appeal to
+users beyond IT specialists and hobbyists.
+```
+
+via <a href="https://en.wikipedia.org/wiki/World_Wide_Web" target="_blank">Wikipedia: World Wide Web</a>
+
+## Introduction
+
+The Web was invented by English computer scientist Tim Berners-Lee in the late 1980s. It was a _significant_ innovation in the state-of-the-art and heavily contributed to the wide-spread propagation of computer use in the late 20th century and early 21st century
+
+
+----------------------------------------
