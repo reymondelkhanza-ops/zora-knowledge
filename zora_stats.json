@@ -1,0 +1,1778 @@
+{
+    "total_learned": 853,
+    "learned_history": [
+        {
+            "topic": "Termodinamika",
+            "timestamp": "2026-10-11 02:06:47"
+        },
+        {
+            "topic": "Bahasa pemrograman Python",
+            "timestamp": "2026-10-11 02:07:28"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 02:08:21"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 02:08:33"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 02:08:57"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (private)",
+            "timestamp": "2026-10-11 02:11:59"
+        },
+        {
+            "topic": "Internet",
+            "timestamp": "2026-10-11 02:18:36"
+        },
+        {
+            "topic": "Cuaca dan Iklim",
+            "timestamp": "2026-10-11 02:19:58"
+        },
+        {
+            "topic": "Figma dan Prototyping",
+            "timestamp": "2026-10-11 02:20:39"
+        },
+        {
+            "topic": "Sejarah Komputer",
+            "timestamp": "2026-10-11 02:21:20"
+        },
+        {
+            "topic": "Bilangan dan Aljabar",
+            "timestamp": "2026-10-11 02:22:01"
+        },
+        {
+            "topic": "Ekonomi dalam Game",
+            "timestamp": "2026-10-11 02:22:43"
+        },
+        {
+            "topic": "Voice Recognition Dasar",
+            "timestamp": "2026-10-11 02:23:25"
+        },
+        {
+            "topic": "Ekosistem dan Rantai Makanan",
+            "timestamp": "2026-10-11 02:24:06"
+        },
+        {
+            "topic": "Puzzle Design",
+            "timestamp": "2026-10-11 02:24:47"
+        },
+        {
+            "topic": "Kriptografi Dasar",
+            "timestamp": "2026-10-11 02:26:50"
+        },
+        {
+            "topic": "Logika Game Loop",
+            "timestamp": "2026-10-11 02:27:31"
+        },
+        {
+            "topic": "Statistik Dasar",
+            "timestamp": "2026-10-11 02:28:12"
+        },
+        {
+            "topic": "Storytelling untuk Game",
+            "timestamp": "2026-10-11 02:28:53"
+        },
+        {
+            "topic": "Geometri Bangun Datar",
+            "timestamp": "2026-10-11 02:29:34"
+        },
+        {
+            "topic": "Ilustrasi Digital",
+            "timestamp": "2026-10-11 02:30:18"
+        },
+        {
+            "topic": "Gravitasi dan Gerak Benda",
+            "timestamp": "2026-10-11 02:33:02"
+        },
+        {
+            "topic": "Multiplayer Dasar",
+            "timestamp": "2026-10-11 02:33:44"
+        },
+        {
+            "topic": "Nutrisi dan Pola Makan Sehat",
+            "timestamp": "2026-10-11 02:34:25"
+        },
+        {
+            "topic": "Video Editing Dasar",
+            "timestamp": "2026-10-11 02:35:07"
+        },
+        {
+            "topic": "Pengolahan Citra Dasar",
+            "timestamp": "2026-10-11 02:35:48"
+        },
+        {
+            "topic": "Algoritma dan Flowchart",
+            "timestamp": "2026-10-11 02:36:29"
+        },
+        {
+            "topic": "Struktur Data Array dan List",
+            "timestamp": "2026-10-11 02:37:10"
+        },
+        {
+            "topic": "API dan RESTful",
+            "timestamp": "2026-10-11 02:38:33"
+        },
+        {
+            "topic": "Fotosintesis",
+            "timestamp": "2026-10-11 02:39:14"
+        },
+        {
+            "topic": "Bahasa Pemrograman Scratch untuk Anak",
+            "timestamp": "2026-10-11 02:39:55"
+        },
+        {
+            "topic": "Pertanian Hidroponik",
+            "timestamp": "2026-10-11 02:40:37"
+        },
+        {
+            "topic": "Debugging dan Testing",
+            "timestamp": "2026-10-11 02:41:18"
+        },
+        {
+            "topic": "Musik Tradisional",
+            "timestamp": "2026-10-11 02:42:01"
+        },
+        {
+            "topic": "Rigging Karakter Dasar",
+            "timestamp": "2026-10-11 02:43:25"
+        },
+        {
+            "topic": "Animasi Karakter",
+            "timestamp": "2026-10-11 02:44:07"
+        },
+        {
+            "topic": "Penulisan Skenario",
+            "timestamp": "2026-10-11 02:44:48"
+        },
+        {
+            "topic": "Desain Karakter Chibi",
+            "timestamp": "2026-10-11 02:46:10"
+        },
+        {
+            "topic": "Optimasi Performa Website",
+            "timestamp": "2026-10-11 02:46:52"
+        },
+        {
+            "topic": "Sejarah Internet",
+            "timestamp": "2026-10-11 02:47:33"
+        },
+        {
+            "topic": "Robotika Dasar",
+            "timestamp": "2026-10-11 02:48:14"
+        },
+        {
+            "topic": "Arsitektur Bangunan Dasar",
+            "timestamp": "2026-10-11 02:50:18"
+        },
+        {
+            "topic": "Matematika untuk Game Developer",
+            "timestamp": "2026-10-11 02:51:02"
+        },
+        {
+            "topic": "Anatomi Tubuh Manusia",
+            "timestamp": "2026-10-11 02:52:25"
+        },
+        {
+            "topic": "Pengolahan Bahasa Alami Dasar",
+            "timestamp": "2026-10-11 02:53:06"
+        },
+        {
+            "topic": "Origami dan Pola",
+            "timestamp": "2026-10-11 02:53:47"
+        },
+        {
+            "topic": "Kreativitas dan Brainstorming",
+            "timestamp": "2026-10-11 02:55:51"
+        },
+        {
+            "topic": "Geografi Dunia",
+            "timestamp": "2026-10-11 02:57:13"
+        },
+        {
+            "topic": "Peluang dan Probabilitas",
+            "timestamp": "2026-10-11 02:58:35"
+        },
+        {
+            "topic": "Kecerdasan buatan",
+            "timestamp": "2026-10-11 03:06:14"
+        },
+        {
+            "topic": "Mesin roket",
+            "timestamp": "2026-10-11 03:06:55"
+        },
+        {
+            "topic": "Basis data relasional",
+            "timestamp": "2026-10-11 03:08:20"
+        },
+        {
+            "topic": "Bursa saham",
+            "timestamp": "2026-10-11 03:15:01"
+        },
+        {
+            "topic": "Sejarah komputer",
+            "timestamp": "2026-10-11 03:17:47"
+        },
+        {
+            "topic": "Kriptografi",
+            "timestamp": "2026-10-11 03:19:37"
+        },
+        {
+            "topic": "Otak manusia",
+            "timestamp": "2026-10-11 03:24:25"
+        },
+        {
+            "topic": "Teori relativitas",
+            "timestamp": "2026-10-11 03:28:05"
+        },
+        {
+            "topic": "WA Chat: Astec (group)",
+            "timestamp": "2026-10-11 04:03:44"
+        },
+        {
+            "topic": "WA Chat: K (group)",
+            "timestamp": "2026-10-11 04:49:42"
+        },
+        {
+            "topic": "WA Chat: K (group)",
+            "timestamp": "2026-10-11 04:50:40"
+        },
+        {
+            "topic": "WA Chat: Astec (group)",
+            "timestamp": "2026-10-11 04:51:48"
+        },
+        {
+            "topic": "WA Chat: rio (private)",
+            "timestamp": "2026-10-11 05:11:42"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 05:20:50"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 05:29:25"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 05:29:26"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 05:29:28"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 05:35:50"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 05:35:57"
+        },
+        {
+            "topic": "WA Chat: K (group)",
+            "timestamp": "2026-10-11 05:38:27"
+        },
+        {
+            "topic": "WA Chat: K (group)",
+            "timestamp": "2026-10-11 05:38:31"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 05:41:10"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 06:08:56"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 06:10:21"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 06:10:50"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 06:11:09"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 06:14:24"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 06:15:17"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 06:15:53"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 06:16:12"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 06:26:35"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 06:26:45"
+        },
+        {
+            "topic": "WA Chat: MAHENDRA🥶🤑 (group)",
+            "timestamp": "2026-10-11 06:27:18"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 06:27:44"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 06:27:53"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 06:28:03"
+        },
+        {
+            "topic": "WA Chat: Yan (group)",
+            "timestamp": "2026-10-11 06:29:40"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 06:33:27"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 06:33:34"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 06:33:36"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 06:48:09"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 06:48:13"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 06:48:50"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 06:49:30"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 06:50:09"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 06:50:16"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 07:19:00"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:33:11"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:33:20"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:33:24"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:33:26"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:33:36"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:33:38"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:33:40"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:33:42"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:33:46"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:33:51"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:34:13"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:34:26"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:34:35"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:34:42"
+        },
+        {
+            "topic": "WA Chat: jualan (group)",
+            "timestamp": "2026-10-11 07:34:42"
+        },
+        {
+            "topic": "WA Chat: jualan (group)",
+            "timestamp": "2026-10-11 07:34:43"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:34:43"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:34:49"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:34:51"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:35:06"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:35:10"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:35:14"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:35:23"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:35:26"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:35:41"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:35:55"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:35:57"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:36:39"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 07:36:43"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:37:22"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:37:38"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:37:48"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:37:53"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:38:02"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:38:19"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:38:27"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:39:03"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:39:06"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:39:25"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:39:51"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:39:54"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:39:55"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:39:59"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:00"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:02"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:07"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:08"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:10"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:11"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:13"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:14"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:40:16"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:41:04"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:41:28"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:41:42"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (group)",
+            "timestamp": "2026-10-11 07:41:46"
+        },
+        {
+            "topic": "WA Chat: pauzinyalgibobok (group)",
+            "timestamp": "2026-10-11 07:46:38"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 07:46:54"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 07:50:34"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 07:50:43"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 07:50:53"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 07:51:05"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 07:51:12"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 07:58:56"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:01:07"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:01:16"
+        },
+        {
+            "topic": "WA Chat: piaa (private)",
+            "timestamp": "2026-10-11 08:03:43"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:05:14"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:05:45"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:07:07"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:09:08"
+        },
+        {
+            "topic": "WA Chat: Yan (group)",
+            "timestamp": "2026-10-11 08:09:43"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:09:45"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:09:57"
+        },
+        {
+            "topic": "WA Chat: $ USER UNKNOWN ¥ (group)",
+            "timestamp": "2026-10-11 08:18:25"
+        },
+        {
+            "topic": "WA Chat: Shinoe voraa (group)",
+            "timestamp": "2026-10-11 08:23:38"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 08:24:51"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 08:24:58"
+        },
+        {
+            "topic": "WA Chat: ~ (group)",
+            "timestamp": "2026-10-11 08:25:27"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 08:25:36"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 08:25:46"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 08:26:14"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 08:26:54"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 08:27:12"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 08:31:39"
+        },
+        {
+            "topic": "WA Chat: //nanazz🫪 (group)",
+            "timestamp": "2026-10-11 08:38:22"
+        },
+        {
+            "topic": "WA Chat: Sill (group)",
+            "timestamp": "2026-10-11 08:39:12"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 08:43:58"
+        },
+        {
+            "topic": "WA Chat: tata ruok (group)",
+            "timestamp": "2026-10-11 08:55:18"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 08:55:23"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 09:00:25"
+        },
+        {
+            "topic": "WA Chat: .kella 𝐀𝐓𝐒 (group)",
+            "timestamp": "2026-10-11 09:01:23"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 09:01:37"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 09:01:41"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 09:01:43"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 09:02:08"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 09:02:29"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 09:03:40"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 09:03:58"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 09:04:28"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 09:04:33"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 09:04:37"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 09:05:00"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 09:05:12"
+        },
+        {
+            "topic": "WA Chat: 𐙚 ִ ۫ hira suka alpukat🥑 (group)",
+            "timestamp": "2026-10-11 09:05:33"
+        },
+        {
+            "topic": "WA Chat: Seseorang (group)",
+            "timestamp": "2026-10-11 09:07:03"
+        },
+        {
+            "topic": "Statistika Dasar untuk Analisis Data",
+            "timestamp": "2026-10-11 09:20:16"
+        },
+        {
+            "topic": "Internet of Things Sensor dan Aktuator",
+            "timestamp": "2026-10-11 09:20:58"
+        },
+        {
+            "topic": "Visualisasi Data Chart Batang Garis Lingkaran",
+            "timestamp": "2026-10-11 09:23:01"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 09:23:37"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 09:23:39"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 09:23:42"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 09:23:47"
+        },
+        {
+            "topic": "Cara Presentasi Karya Coding di Grup",
+            "timestamp": "2026-10-11 09:24:23"
+        },
+        {
+            "topic": "Membuat Game Kuis Pilihan Ganda",
+            "timestamp": "2026-10-11 09:25:04"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (private)",
+            "timestamp": "2026-10-11 09:25:58"
+        },
+        {
+            "topic": "Linked List Single dan Double",
+            "timestamp": "2026-10-11 09:26:26"
+        },
+        {
+            "topic": "WA Chat: rio (private)",
+            "timestamp": "2026-10-11 09:27:54"
+        },
+        {
+            "topic": "Musik dan SFX 8-bit untuk Game",
+            "timestamp": "2026-10-11 09:28:29"
+        },
+        {
+            "topic": "WA Chat: 𝐒𝐲𝐳𝐲𝐠𝐲//רוח הקודשﷺ; (group)",
+            "timestamp": "2026-10-11 09:29:25"
+        },
+        {
+            "topic": "WA Chat: REYMOND El Khanza (private)",
+            "timestamp": "2026-10-11 09:30:15"
+        },
+        {
+            "topic": "Membuat Sistem Laporan Bug Sederhana",
+            "timestamp": "2026-10-11 09:30:37"
+        },
+        {
+            "topic": "Cara Kerja CPU RAM dan Storage",
+            "timestamp": "2026-10-11 09:31:20"
+        },
+        {
+            "topic": "Membuat Dashboard Admin Sederhana",
+            "timestamp": "2026-10-11 09:32:01"
+        },
+        {
+            "topic": "Algoritma Genetika Simulasi Evolusi",
+            "timestamp": "2026-10-11 09:32:43"
+        },
+        {
+            "topic": "Enkripsi Password Hashing Bcrypt",
+            "timestamp": "2026-10-11 09:34:04"
+        },
+        {
+            "topic": "Membuat Sistem Feedback dan Rating",
+            "timestamp": "2026-10-11 09:35:26"
+        },
+        {
+            "topic": "Quick Sort dan Analisis Kompleksitas",
+            "timestamp": "2026-10-11 09:36:08"
+        },
+        {
+            "topic": "WA Chat: 𝜗ৎ (private)",
+            "timestamp": "2026-10-11 09:36:27"
+        },
+        {
+            "topic": "Membuat Aplikasi Desktop dengan Electron Dasar",
+            "timestamp": "2026-10-11 09:37:30"
+        },
+        {
+            "topic": "Logika Matematika Gerbang AND OR NOT",
+            "timestamp": "2026-10-11 09:39:34"
+        },
+        {
+            "topic": "Natural Language Processing Tokenisasi",
+            "timestamp": "2026-10-11 09:40:16"
+        },
+        {
+            "topic": "Inheritance dan Polymorphism",
+            "timestamp": "2026-10-11 09:40:57"
+        },
+        {
+            "topic": "Sistem Quest dan Dialog NPC",
+            "timestamp": "2026-10-11 09:41:38"
+        },
+        {
+            "topic": "Upload File Gambar dan Preview",
+            "timestamp": "2026-10-11 09:42:20"
+        },
+        {
+            "topic": "Manajemen Waktu untuk Pelajar Programmer",
+            "timestamp": "2026-10-11 09:43:01"
+        },
+        {
+            "topic": "Logika Matematika Diskrit Himpunan",
+            "timestamp": "2026-10-11 09:43:42"
+        },
+        {
+            "topic": "Membuat Portfolio Website Interaktif",
+            "timestamp": "2026-10-11 09:45:05"
+        },
+        {
+            "topic": "Sistem Rekomendasi Sederhana",
+            "timestamp": "2026-10-11 09:45:45"
+        },
+        {
+            "topic": "Cara Menjelaskan Topik Rumit dengan Sederhana",
+            "timestamp": "2026-10-11 09:47:08"
+        },
+        {
+            "topic": "Storytelling dan Narasi untuk Game",
+            "timestamp": "2026-10-11 09:47:50"
+        },
+        {
+            "topic": "Cara Membuat AI Tetap Sopan dan Aman",
+            "timestamp": "2026-10-11 09:49:12"
+        },
+        {
+            "topic": "Sistem Skor Leaderboard Lokal",
+            "timestamp": "2026-10-11 09:49:53"
+        },
+        {
+            "topic": "Membuat Ekonomi Game Koin dan Shop",
+            "timestamp": "2026-10-11 09:50:34"
+        },
+        {
+            "topic": "Cara Membuat AI Lupa Data Sensitif",
+            "timestamp": "2026-10-11 09:51:16"
+        },
+        {
+            "topic": "WA Chat: ￴ (private)",
+            "timestamp": "2026-10-11 09:51:25"
+        },
+        {
+            "topic": "WA Chat: ndohh√ (group)",
+            "timestamp": "2026-10-11 09:52:54"
+        },
+        {
+            "topic": "Tree dan Binary Tree Traversal",
+            "timestamp": "2026-10-11 09:53:19"
+        },
+        {
+            "topic": "Kolaborasi Tim dengan Git dan GitHub Dasar",
+            "timestamp": "2026-10-11 09:54:00"
+        },
+        {
+            "topic": "Dynamic Programming Dasar",
+            "timestamp": "2026-10-11 09:54:41"
+        },
+        {
+            "topic": "Cara Menggunakan Humor Ringan di Chat",
+            "timestamp": "2026-10-11 09:56:03"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 09:59:05"
+        },
+        {
+            "topic": "Cuaca Ekstrem dan Perubahan Iklim",
+            "timestamp": "2026-10-11 09:59:29"
+        },
+        {
+            "topic": "Membuat Kamus Istilah Coding untuk Pemula",
+            "timestamp": "2026-10-11 10:00:10"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 10:00:38"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 10:00:45"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 10:00:48"
+        },
+        {
+            "topic": "Machine Learning Klasifikasi Sederhana",
+            "timestamp": "2026-10-11 10:01:32"
+        },
+        {
+            "topic": "Basis Data Relasi Lanjutan Join dan Group By",
+            "timestamp": "2026-10-11 10:02:13"
+        },
+        {
+            "topic": "Sejarah Internet dan World Wide Web",
+            "timestamp": "2026-10-11 10:03:35"
+        },
+        {
+            "topic": "Cara Mengatasi Konflik di Grup WA",
+            "timestamp": "2026-10-11 10:04:58"
+        },
+        {
+            "topic": "Indexing dan Optimasi Query SQL",
+            "timestamp": "2026-10-11 10:06:19"
+        },
+        {
+            "topic": "Cara Berpikir Kritis dan Problem Solving",
+            "timestamp": "2026-10-11 10:07:41"
+        },
+        {
+            "topic": "Computer Vision Deteksi Warna dan Bentuk",
+            "timestamp": "2026-10-11 10:09:03"
+        },
+        {
+            "topic": "Membuat Sistem Crafting Sederhana",
+            "timestamp": "2026-10-11 10:09:44"
+        },
+        {
+            "topic": "Membuat Game Ular Snake Klasik",
+            "timestamp": "2026-10-11 10:11:47"
+        },
+        {
+            "topic": "Cara Memuji Karya Teman di Grup",
+            "timestamp": "2026-10-11 10:12:28"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:12:38"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:12:43"
+        },
+        {
+            "topic": "Membuat Bot Pengingat Tugas Harian",
+            "timestamp": "2026-10-11 10:14:31"
+        },
+        {
+            "topic": "Cara Kerja Internet dan Protokol HTTP",
+            "timestamp": "2026-10-11 10:15:12"
+        },
+        {
+            "topic": "Membuat Blog Statis dengan Markdown",
+            "timestamp": "2026-10-11 10:17:57"
+        },
+        {
+            "topic": "Sorting Bubble Sort dan Selection Sort",
+            "timestamp": "2026-10-11 10:18:39"
+        },
+        {
+            "topic": "Cara Membuat AI Mengakui Tidak Tahu",
+            "timestamp": "2026-10-11 10:20:01"
+        },
+        {
+            "topic": "Deployment Website ke Hosting Gratis",
+            "timestamp": "2026-10-11 10:20:42"
+        },
+        {
+            "topic": "WA Chat: ~yraaaa (group)",
+            "timestamp": "2026-10-11 10:21:18"
+        },
+        {
+            "topic": "Membuat Sistem Ranking dan Kompetisi Sehat",
+            "timestamp": "2026-10-11 10:22:46"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:24:32"
+        },
+        {
+            "topic": "Membuat Game Flappy Bird Clone",
+            "timestamp": "2026-10-11 10:24:48"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:24:48"
+        },
+        {
+            "topic": "Geografi Aceh dan Budaya Lokal",
+            "timestamp": "2026-10-11 10:26:51"
+        },
+        {
+            "topic": "Cara Menjawab Chat WA Natural Slang Santai",
+            "timestamp": "2026-10-11 10:28:13"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:28:14"
+        },
+        {
+            "topic": "Searching Linear dan Binary Search",
+            "timestamp": "2026-10-11 10:28:54"
+        },
+        {
+            "topic": "Membuat Game Kartu Sederhana",
+            "timestamp": "2026-10-11 10:30:17"
+        },
+        {
+            "topic": "Hash Table dan Hash Map",
+            "timestamp": "2026-10-11 10:30:58"
+        },
+        {
+            "topic": "Membuat Game Tetris Sederhana",
+            "timestamp": "2026-10-11 10:32:21"
+        },
+        {
+            "topic": "Membuat Game Tebak Angka Interaktif",
+            "timestamp": "2026-10-11 10:33:02"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:33:23"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:33:43"
+        },
+        {
+            "topic": "Sejarah Video Game dari Atari sampai Sekarang",
+            "timestamp": "2026-10-11 10:33:43"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:33:45"
+        },
+        {
+            "topic": "Sorting Insertion Sort dan Merge Sort",
+            "timestamp": "2026-10-11 10:34:24"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 10:34:39"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:34:41"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:34:44"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:34:50"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:34:59"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 10:38:22"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:38:38"
+        },
+        {
+            "topic": "Binary Search Tree BST",
+            "timestamp": "2026-10-11 10:39:10"
+        },
+        {
+            "topic": "Energi Terbarukan Matahari Angin Air",
+            "timestamp": "2026-10-11 10:39:51"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:39:57"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:39:59"
+        },
+        {
+            "topic": "WA Chat: bum bum cikadap (group)",
+            "timestamp": "2026-10-11 10:40:51"
+        },
+        {
+            "topic": "WA Chat: bum bum cikadap (group)",
+            "timestamp": "2026-10-11 10:40:51"
+        },
+        {
+            "topic": "WA Chat: bum bum cikadap (group)",
+            "timestamp": "2026-10-11 10:40:54"
+        },
+        {
+            "topic": "WA Chat: citer4 (private)",
+            "timestamp": "2026-10-11 10:41:45"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:41:56"
+        },
+        {
+            "topic": "WA Chat: bum bum cikadap (group)",
+            "timestamp": "2026-10-11 10:43:27"
+        },
+        {
+            "topic": "Membuat Glosarium Emoji dan Artinya",
+            "timestamp": "2026-10-11 10:44:38"
+        },
+        {
+            "topic": "Membuat Sistem Achievement dan Badge",
+            "timestamp": "2026-10-11 10:46:00"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 10:46:21"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 10:46:39"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 10:46:43"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 10:46:55"
+        },
+        {
+            "topic": "WA Chat: poyoyoi (private)",
+            "timestamp": "2026-10-11 10:50:11"
+        },
+        {
+            "topic": "Cara Kerja AI dan Machine Learning Secara Umum",
+            "timestamp": "2026-10-11 10:51:30"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 10:52:30"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 10:52:35"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 10:52:36"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:52:48"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:52:50"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 10:52:53"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 10:52:58"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 10:53:02"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 10:53:05"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 10:53:10"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 10:53:10"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 10:53:22"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 10:53:23"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 10:53:26"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 10:53:31"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 10:54:11"
+        },
+        {
+            "topic": "Cara Menenangkan Teman yang Kesal di Grup",
+            "timestamp": "2026-10-11 10:54:14"
+        },
+        {
+            "topic": "WA Chat: piaa (group)",
+            "timestamp": "2026-10-11 10:55:28"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 10:56:31"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 10:56:35"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:56:54"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 10:56:58"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 10:57:49"
+        },
+        {
+            "topic": "WA Chat: xstromnicuy (group)",
+            "timestamp": "2026-10-11 10:57:50"
+        },
+        {
+            "topic": "Cara Meminta Bantuan Coding dengan Benar",
+            "timestamp": "2026-10-11 10:59:40"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 11:01:11"
+        },
+        {
+            "topic": "WA Chat: REYMOND El Khanza (private)",
+            "timestamp": "2026-10-11 11:01:53"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 11:02:05"
+        },
+        {
+            "topic": "Basis Data NoSQL MongoDB Dasar",
+            "timestamp": "2026-10-11 11:02:23"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:03:20"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 11:03:26"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 11:04:25"
+        },
+        {
+            "topic": "Membuat Game Edukasi Matematika",
+            "timestamp": "2026-10-11 11:04:28"
+        },
+        {
+            "topic": "Desain UI UX untuk Anak dan Pemula",
+            "timestamp": "2026-10-11 11:06:32"
+        },
+        {
+            "topic": "WA Chat: why? (group)",
+            "timestamp": "2026-10-11 11:06:36"
+        },
+        {
+            "topic": "Integrasi Kamera dan Mikrofon di Web",
+            "timestamp": "2026-10-11 11:07:55"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:08:45"
+        },
+        {
+            "topic": "Fisika Dasar Gravitasi dan Gesekan",
+            "timestamp": "2026-10-11 11:10:39"
+        },
+        {
+            "topic": "Suara dan Musik Latar Game",
+            "timestamp": "2026-10-11 11:12:44"
+        },
+        {
+            "topic": "Monitoring dan Logging Aplikasi Sederhana",
+            "timestamp": "2026-10-11 11:14:06"
+        },
+        {
+            "topic": "Cara Membalas Chat Panjang dengan Rangkuman",
+            "timestamp": "2026-10-11 11:14:47"
+        },
+        {
+            "topic": "Transaction ACID dan Rollback",
+            "timestamp": "2026-10-11 11:15:29"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:16:17"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:16:25"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:16:32"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:16:53"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 11:17:01"
+        },
+        {
+            "topic": "WA Chat: Seseorang (private)",
+            "timestamp": "2026-10-11 11:17:21"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:18:46"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:19:23"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:19:42"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:19:48"
+        },
+        {
+            "topic": "Keamanan Siber Password dan Phishing",
+            "timestamp": "2026-10-11 11:20:15"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 11:20:42"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:20:50"
+        },
+        {
+            "topic": "WA Chat: ham (group)",
+            "timestamp": "2026-10-11 11:20:56"
+        },
+        {
+            "topic": "Efek Partikel Ledakan dan Debu",
+            "timestamp": "2026-10-11 11:21:38"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:22:39"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:22:43"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 11:22:51"
+        },
+        {
+            "topic": "Konversi Satuan Data KB MB GB",
+            "timestamp": "2026-10-11 11:22:59"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 11:23:11"
+        },
+        {
+            "topic": "WA Chat: ham (group)",
+            "timestamp": "2026-10-11 11:23:44"
+        },
+        {
+            "topic": "WA Chat: ham (group)",
+            "timestamp": "2026-10-11 11:23:46"
+        },
+        {
+            "topic": "WA Chat: ham (group)",
+            "timestamp": "2026-10-11 11:23:52"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 11:24:02"
+        },
+        {
+            "topic": "WA Chat: 𝚔𝚒𝚢𝚢! (group)",
+            "timestamp": "2026-10-11 11:24:03"
+        },
+        {
+            "topic": "WA Chat: ~jmshan🙆🏻‍♀️🦅 (group)",
+            "timestamp": "2026-10-11 11:24:19"
+        },
+        {
+            "topic": "WA Chat: 𝐒𝐲𝐮𝐫𝐚 || 𝐏𝐄 (private)",
+            "timestamp": "2026-10-11 11:24:19"
+        },
+        {
+            "topic": "Cara Minta Maaf dan Klarifikasi Salah Paham",
+            "timestamp": "2026-10-11 11:24:21"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:24:36"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:24:38"
+        },
+        {
+            "topic": "WA Chat: citer4 (private)",
+            "timestamp": "2026-10-11 11:24:44"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:24:45"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:24:47"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:24:49"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:24:51"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:25:30"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:25:39"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:25:43"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:26:11"
+        },
+        {
+            "topic": "Membuat Game Memori Kartu",
+            "timestamp": "2026-10-11 11:26:24"
+        },
+        {
+            "topic": "WA Chat: `𝐦𝐞𝐢` (group)",
+            "timestamp": "2026-10-11 11:26:30"
+        },
+        {
+            "topic": "WA Chat: `𝐦𝐞𝐢` (group)",
+            "timestamp": "2026-10-11 11:26:41"
+        },
+        {
+            "topic": "WA Chat: `𝐦𝐞𝐢` (group)",
+            "timestamp": "2026-10-11 11:26:41"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:26:44"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:29:32"
+        },
+        {
+            "topic": "WA Chat: who? (private)",
+            "timestamp": "2026-10-11 11:29:37"
+        },
+        {
+            "topic": "WA Chat: Guy crimson`n𐂡 (private)",
+            "timestamp": "2026-10-11 11:31:12"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:32:02"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:32:04"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:32:13"
+        },
+        {
+            "topic": "WA Chat: Ayes (group)",
+            "timestamp": "2026-10-11 11:32:23"
+        },
+        {
+            "topic": "WA Chat: 𝓐|@𝐁𝐋𝐂𝐊𝐖𝐎𝐎𝐃|𝒈𝒊𝒓𝒍 𝒙 𝒃𝒐𝒚| idmn cwo gngstr|𝐓𝐁𝐃 (group)",
+            "timestamp": "2026-10-11 11:32:44"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:33:29"
+        },
+        {
+            "topic": "Cara Kerja Kripto Secara Edukatif",
+            "timestamp": "2026-10-11 11:33:31"
+        },
+        {
+            "topic": "WA Chat: 𝐁riella|𝐌𝐆𝐇99 (private)",
+            "timestamp": "2026-10-11 11:33:48"
+        },
+        {
+            "topic": "Cara Membuat Bot Pengingat Sholat dan Belajar",
+            "timestamp": "2026-10-11 11:34:12"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:34:43"
+        },
+        {
+            "topic": "WA Chat: .kella 𝐀𝐓𝐒 (group)",
+            "timestamp": "2026-10-11 11:34:49"
+        },
+        {
+            "topic": "Keamanan Dompet Digital Dasar",
+            "timestamp": "2026-10-11 11:34:53"
+        },
+        {
+            "topic": "WA Chat: .kella 𝐀𝐓𝐒 (group)",
+            "timestamp": "2026-10-11 11:34:57"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:34:58"
+        },
+        {
+            "topic": "WA Chat: .kella 𝐀𝐓𝐒 (group)",
+            "timestamp": "2026-10-11 11:35:05"
+        },
+        {
+            "topic": "WA Chat: ham (group)",
+            "timestamp": "2026-10-11 11:35:05"
+        },
+        {
+            "topic": "WA Chat: .kella 𝐀𝐓𝐒 (group)",
+            "timestamp": "2026-10-11 11:35:12"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:35:14"
+        },
+        {
+            "topic": "WA Chat: .kella 𝐀𝐓𝐒 (group)",
+            "timestamp": "2026-10-11 11:35:17"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:35:20"
+        },
+        {
+            "topic": "WA Chat: 𝓐|@𝐁𝐋𝐂𝐊𝐖𝐎𝐎𝐃|𝒈𝒊𝒓𝒍 𝒙 𝒃𝒐𝒚| idmn cwo gngstr|𝐓𝐁𝐃 (group)",
+            "timestamp": "2026-10-11 11:36:04"
+        },
+        {
+            "topic": "WA Chat: loppy (group)",
+            "timestamp": "2026-10-11 11:36:12"
+        },
+        {
+            "topic": "Cara Menabung dari Hasil Karya Game",
+            "timestamp": "2026-10-11 11:36:19"
+        },
+        {
+            "topic": "WA Chat: irgi lopyu (group)",
+            "timestamp": "2026-10-11 11:36:31"
+        },
+        {
+            "topic": "WA Chat: .kella 𝐀𝐓𝐒 (group)",
+            "timestamp": "2026-10-11 11:36:45"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:37:00"
+        },
+        {
+            "topic": "Cara Membuat Game yang Inklusif",
+            "timestamp": "2026-10-11 11:37:01"
+        },
+        {
+            "topic": "WA Chat: . (group)",
+            "timestamp": "2026-10-11 11:37:20"
+        },
+        {
+            "topic": "WA Chat: plnger (group)",
+            "timestamp": "2026-10-11 11:37:21"
+        },
+        {
+            "topic": "WA Chat: j (group)",
+            "timestamp": "2026-10-11 11:37:28"
+        },
+        {
+            "topic": "WA Chat: plnger (group)",
+            "timestamp": "2026-10-11 11:37:36"
+        },
+        {
+            "topic": "WA Chat: loppy (group)",
+            "timestamp": "2026-10-11 11:37:37"
+        },
+        {
+            "topic": "WA Chat: loppy (group)",
+            "timestamp": "2026-10-11 11:37:41"
+        },
+        {
+            "topic": "State Management dengan Store Sederhana",
+            "timestamp": "2026-10-11 11:37:42"
+        },
+        {
+            "topic": "Cara Menjadi Penengah yang Adil",
+            "timestamp": "2026-10-11 11:38:24"
+        },
+        {
+            "topic": "Cara Kerja Blockchain Secara Sederhana",
+            "timestamp": "2026-10-11 11:39:05"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 11:39:20"
+        },
+        {
+            "topic": "WA Chat: zam (group)",
+            "timestamp": "2026-10-11 11:39:24"
+        },
+        {
+            "topic": "WA Chat: ham (group)",
+            "timestamp": "2026-10-11 11:39:34"
+        },
+        {
+            "topic": "Matematika Logika Matematika untuk AI",
+            "timestamp": "2026-10-11 11:39:46"
+        }
+    ],
+    "last_updated": "2026-10-11 11:42:49"
+}
