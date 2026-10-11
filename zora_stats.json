@@ -1,5 +1,5 @@
 {
-    "total_learned": 1289,
+    "total_learned": 1290,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2824,7 +2824,11 @@
         {
             "topic": "GitHub Global: crestalnetwork/intentkit / LLM.md",
             "timestamp": "2026-10-11 21:02:12"
+        },
+        {
+            "topic": "GitHub Global: dabster108/MCP-Student-Recommendation-Server / MCP.md",
+            "timestamp": "2026-10-11 21:04:02"
         }
     ],
-    "last_updated": "2026-10-11 21:03:22"
+    "last_updated": "2026-10-11 21:04:02"
 }
