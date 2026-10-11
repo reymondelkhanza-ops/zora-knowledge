@@ -9719,3 +9719,26 @@ Isi Pengetahuan:
         + [§4.1.1. Named Entity Recognition](#4-1-1-Named-Entity-Recognition)
    + [§4.2. Digital 
 ----------------------------------------
+
+Topik: GitHub Global: cruxbetalabs/app-backend / API.md
+Isi Pengetahuan:
+# SAM2 Image Segmentation API
+
+This document describes the Flask API implemented in `app.py`.
+
+## Overview
+
+The service exposes a small HTTP API for point-based image segmentation using SAM2.
+
+- Base URL: `http://localhost:5005`
+- Default port: `5005`
+- Content type for segmentation requests: `multipart/form-data`
+- Response type: `application/json`
+- Authentication: none
+
+## Runtime Notes
+
+- The model is loaded lazily on the first segmentation request.
+- The predictor is kept in a global variable after initialization.
+- Device selection is automatic inside the app: `cuda` if available, otherw
+----------------------------------------
