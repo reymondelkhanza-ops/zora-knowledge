@@ -521,3 +521,6 @@ _find the previous version of this document at
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [Do...
+
+Topik: Kecerdasan buatan
+Ringkasan: Kecerdasan buatan, juga disebut kecerdasan artifisial dan kepintaran tiruan, adalah kecerdasan yang ditunjukkan oleh mesin, yang kontras dengan kecerdasan alami yang ditunjukkan oleh manusia dan hewan....
