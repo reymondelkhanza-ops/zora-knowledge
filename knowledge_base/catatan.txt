@@ -3259,3 +3259,20 @@ Isi Pengetahuan:
 
 介绍:这是瑞士人工智能实验室Jurgen Schmidhu
 ----------------------------------------
+
+Topik: GitHub Global: melling/ComputerLanguages / go.md
+Isi Pengetahuan:
+# Go
+
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.md) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+
+## The Short List
++ [Awesome Go](https://github.com/avelino/awesome-go)
++ [Go in 5 Minutes](https://github.com/arschles/go-in-5-minutes)
+- http://www.goin5minutes.com/screencasts/index.html
++ [Go by Example](https://gobyexample.com)
+
+## Editor/IDE Support
+
++ [Visual Studio Code Plugin](https://
+----------------------------------------
