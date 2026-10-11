@@ -1207,3 +1207,33 @@ Several months ago I began to learn deep learning.  I started with
 programming Python on a CUDA laptop.  This scale of parallel computing
 is 
 ----------------------------------------
+
+Topik: GitHub Global: ebenishere/AgenticAIProj / API.md
+Isi Pengetahuan:
+# 🔌 API Documentation
+
+Programming interface for Cyber Threat Intelligence RAG system.
+
+## CyberThreatRAG Class
+
+Main class for threat analysis. Use this to integrate RAG into your applications.
+
+### Initialization
+
+```python
+from rag.cyber_threat_rag import CyberThreatRAG
+
+# Create instance
+rag = CyberThreatRAG(db_path="./chroma_db", persist=True)
+```
+
+**Parameters:**
+- `db_path` (str): Path to store Chroma vector database. Default: `"./chroma_db"`
+- `persist` (bool): Save database to disk for reuse. Default: `True`
+
+### Methods
+
+#### load_data(cve_file, nist_file)
+
+Load CVE and NIST vulnerab
+----------------------------------------
