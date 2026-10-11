@@ -1,5 +1,5 @@
 {
-    "total_learned": 930,
+    "total_learned": 931,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2032,7 +2032,11 @@
         {
             "topic": "GitHub: GitHub (shenwei356/awesome / r.md)",
             "timestamp": "2026-10-11 12:37:19"
+        },
+        {
+            "topic": "GitHub: GitHub (wizardforcel/web-hacking-101-zh / 8.md)",
+            "timestamp": "2026-10-11 14:33:39"
         }
     ],
-    "last_updated": "2026-10-11 14:32:53"
+    "last_updated": "2026-10-11 14:33:39"
 }
