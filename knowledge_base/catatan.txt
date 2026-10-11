@@ -8165,3 +8165,24 @@ Isi Pengetahuan:
  2. [Fast and provable algorithms for spectrally sparse signal reconstruction via low-rank Hankel matrix completion](http://dx.doi.org/10.1016/j.acha.2017.04.004). Applied and Computational Harmonic Analysis, 2017.
  3. [Hankel Matrix Nuclear Norm Regularized Tensor Completion for N-dimensional Exponential Signals](https://doi.org/10.1109/TSP.2017.2695566). IEEE Transactions on Signal Proce
 ----------------------------------------
+
+Topik: GitHub Global: Michael-Meade/snackhack2 / WEB.md
+Isi Pengetahuan:
+#### Web
+
+- [WordPress](#wordpress)
+- [Getting Server Header](#getting-server-header)
+  * [cURL](#curl)
+  * [Cloudflare](#cloudflare)
+  * [Cloudfront](#cloudfront)
+  * [Detect Headers](#detect-headers)
+- [Robots.txt](#robotstxt)
+  * [Disallow](#disallow)
+  * [Allow](#allow)
+- [Google Analytics](#google-analytics)
+  * [Scrape Top million site's GA](#scrape-top-million-sites-ga)
+  * [Stats on Scrapped GA's](#stats-on-scrapped-gas)
+- [Get site's CERT Hash](#get-site-s-cert-hash)
+- [Get ALL the links of a site](#get-all-the-links-of-a-site)
+- [Get site's Meta Data](#get-site-s-meta
+----------------------------------------
