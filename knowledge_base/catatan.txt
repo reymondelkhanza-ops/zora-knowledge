@@ -72,3 +72,15 @@ Ringkasan: # 从零开始的自制Vtuber: 5.一时休战
 之前几个章节的功能都是从零开始一点点加进来的，经过了许多章节的堆砌后，它们变得有些混乱。
 
 因此我们得重新整理一下代码...
+
+Topik: GitHub: GitHub (dotnetcore/WTM / QA.md)
+Ringkasan: ## 问题1 libunwind
+```bash
+#   Failed to load ▒▒, error: libunwind.so.8: cannot open shared object file: No such file or directory
+#   Failed to bind to CoreCLR at '/websites/walkingtec.mvvm.mvc.admin/libcoreclr.so'
+yum -y install libunwind
+```
+
+## 问题2 icu
+```bash
+# FailFast: Couldn't find a valid ICU...
