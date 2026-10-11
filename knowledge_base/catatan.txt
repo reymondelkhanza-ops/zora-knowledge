@@ -743,3 +743,21 @@ Additionally, we believe that for things to progress in security,
 everyone has to up their game and improve their capabilities. We hope
 that by open sourcing GRR, we can foster development
 ----------------------------------------
+
+Topik: GitHub Global: bmadone/senior-software-engineer / ai.md
+Isi Pengetahuan:
+**Resources**
+
+**Foundations**
+
+-   [Attention Is All You Need (Transformer paper)](https://arxiv.org/abs/1706.03762)
+-   [Illustrated Transformer - Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+-   [Illustrated GPT-2 - Jay Alammar](https://jalammar.github.io/illustrated-gpt2/)
+-   [Fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/)
+-   [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
+
+**Large Language Models**
+
+-   [Anthropic Claude documentation](https://docs.anthropic.com/)
+-   [OpenAI Platform documentation](ht
+----------------------------------------
