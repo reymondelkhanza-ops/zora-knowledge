@@ -200,3 +200,9 @@ Ringkasan: # 五、HTML 注入
 ## 描述
 
 超文本标记语言（HTML）注入有时也被称为虚拟污染。 这实际上是一个由站点造成的攻击，该站点允许恶意用户向其 Web 页面注入 HTML，并且没有合理处理用户输入。 换句话说，HTML 注入漏洞是由接收 HTML 引起的，通常通过一些之后会呈现在页面的表单输入。 这个漏洞是独立的，不同于注入 Javas...
+
+Topik: Bursa saham
+Ringkasan: Bursa efek adalah sebuah pasar yang berhubungan dengan pembelian dan penjualan efek perusahaan yang sudah terdaftar di bursa itu. Bursa efek tersebut, bersama-sama dengan pasar uang merupakan sumber utama permodalan eksternal bagi perusahaan dan pemerintah. Biasanya terdapat suatu lokasi pusat, seti...
+
+Topik: Sejarah komputer
+Ringkasan: Sejarah komputer berawal dari abad ke-19, ketika Charles Babbage mencoba untuk mendesain komputer mekanik yang bernama Mesin Analitikal. Desain ini menjadi basis kerangka desain komputer sekarang....
