@@ -8882,3 +8882,57 @@ It implements two different methods for finding the immediate dominators of a gr
 1. Implements a near-linear time iterative dominator generator based on the
     paper [A Simple, Fast Dominance Algorithm](https://www.cs.ric
 ----------------------------------------
+
+Topik: GitHub Global: kickoffqi/pipeline_scanner / api.md
+Isi Pengetahuan:
+# Web API (Flask)
+
+This project includes a minimal Flask API wrapper around the scanner core.
+
+## Run (dev)
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+export FLASK_APP=wsgi.py
+export FLASK_DEBUG=1
+flask run --host 0.0.0.0 --port 5000
+```
+
+## Endpoints
+
+### `GET /api/health`
+
+Response:
+
+```json
+{"status":"ok"}
+```
+
+### `POST /api/policy/validate`
+
+Request:
+
+```json
+{
+  "allow_semver_tags": false,
+  "require_explicit_permissions": true
+}
+```
+
+Response:
+
+```json
+{
+  "valid": true,
+  "policy": { ...normalized... }
+}
+```
+
+### `POST /api/scan`
+
+Request:
+
+----------------------------------------
