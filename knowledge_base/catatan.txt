@@ -6131,3 +6131,22 @@ Isi Pengetahuan:
  2. [Fast and provable algorithms for spectrally sparse signal reconstruction via low-rank Hankel matrix completion](http://dx.doi.org/10.1016/j.acha.2017.04.004). Applied and Computational Harmonic Analysis, 2017.
  3. [Hankel Matrix Nuclear Norm Regularized Tensor Completion for N-dimensional Exponential Signals](https://doi.org/10.1109/TSP.2017.2695566). IEEE Transactions on Signal Proce
 ----------------------------------------
+
+Topik: GitHub Global: micanny/solsniper / bot.md
+Isi Pengetahuan:
+# Production-Grade  solsniper - Implementation Specification
+
+## 🎯 Project Overview
+
+Build a high-performance, production-ready Solana token monitoring system that efficiently ingests, filters, enriches, and alerts on new token pool creations across multiple DEXs (Jupiter, Raydium, Orca,). The system must handle  entry-commercial-scale load while respecting rate limits and maintaining sub-second detection latency.
+
+---
+
+## 📋 Core Requirements
+
+### Objective
+Scan and save tokens from:
+- **Jupiter V6** (aggregator routing)
+- **Raydium AMM V4** (pool creation + liquidity)
+- **Orca Whirlpool** (co
+----------------------------------------
