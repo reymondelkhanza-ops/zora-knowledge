@@ -7125,3 +7125,17 @@ It can be used as a checklist if:
 ## 🤔 Does this article only cover backend apps? 
 Because the author's expertise lies mostly on the backend side, most suggestions will be useful for developing backend a
 ----------------------------------------
+
+Topik: GitHub Global: beagreatengineer/how-to-develop-perfect-crud / EN.md
+Isi Pengetahuan:
+Translations: [EN(you are here)](EN.md), [RU](README.md)
+# 🤔 What is this?
+This article is an attempt to combine good practices that are useful to keep in mind and apply when developing a backend application.
+
+It can be used as a checklist if:
+- You are starting a greenfield project and want to ensure that best practices are used right from the start.
+- You received a test assignment and have decided to move forward with it.
+ 
+## 🤔 Does this article only cover backend apps? 
+Because the author's expertise lies mostly on the backend side, most suggestions will be useful for developing backend a
+----------------------------------------
