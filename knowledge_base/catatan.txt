@@ -3959,3 +3959,23 @@ Takes a JSON structure with `room` and `snapshot` fields.
 Replaces the page with a serialization in Socialtext save format.
 If `room` is not specified, returns a new page.
 ----------------------------------------
+
+Topik: GitHub Global: crestalnetwork/intentkit / LLM.md
+Isi Pengetahuan:
+# IntentKit LLM Guide
+
+## Architecture
+
+- `intentkit/` — pip package
+  - `core/` — agent system (LangGraph)
+    - `system_tools/` — built-in system tools
+  - `models/` — Pydantic + SQLAlchemy dual models
+  - `config/` — system config (DB, LLM keys, tool provider keys)
+  - `tools/` — tool system (LangChain BaseTool)
+  - `wallets/` — wallet providers (CDP, Privy, native Web3)
+  - `abstracts/` — interfaces for core/ and tools/
+  - `utils/` — utilities
+  - `clients/` — external service clients
+- `app/` — API server, autonomous runner, background scheduler
+- `frontend/` — Next.js agent management U
+----------------------------------------
