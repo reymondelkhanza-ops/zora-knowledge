@@ -1,5 +1,5 @@
 {
-    "total_learned": 1267,
+    "total_learned": 1268,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2780,7 +2780,11 @@
         {
             "topic": "GitHub Global: mikezio/InstaLab / API.md",
             "timestamp": "2026-10-11 20:46:17"
+        },
+        {
+            "topic": "GitHub Global: lqhuang/flight-rules / web.md",
+            "timestamp": "2026-10-11 20:47:34"
         }
     ],
-    "last_updated": "2026-10-11 20:46:55"
+    "last_updated": "2026-10-11 20:47:34"
 }
