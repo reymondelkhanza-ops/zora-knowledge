@@ -1,5 +1,5 @@
 {
-    "total_learned": 1214,
+    "total_learned": 1215,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2604,7 +2604,11 @@
         {
             "topic": "GitHub Global: hypit-ai/hypitoken / DR.md",
             "timestamp": "2026-10-11 20:18:23"
+        },
+        {
+            "topic": "GitHub Global: procload/dnd-mcp / mcp.md",
+            "timestamp": "2026-10-11 20:19:12"
         }
     ],
-    "last_updated": "2026-10-11 20:18:23"
+    "last_updated": "2026-10-11 20:19:12"
 }
