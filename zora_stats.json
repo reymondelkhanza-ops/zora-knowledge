@@ -1,5 +1,5 @@
 {
-    "total_learned": 907,
+    "total_learned": 908,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -1964,7 +1964,11 @@
         {
             "topic": "Membuat Dunia Open World Sederhana",
             "timestamp": "2026-10-11 12:16:47"
+        },
+        {
+            "topic": "Membuat Drag and Drop Interface",
+            "timestamp": "2026-10-11 12:22:09"
         }
     ],
-    "last_updated": "2026-10-11 12:20:03"
+    "last_updated": "2026-10-11 12:22:09"
 }
