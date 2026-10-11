@@ -4925,3 +4925,18 @@ I am given a pcap file and I need to asnwer 7 questions.
 
 I quic
 ----------------------------------------
+
+Topik: GitHub Global: RIDHISEHGAL13/MAD1-WEEK5 / API.md
+Isi Pengetahuan:
+# Understanding RESTful APIs with Flask-RESTful
+
+RESTful APIs are essential for modern web development, allowing seamless communication between a client and a server. In Flask, we can create RESTful APIs efficiently using the `Flask-RESTful` extension.
+
+## 1. What is an API?
+
+An API (Application Programming Interface) is a set of rules that allows software applications to communicate with each other. APIs enable data exchange between systems and provide a standardized way for applications to interact.
+
+## 2. Why Use an API?
+
+- **Scalability**: APIs enable applications to grow and int
+----------------------------------------
