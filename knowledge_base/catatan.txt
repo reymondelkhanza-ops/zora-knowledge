@@ -7718,3 +7718,43 @@ Several months ago I began to learn deep learning.  I started with
 programming Python on a CUDA laptop.  This scale of parallel computing
 is 
 ----------------------------------------
+
+Topik: GitHub Global: safal207/L-THREAD-Liminal-Thread-Secure-Protocol-LTP- / API.md
+Isi Pengetahuan:
+# LTP API Reference
+
+**Version:** 0.3  
+**Last Updated:** 2025-01-15
+
+Complete API reference for LTP (Liminal Thread Protocol) SDKs across all supported languages.
+
+---
+
+## Table of Contents
+
+1. [JavaScript/TypeScript API](#javascripttypescript-api)
+2. [Python API](#python-api)
+3. [Elixir API](#elixir-api)
+4. [Rust API](#rust-api)
+5. [Common Patterns](#common-patterns)
+
+---
+
+## JavaScript/TypeScript API
+
+### LtpClient
+
+#### Constructor
+
+```typescript
+new LtpClient(
+  url: string,
+  options?: LtpClientOptions,
+  events?: LtpClientEvents
+)
+```
+
+**Parameters:**
+
+- `url` (string, required): WebSoc
+----------------------------------------
