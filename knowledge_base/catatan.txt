@@ -696,3 +696,8 @@ Topik: Wikipedia: Bursa saham
 Isi Pengetahuan:
 Bursa efek adalah sebuah pasar yang berhubungan dengan pembelian dan penjualan efek perusahaan yang sudah terdaftar di bursa itu. Bursa efek tersebut, bersama-sama dengan pasar uang merupakan sumber utama permodalan eksternal bagi perusahaan dan pemerintah. Biasanya terdapat suatu lokasi pusat, setidaknya untuk catatan, tetapi perdagangan kini semakin sedikit dikaitkan dengan tempat seperti itu, karena bursa saham modern kini adalah jaringan internet, yang memberikan keuntungan dari segi kecepatan dan biaya transaksi. Karena pihak-pihak yang bertransaksi tidak perlu saling tahu lawan transaksi
 ----------------------------------------
+
+Topik: Wikipedia: Fotosintesis
+Isi Pengetahuan:
+Fotosintesis adalah suatu proses biokimia pembentukan karbohidrat dari bahan anorganik yang dilakukan oleh tumbuhan, terutama tumbuhan yang mengandung zat hijau daun, yaitu klorofil. Selain yang mengandung zat hijau daun, ada juga makhluk hidup yang berfotosintesis yaitu alga, dan beberapa jenis bakteri dengan menggunakan zat hara, karbon dioksida, dan air serta dibutuhkan bantuan energi cahaya matahari.
+----------------------------------------
