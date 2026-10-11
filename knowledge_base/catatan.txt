@@ -407,3 +407,10 @@ Ringkasan: **Machine learning and statistics are closely related fields, so do c
 + [MACHINE LEARNING](#machine-learning)
 + [NLP](#nlp)
    + [English](#englis...
+
+Topik: GitHub: GitHub (JakeSteam/Mermaid / c4.md)
+Ringkasan: # C4 diagram cheatsheet
+
+[Official documentation](https://mermaid.js.org/syntax/c4.html).
+
+C4 diagrams are essentially a standardised and formalised way of using other diagrams, as such the syntax is similar to other diagrams. Since there is only experimental support it may change, but here's an exa...
