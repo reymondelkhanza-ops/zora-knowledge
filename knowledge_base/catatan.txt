@@ -5219,3 +5219,12 @@ ISO C+&#x200d;+ 标准委员会既没有一组得到广泛认可的设计标准�
 - 在《C+&#x200d;+ 语言的设计和演化》[Stroustrup 1994]（[§2.1](02.md#21-第一个十年)）中提出的“经验法则”包括 RAII（[§2.2.1](02.md#221-语言特性)）、面向对象编程、泛型编程和静态类型安全。
 - “简单的事情简单做！”（[§4.2](04.md
 ----------------------------------------
+
+Topik: GitHub Global: dhamaniasad/top10k / c++.md
+Isi Pengetahuan:
+1. [nw.js](https://github.com/nwjs/nw.js) [25137, 2760]: *Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.*
+2. [electron](https://github.com/atom/electron) [18404, 1590]: *Build cross platform desktop apps with web technologies*
+3. [phantomjs](https://github.com/ariya/phantomjs) [15601, 3089]: *Scriptable Headless WebKit*
+4. [hhvm](https://github.com/facebook/hhvm) [12751, 2308]: *A virtual machine designed for executing programs written in Hack and PHP. *
+5. [rethinkdb](https://github.com/rethinkdb/rethinkdb) [10691, 891]: *The
+----------------------------------------
