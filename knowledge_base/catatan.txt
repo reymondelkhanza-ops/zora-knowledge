@@ -2199,3 +2199,24 @@ rules in `ROADMAP.md` govern this file.
 These are reusable Hex libraries rather than Pi extensions. Building them first
 prevents e
 ----------------------------------------
+
+Topik: GitHub Global: phalcon-kit/core / AI.md
+Isi Pengetahuan:
+# AI-Assisted Development With PhalconKit
+
+PhalconKit ships reusable AI guidance for two audiences:
+
+- Developers building applications on top of PhalconKit.
+- Maintainers contributing to `phalcon-kit/core`.
+
+These assets are documentation and agent instructions only. They do not add a
+runtime AI layer or change the PHP service provider API.
+
+## Shipped Skills
+
+The package includes local skills under `resources/skills/`:
+
+- `resources/skills/phalconkit-app-developer/` helps agents work in an
+  application that uses PhalconKit. Its Phalcon baseline reference points to
+  official native Phalcon 
+----------------------------------------
