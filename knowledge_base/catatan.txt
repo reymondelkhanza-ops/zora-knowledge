@@ -1113,3 +1113,8 @@ The service exposes a small HTTP API for point-based image segmentation using SA
 - The predictor is kept in a global variable after initialization.
 - Device selection is automatic inside the app: `cuda` if available, otherw
 ----------------------------------------
+
+Topik: Wikipedia: Bahasa pemrograman Python
+Isi Pengetahuan:
+Python adalah bahasa pemrograman tujuan umum yang ditafsirkan, tingkat tinggi. Dibuat oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991, filosofi desain Python menekankan keterbacaan kode dengan penggunaan spasi putih yang signifikan. Konstruksi bahasanya dan pendekatan berorientasi objek bertujuan untuk membantu pemrogram menulis kode yang jelas dan logis untuk proyek skala kecil dan besar.
+----------------------------------------
