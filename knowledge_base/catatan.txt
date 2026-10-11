@@ -10350,3 +10350,32 @@ Contents:
 - `saas.db` — users (balance_usd), wallet_tx ledger, alipay_orders, user_tokens, … **(money)**
 - `saas.db.jwt_secret` — ses
 ----------------------------------------
+
+Topik: GitHub Global: apachecn/fastai-num-linalg-v2-zh / 7.md
+Isi Pengetahuan:
+# 七、线性回归和健康结果
+
+## 糖尿病数据集
+
+我们将使用来自糖尿病患者的数据集。 数据由 442 个样本和 10 个变量（都是生理特征）组成，因此它很高而且很窄。 因变量是基线后一年疾病进展的定量测量。
+
+这是一个经典的数据集，由 Efron，Hastie，Johnstone 和 Tibshirani 在他们的最小角度回归的论文中使用，也是 scikit-learn 中包含的众多数据集之一。
+
+```py
+data = datasets.load_diabetes()
+
+feature_names=['age', 'sex', 'bmi', 'bp', 's1', 's2', 's3', 's4', 's5', 's6']
+
+trn,test,y_trn,y_test = train_test_split(data.data, data.target, test_size=0.2)
+
+trn.shape, test.shape
+
+# ((353, 10), (89, 10))
+```
+
+## Sklearn 中的线性回归
+
+考虑系统`Xβ=y`，其中`X`的行比列更多。 当你有比变量更多的数据样本时会发生这种情况。 我们想要找到 ![\hat \beta](img/tex-37775992f2ac92fd81ac90641d7bd911.gif) 来最小化：
+
+![\big\
+----------------------------------------
