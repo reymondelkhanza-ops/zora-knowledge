@@ -1,5 +1,5 @@
 {
-    "total_learned": 1191,
+    "total_learned": 1192,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2548,7 +2548,11 @@
         {
             "topic": "GitHub Global: dhamaniasad/top10k / c++.md",
             "timestamp": "2026-10-11 20:00:49"
+        },
+        {
+            "topic": "WA: Seseorang",
+            "timestamp": "2026-10-11 20:01:23"
         }
     ],
-    "last_updated": "2026-10-11 20:00:49"
+    "last_updated": "2026-10-11 20:01:23"
 }
