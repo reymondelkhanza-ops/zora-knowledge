@@ -7696,3 +7696,25 @@ To create and customize your Telegram Bot, search for [@BotFather](https://t.me/
 *   **Command**: `/newbot`
 *   **Name**: Choose a premium, human-readable name for 
 ----------------------------------------
+
+Topik: GitHub Global: wangkuiyi/k8s-ml / cmu.md
+Isi Pengetahuan:
+# Kubernetes for Distributed Machine Learning
+
+   Yi Wang
+   Apr 22, 2016
+
+Jike and Ian want me describe my experience of using Kubernetes with
+distributed machine learning.  It is easy to explain how and what I do
+-- install Kubernetes and Tensorflow and etc and use them.  However,
+the more interesting part is why we use them, and how our daily work
+would look like after we use them.
+
+## Distributed Machine Learning
+
+### Students' Mode
+
+Several months ago I began to learn deep learning.  I started with
+programming Python on a CUDA laptop.  This scale of parallel computing
+is 
+----------------------------------------
