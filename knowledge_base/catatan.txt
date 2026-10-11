@@ -1050,3 +1050,8 @@ It can be used as a checklist if:
 ## 🤔 Does this article only cover backend apps? 
 Because the author's expertise lies mostly on the backend side, most suggestions will be useful for developing backend a
 ----------------------------------------
+
+Topik: Wikipedia: Sejarah komputer
+Isi Pengetahuan:
+Sejarah komputer berawal dari abad ke-19, ketika Charles Babbage mencoba untuk mendesain komputer mekanik yang bernama Mesin Analitikal. Desain ini menjadi basis kerangka desain komputer sekarang.
+----------------------------------------
