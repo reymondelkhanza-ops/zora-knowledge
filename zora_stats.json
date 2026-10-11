@@ -1,5 +1,5 @@
 {
-    "total_learned": 1290,
+    "total_learned": 1291,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2828,7 +2828,11 @@
         {
             "topic": "GitHub Global: dabster108/MCP-Student-Recommendation-Server / MCP.md",
             "timestamp": "2026-10-11 21:04:02"
+        },
+        {
+            "topic": "GitHub Global: neosapience/typecast-api-mcp-server / PR.md",
+            "timestamp": "2026-10-11 21:05:11"
         }
     ],
-    "last_updated": "2026-10-11 21:04:02"
+    "last_updated": "2026-10-11 21:05:11"
 }
