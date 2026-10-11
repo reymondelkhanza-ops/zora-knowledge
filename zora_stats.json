@@ -1,5 +1,5 @@
 {
-    "total_learned": 1227,
+    "total_learned": 1228,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2644,7 +2644,11 @@
         {
             "topic": "GitHub Global: Mybridge/learn-web-development / CN.md",
             "timestamp": "2026-10-11 20:28:53"
+        },
+        {
+            "topic": "GitHub Global: shenwei356/awesome / c.md",
+            "timestamp": "2026-10-11 20:29:34"
         }
     ],
-    "last_updated": "2026-10-11 20:28:53"
+    "last_updated": "2026-10-11 20:29:34"
 }
