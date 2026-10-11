@@ -3688,3 +3688,43 @@ Isi Pengetahuan:
  2. [Fast and provable algorithms for spectrally sparse signal reconstruction via low-rank Hankel matrix completion](http://dx.doi.org/10.1016/j.acha.2017.04.004). Applied and Computational Harmonic Analysis, 2017.
  3. [Hankel Matrix Nuclear Norm Regularized Tensor Completion for N-dimensional Exponential Signals](https://doi.org/10.1109/TSP.2017.2695566). IEEE Transactions on Signal Proce
 ----------------------------------------
+
+Topik: GitHub Global: safal207/L-THREAD-Liminal-Thread-Secure-Protocol-LTP- / API.md
+Isi Pengetahuan:
+# LTP API Reference
+
+**Version:** 0.3  
+**Last Updated:** 2025-01-15
+
+Complete API reference for LTP (Liminal Thread Protocol) SDKs across all supported languages.
+
+---
+
+## Table of Contents
+
+1. [JavaScript/TypeScript API](#javascripttypescript-api)
+2. [Python API](#python-api)
+3. [Elixir API](#elixir-api)
+4. [Rust API](#rust-api)
+5. [Common Patterns](#common-patterns)
+
+---
+
+## JavaScript/TypeScript API
+
+### LtpClient
+
+#### Constructor
+
+```typescript
+new LtpClient(
+  url: string,
+  options?: LtpClientOptions,
+  events?: LtpClientEvents
+)
+```
+
+**Parameters:**
+
+- `url` (string, required): WebSoc
+----------------------------------------
