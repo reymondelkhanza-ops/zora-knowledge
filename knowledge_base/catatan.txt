@@ -546,3 +546,6 @@ Ringkasan: ##### [点击下载本项目全部内容 提取码：【8f8b】 包�
 > 千本开源电子书覆盖了你在IT行业发展可以用到的大部分资料，百张思维导图按照专题对各类计算机知识进行了整合。**由于文件过大，建议通过下方扫码，回复【999】获取**
 
 - 📚 [一千本开源电子书](https://github.com/geekxh/hello...
+
+Topik: Sejarah komputer
+Ringkasan: Sejarah komputer berawal dari abad ke-19, ketika Charles Babbage mencoba untuk mendesain komputer mekanik yang bernama Mesin Analitikal. Desain ini menjadi basis kerangka desain komputer sekarang....
