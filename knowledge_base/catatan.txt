@@ -10620,3 +10620,31 @@ Isi Pengetahuan:
 
 <!-- END doctoc generated TOC please keep comment h
 ----------------------------------------
+
+Topik: GitHub Global: mikezio/InstaLab / API.md
+Isi Pengetahuan:
+# InstaLab API Documentation
+
+This document describes the Flask API endpoints available in InstaLab.
+
+**Base URL:** `http://localhost:5000` (default)
+
+⚠️ **Security Note:** All endpoints are currently unauthenticated. See [SECURITY.md](SECURITY.md) for deployment recommendations.
+
+---
+
+## Table of Contents
+
+- [Health & Status](#health--status)
+- [Run Lifecycle](#run-lifecycle)
+- [Runs](#runs)
+- [Jobs](#jobs)
+- [Targets](#targets)
+- [Logins](#logins)
+- [Insights](#insights)
+- [Unfollow](#unfollow)
+- [Monitor](#monitor)
+- [Summary](#summary)
+- [Configuration](#configuration)
+- [Integrations](#in
+----------------------------------------
