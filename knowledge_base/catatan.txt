@@ -3662,3 +3662,18 @@ Non-breaking modernization (promise APIs added additively, internal ESM migratio
 dependency hygiene) does **not** need to wait for v1 — it lands incrementally on the
 `0.x` line first, so that v1 itself is mostly *removals* plus
 ----------------------------------------
+
+Topik: GitHub Global: Bulat-Ziganshin/FastECC / GF.md
+Isi Pengetahuan:
+### Program usage
+
+`prime N` - check whether N is prime, print divisors of N, and search, starting at N+1, for prime numbers as well as numbers with only small divisors.
+
+This program is useful for researching ring properties, in particular maximal order. Some other ring/field properties are checked by the [NTT program](NTT.md).
+
+
+### Lucky number: choosing the best base for computations
+
+Since GF(2^n) doesn't have much roots of unity, efficient NTT-based Reed-Solomon codes implementation can't perform computations in this field.
+Instead, we need to use other Galois Field, or even Ring modulo 
+----------------------------------------
