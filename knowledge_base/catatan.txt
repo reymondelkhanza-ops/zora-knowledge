@@ -508,3 +508,6 @@ bot是Xcode Server在源代码仓库中对当前版本的项目执行持续集�
 
 Topik: Otak manusia
 Ringkasan: Otak manusia merupakan organ pusat dari sistem saraf manusia, isinya adalah intrakranial. Sistem saraf pusat (otak) dibentuk oleh sumsum tulang belakang, ini terletak di dalam kanal tulang belakang. Otak terdiri dari otak besar, batang otak, dan otak kecil. Komponen utama otak adalah Kerak otak, lap...
+
+Topik: Bursa saham
+Ringkasan: Bursa efek adalah sebuah pasar yang berhubungan dengan pembelian dan penjualan efek perusahaan yang sudah terdaftar di bursa itu. Bursa efek tersebut, bersama-sama dengan pasar uang merupakan sumber utama permodalan eksternal bagi perusahaan dan pemerintah. Biasanya terdapat suatu lokasi pusat, seti...
