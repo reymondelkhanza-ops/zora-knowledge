@@ -1,5 +1,5 @@
 {
-    "total_learned": 902,
+    "total_learned": 903,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -1948,7 +1948,11 @@
         {
             "topic": "GitHub: GitHub Global (demidovakatya/vvedenie-mashinnoe-obuchenie / r.md)",
             "timestamp": "2026-10-11 12:13:47"
+        },
+        {
+            "topic": "GitHub: GitHub Global (mayfrost/guides / X.md)",
+            "timestamp": "2026-10-11 12:14:32"
         }
     ],
-    "last_updated": "2026-10-11 12:13:47"
+    "last_updated": "2026-10-11 12:14:32"
 }
