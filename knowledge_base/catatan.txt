@@ -9397,3 +9397,16 @@ Isi Pengetahuan:
 1. [Git](#git)
 1. [Google Analytics](#google
 ----------------------------------------
+
+Topik: GitHub Global: spal-cf/cert / ad.md
+Isi Pengetahuan:
+## Active Directory Theory
+
+* When an instance of Active Directory is configured, a domain is created such as corp.com . Within this domain, we can add various types of objects, including computer and user objects. These objects are orgnized with the help of Organizational Units (OU).
+
+* To gain complete control over all computers in AD, we could compromise a member of the Domain Admins group or a domain controller.
+
+* Domain controller contains all the password hashes of every single domain user account.
+
+* When applications like Exchange, SQL, or IIS are integrated into Active Directory, a u
+----------------------------------------
