@@ -549,3 +549,11 @@ Ringkasan: ##### [点击下载本项目全部内容 提取码：【8f8b】 包�
 
 Topik: Sejarah komputer
 Ringkasan: Sejarah komputer berawal dari abad ke-19, ketika Charles Babbage mencoba untuk mendesain komputer mekanik yang bernama Mesin Analitikal. Desain ini menjadi basis kerangka desain komputer sekarang....
+
+Topik: GitHub: GitHub (Together-Java/TJ-Bot / PP.md)
+Ringkasan: # Privacy Policy
+
+## Definitions
+
+* "**TJ-Bot**" (also "**bot**") refers to the Discord bot that is subject under this policy
+* "**[Together Java](https://github.com/orgs/Together-Java/teams/moderators/members)**" (also "**We**" or "**Us**") is the group of people responsible for the **TJ-Bot** prod...
