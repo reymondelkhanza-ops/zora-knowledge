@@ -9662,3 +9662,26 @@ This page provides an overview of applications that support the Model Context Pr
 | Client                               | [Resources] | [Prompts] | [Tools] | [Sampling] | Roots | Notes                                                              |
 | ------------------------------------ | ----------- | --------- | ------- | ---
 ----------------------------------------
+
+Topik: GitHub Global: irlgaming/jsondb-public / faq.md
+Isi Pengetahuan:
+JSONDB FAQ
+
+## Description
+
+Frequently asked questions about JSONDB - this document is updated as new questions come up.
+
+## Why is there no Android support? (When will Android support be available?)
+
+There is! Just include the module source directly into your project.
+
+## Where can I find documentation and/or code examples?
+
+Documentation and an example application showing practical examples of the module in action are available at the following URL:
+
+https://github.com/irlgaming/jsondb-public
+
+## Can I migrate my application from SQLite to JSONDB?
+
+The process of migrating from SQLite would 
+----------------------------------------
