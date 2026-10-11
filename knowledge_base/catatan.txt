@@ -978,3 +978,31 @@ Topik: Wikipedia: Otak manusia
 Isi Pengetahuan:
 Otak manusia merupakan organ pusat dari sistem saraf manusia, isinya adalah intrakranial. Sistem saraf pusat (otak) dibentuk oleh sumsum tulang belakang, ini terletak di dalam kanal tulang belakang. Otak terdiri dari otak besar, batang otak, dan otak kecil. Komponen utama otak adalah Kerak otak, lapisan kain saraf terlipat yang menutupi permukaan belahan otak. Terutama besar di lobus depan, yang terkait dengan fungsi eksekutif, seperti pengendalian diri, perencanaan, penalaran dan pemikiran abstrak. Otak mengendalikan sebagian besar aktivitas tubuh, memproses, mengintegrasikan, dan mengoordina
 ----------------------------------------
+
+Topik: GitHub Global: apachecn/ds-ai-tech-notes / 9.md
+Isi Pengetahuan:
+# 九、模型验证
+
+> 作者：[Chris Albon](https://chrisalbon.com/)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+# 准确率
+
+![](img/44cffe94ab676a80cb08e22bc19fb02d.jpg)
+
+```py
+# 加载库
+from sklearn.model_selection import cross_val_score
+from sklearn.linear_model import LogisticRegression
+from sklearn.datasets import make_classification
+
+# 生成特征矩阵和目标向量
+X, y = make_classification(n_samples = 10000,
+                           n_features = 3,
+                           n_informative = 3,
+                           n_redundant = 0,
+         
+----------------------------------------
