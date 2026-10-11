@@ -167,3 +167,6 @@ Ringkasan: Teori relativitas adalah teori yang membahas mengenai kecepatan dan p
 
 Topik: Internet
 Ringkasan: Internet adalah sistem jaringan komputer yang saling terhubung secara global dengan menggunakan paket protokol internet (TCP/IP) untuk menghubungkan perangkat di seluruh dunia. Ini adalah jaringan dari jaringan yang terdiri dari jaringan privat, publik, akademik, bisnis, dan pemerintah lokal ke ling...
+
+Topik: Bursa saham
+Ringkasan: Bursa efek adalah sebuah pasar yang berhubungan dengan pembelian dan penjualan efek perusahaan yang sudah terdaftar di bursa itu. Bursa efek tersebut, bersama-sama dengan pasar uang merupakan sumber utama permodalan eksternal bagi perusahaan dan pemerintah. Biasanya terdapat suatu lokasi pusat, seti...
