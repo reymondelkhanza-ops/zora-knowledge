@@ -4047,3 +4047,22 @@ An API (Application Programming Interface) is a set of rules that allows softwar
 
 - **Scalability**: APIs enable applications to grow and int
 ----------------------------------------
+
+Topik: GitHub Global: micanny/solsniper / bot.md
+Isi Pengetahuan:
+# Production-Grade  solsniper - Implementation Specification
+
+## 🎯 Project Overview
+
+Build a high-performance, production-ready Solana token monitoring system that efficiently ingests, filters, enriches, and alerts on new token pool creations across multiple DEXs (Jupiter, Raydium, Orca,). The system must handle  entry-commercial-scale load while respecting rate limits and maintaining sub-second detection latency.
+
+---
+
+## 📋 Core Requirements
+
+### Objective
+Scan and save tokens from:
+- **Jupiter V6** (aggregator routing)
+- **Raydium AMM V4** (pool creation + liquidity)
+- **Orca Whirlpool** (co
+----------------------------------------
