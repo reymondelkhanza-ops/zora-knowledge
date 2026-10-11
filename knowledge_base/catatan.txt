@@ -3486,3 +3486,18 @@ X, y = make_classification(n_samples = 10000,
                            n_redundant = 0,
          
 ----------------------------------------
+
+Topik: GitHub Global: fdhhhdjd/Class_NodeJs_Systems / BOT.md
+Isi Pengetahuan:
+# BOT 
+
+# 1. TELEGRAM
+
+## Into telegram enter with BotFather
+```cmd
+    /newbot
+    class_telegram
+    class_telegram_bot
+    click open telegram bot
+```
+----------------------------------------
