@@ -429,3 +429,13 @@ Ringkasan: # 六、HTTP 参数污染
 HTTP 参数污染，或者 HPP，在网站接受用户输入，将其用于生成发往其它系统的 HTTP 请求，并且不校验用户输出的时候发生。它以两种方式产生，通过服务器（后端）或者通过客户端。
 
 在 StackExchange 上，SilverlightFox 提供了一个 HPP 服务端攻击的不错的例子。假设我...
+
+Topik: GitHub: GitHub (svaksha/pythonidae / AI.md)
+Ringkasan: **AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural Nets, NLP, etc...**
+
+
++ [§1. AI](#1-AI)
++ [§2. DATA SCIENCE](#2-DATA-SCIENCE)
++ [§3. MACHINE LEARNING](#3-MACHINE-LEARNING)
+   + [§3.1. Deep Learning](#3-1-Deep-Learning)
+   + [§3.2. Classification Algor...
