@@ -10306,3 +10306,21 @@ https://github.com/irlgaming/jsondb-public
 
 The process of migrating from SQLite would 
 ----------------------------------------
+
+Topik: GitHub Global: thlorenz/v8-perf / gc.md
+Isi Pengetahuan:
+# V8 Garbage Collector
+
+_find the previous version of this document at
+[crankshaft/gc.md](crankshaft/gc.md)_
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Goals, Techniques](#goals-techniques)
+- [Cost of Allocating Memory](#cost-of-allocating-memory)
+- [How objects are determined to be dead](#how-objects-are-determined-to-be-dead)
+- [Two Generations](#two-generations)
+  - [Generational Garbage Collector](
+----------------------------------------
