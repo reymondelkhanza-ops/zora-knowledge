@@ -1,5 +1,5 @@
 {
-    "total_learned": 859,
+    "total_learned": 860,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -1796,7 +1796,11 @@
         {
             "topic": "Membuat SPA Single Page Application",
             "timestamp": "2026-10-11 11:45:45"
+        },
+        {
+            "topic": "Membuat Code Editor dengan Highlight",
+            "timestamp": "2026-10-11 11:46:29"
         }
     ],
-    "last_updated": "2026-10-11 11:45:45"
+    "last_updated": "2026-10-11 11:46:29"
 }
