@@ -143,3 +143,10 @@ Ringkasan: Termodinamika merupakan salah satu cabang fisika yang membahas mengen
 
 Topik: Mesin roket
 Ringkasan: Roket merupakan wahana luar angkasa, peluru kendali, atau kendaraan terbang yang mendapatkan dorongan melalui reaksi roket terhadap keluarnya secara cepat bahan fluida dari keluaran mesin roket. Aksi dari keluaran dalam ruang bakar dan nozle pengembang, mampu membuat gas mengalir dengan kecepatan hi...
+
+Topik: GitHub: GitHub (JakeSteam/Mermaid / c4.md)
+Ringkasan: # C4 diagram cheatsheet
+
+[Official documentation](https://mermaid.js.org/syntax/c4.html).
+
+C4 diagrams are essentially a standardised and formalised way of using other diagrams, as such the syntax is similar to other diagrams. Since there is only experimental support it may change, but here's an exa...
