@@ -8767,3 +8767,19 @@ This program is useful for researching ring properties, in particular maximal or
 Since GF(2^n) doesn't have much roots of unity, efficient NTT-based Reed-Solomon codes implementation can't perform computations in this field.
 Instead, we need to use other Galois Field, or even Ring modulo 
 ----------------------------------------
+
+Topik: GitHub Global: svaksha/Julia.jl / AI.md
+Isi Pengetahuan:
+**Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages. Category sorting of packages is a WIP.**
+
++ [MACHINE LEARNING](#machine-learning)
++ [NLP](#nlp)
+   + [English](#english)
+   + [Finite Automata](#finite-automata)
+   + [Japanese](#japanese)
++ [REINFORCEMENT LEARNING](#reinforcement-learning)
++ [SPEECH RECOGNITION](#speech-recognition)
++ [SUPERVISED LEARNING](#supervised-learning)
++ [UNSUPERVISED LEARNING](#unsupervised-learning)
+   + [Neural Networks](#neural-networ
+----------------------------------------
