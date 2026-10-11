@@ -20,3 +20,6 @@ Ringkasan: **AI :: Artificial Intelligence, Cognitive Science, Machine Learning 
 + [§3. MACHINE LEARNING](#3-MACHINE-LEARNING)
    + [§3.1. Deep Learning](#3-1-Deep-Learning)
    + [§3.2. Classification Algor...
+
+Topik: Basis data relasional
+Ringkasan: Basis data Oracle adalah basis data relasional yang terdiri dari kumpulan data dalam suatu sistem manajemen basis data RDBMS. Perusahaan perangkat lunak Oracle memasarkan jenis basis data ini untuk bermacam-macam aplikasi yang bisa berjalan pada banyak jenis dan merk perangkat keras komputer (platfo...
