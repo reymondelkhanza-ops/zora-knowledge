@@ -249,3 +249,18 @@ Set __X__ and a desktop environment fast.
 3.1. [CORE FONTS](#core-fonts)  
 3.2. [FONTCONFIG](#fontconfig)  
 4. [TH...
+
+Topik: GitHub: GitHub (rShetty/awesome-podcasts / DE.md)
+Ringkasan: # Geniale Liste von wichtigen Podcasts für Software Entwickler
+
+Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmierer sind.
+
+## Übersicht
+
+* [Allgemein](#allgemein)
+* [.NET](#net)
+* [Agile](#agile)
+* [Sicherheit](#sicherheit)
+* [Webentwicklung](#webentwicklung)
+
+## Allgeme...
