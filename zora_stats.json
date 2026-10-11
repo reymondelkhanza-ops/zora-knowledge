@@ -1,5 +1,5 @@
 {
-    "total_learned": 1271,
+    "total_learned": 1272,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2784,7 +2784,11 @@
         {
             "topic": "GitHub Global: lqhuang/flight-rules / web.md",
             "timestamp": "2026-10-11 20:47:34"
+        },
+        {
+            "topic": "GitHub Global: apachecn/fastai-num-linalg-v2-zh / 7.md",
+            "timestamp": "2026-10-11 20:51:14"
         }
     ],
-    "last_updated": "2026-10-11 20:50:34"
+    "last_updated": "2026-10-11 20:51:14"
 }
