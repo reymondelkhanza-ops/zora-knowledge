@@ -5373,3 +5373,24 @@ Isi Pengetahuan:
     - [4.1.4 Single sign-on](#414-single-sign-on)
     - [4.1.5 Transitive trust](#
 ----------------------------------------
+
+Topik: GitHub Global: svaksha/pythonidae / API.md
+Isi Pengetahuan:
++ [API](#api)
+   + [Git](#git)
+   + [Telegram](#telegram)
++ [LANGUAGES](#languages)
+   + [C-CXX](#cxx)
+   + [FORTRAN](#fortran)
+   + [PYTHON](#python)
+   + [SCALA](#scala)
+
+----
+
+# API
++ [flow-python](https://github.com/SpiderOak/flow-python) :: Python API to the [Semaphor client backend](https://spideroak.com/solutions/semaphor)
+
+## Git 
++ [Dulwich](https://www.dulwich.io/) :: Pure-Python Git implementation. [Source code](https://github.com/jelmer/dulwich).
++ [GitPython](https://github.com/gitpython-developers/GitPython) :: A python library used to interact with Git repositories. http://gitpy
+----------------------------------------
