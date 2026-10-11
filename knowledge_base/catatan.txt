@@ -701,3 +701,8 @@ Topik: Wikipedia: Fotosintesis
 Isi Pengetahuan:
 Fotosintesis adalah suatu proses biokimia pembentukan karbohidrat dari bahan anorganik yang dilakukan oleh tumbuhan, terutama tumbuhan yang mengandung zat hijau daun, yaitu klorofil. Selain yang mengandung zat hijau daun, ada juga makhluk hidup yang berfotosintesis yaitu alga, dan beberapa jenis bakteri dengan menggunakan zat hara, karbon dioksida, dan air serta dibutuhkan bantuan energi cahaya matahari.
 ----------------------------------------
+
+Topik: Wikipedia: Kecerdasan buatan
+Isi Pengetahuan:
+Kecerdasan buatan, juga disebut kecerdasan artifisial dan kepintaran tiruan, adalah kecerdasan yang ditunjukkan oleh mesin, yang kontras dengan kecerdasan alami yang ditunjukkan oleh manusia dan hewan.
+----------------------------------------
