@@ -1,5 +1,5 @@
 {
-    "total_learned": 1419,
+    "total_learned": 1420,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -3268,7 +3268,11 @@
         {
             "topic": "WA: Rx7",
             "timestamp": "2026-10-11 21:38:24"
+        },
+        {
+            "topic": "WA: Astec",
+            "timestamp": "2026-10-11 21:38:41"
         }
     ],
-    "last_updated": "2026-10-11 21:38:24"
+    "last_updated": "2026-10-11 21:38:41"
 }
