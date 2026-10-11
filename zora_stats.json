@@ -1,5 +1,5 @@
 {
-    "total_learned": 1277,
+    "total_learned": 1278,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -2792,7 +2792,11 @@
         {
             "topic": "GitHub Global: TryEnlight/tryenlight.github.io / ml.md",
             "timestamp": "2026-10-11 20:56:47"
+        },
+        {
+            "topic": "GitHub Global: Bulat-Ziganshin/FastECC / GF.md",
+            "timestamp": "2026-10-11 20:57:27"
         }
     ],
-    "last_updated": "2026-10-11 20:56:47"
+    "last_updated": "2026-10-11 20:57:27"
 }
