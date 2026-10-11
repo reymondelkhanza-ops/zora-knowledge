@@ -137,3 +137,6 @@ Ringkasan: ### 5. Adım: Web Uygulamalarında Güvenlik Mimarisi
 Şimdiye kadar belirli güvenlik açıklarını tanıdık: SQL Injection, XSS, Broken Authentication... Fakat tüm bu açıkların üstesinden gelmek sadece yamalarla, tek tek noktalara çözüm bulmakla olmaz. **Sağlam bir güvenlik mimarisine** ihtiyaç vardır.
 
 G...
+
+Topik: Termodinamika
+Ringkasan: Termodinamika merupakan salah satu cabang fisika yang membahas mengenai perubahan energi panas menjadi bentuk energi lain. Hukum pertama termodinamika dan hukum termodinamika kedua menjadi acuan dalam membahas mengenai perubahan energi. Pengukuran di dalam termodinamika tidak dinyatakan dengan besar...
