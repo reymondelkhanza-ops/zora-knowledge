@@ -9166,3 +9166,32 @@ Isi Pengetahuan:
 
 <!-- END doctoc generated TOC please keep comment h
 ----------------------------------------
+
+Topik: GitHub Global: dev-labs-bg/devlabs-internal-code-conventions / html.md
+Isi Pengetahuan:
+# HTML Conventions
+
+## Не забравяйте да пишете doctype и указвайте lang атрибутa на документа
+```html
+<!DOCTYPE HTML>
+<html lang="en">
+```
+
+## Използвай UTF-8 (no BOM)
+Бъдете сигурни, че Вашият едитор използва UTF-8 като character encoding without BOM и не забравяйте да добавите HTML тага към Вашият темплейт:
+
+```html
+<meta charset="utf-8" />
+```
+
+## Protocols
+По възможност пропускайте протоколната част (http:, https:) при инклудването на стилове или скриптове
+
+Грешно:
+```html
+<script src="http://www.google.com/js/gweb/analytics/autotrack.js"></script>
+```
+Правилно:
+```html
+<script src="//www.
+----------------------------------------
