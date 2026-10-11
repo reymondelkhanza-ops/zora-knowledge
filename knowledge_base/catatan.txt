@@ -414,3 +414,18 @@ Ringkasan: # C4 diagram cheatsheet
 [Official documentation](https://mermaid.js.org/syntax/c4.html).
 
 C4 diagrams are essentially a standardised and formalised way of using other diagrams, as such the syntax is similar to other diagrams. Since there is only experimental support it may change, but here's an exa...
+
+Topik: GitHub: GitHub (wizardforcel/web-hacking-101-zh / 6.md)
+Ringkasan: # 六、HTTP 参数污染
+
+> 作者：Peter Yaworski
+
+> 译者：[飞龙](https://github.com/)
+
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## 描述
+
+HTTP 参数污染，或者 HPP，在网站接受用户输入，将其用于生成发往其它系统的 HTTP 请求，并且不校验用户输出的时候发生。它以两种方式产生，通过服务器（后端）或者通过客户端。
+
+在 StackExchange 上，SilverlightFox 提供了一个 HPP 服务端攻击的不错的例子。假设我...
