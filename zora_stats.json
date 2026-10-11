@@ -1,5 +1,5 @@
 {
-    "total_learned": 883,
+    "total_learned": 884,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -1884,7 +1884,11 @@
         {
             "topic": "WA Chat: p?sbdhm (group)",
             "timestamp": "2026-10-11 12:00:35"
+        },
+        {
+            "topic": "OAuth Google Login Dasar",
+            "timestamp": "2026-10-11 12:01:14"
         }
     ],
-    "last_updated": "2026-10-11 12:00:35"
+    "last_updated": "2026-10-11 12:01:14"
 }
