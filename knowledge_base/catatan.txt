@@ -2143,3 +2143,26 @@ ___
 | 🎯 Gợi ý giống thú cưng | Dựa trên thông tin người dùng nhập (giới tính, độ tuổi, tính cách, môi trường sống…), bot sẽ gợi ý giống chó/mèo phù hợp |
 | 🗣️ Tương tác qua Telegram | Bot hoạt động trên nền tảng Telegram, nhận và phản hồi tin nhắn người dùn
 ----------------------------------------
+
+Topik: GitHub Global: TryEnlight/tryenlight.github.io / ml.md
+Isi Pengetahuan:
+---
+layout: page
+title: Learn Machine Learning
+description: Resources to educate developers on the realms of machine learning.
+color: blue
+---
+
+<article class="pa1 pa2-ns">
+	<h1 class="f4 bold mw6">Table of Contents</h1>
+	<ul class="list pl0 ml0 mw6 ba b--light-silver br2">
+		<li class="ph3 pv3 bb b--light-silver">
+			<a href="#start">Intro to Machine Learning</a>
+		</li>
+		<li class="ph3 pv3 bb b--light-silver">
+			<a href="/neural-network">Build a Neural Network</a>
+		</li>
+		<li class="ph3 pv3 bb b--light-silver">
+			<a href="/stock-market-prediction">Build a Stock Prediction Algorithm</a>
+
+----------------------------------------
