@@ -484,3 +484,11 @@ Set __X__ and a desktop environment fast.
 3.1. [CORE FONTS](#core-fonts)  
 3.2. [FONTCONFIG](#fontconfig)  
 4. [TH...
+
+Topik: GitHub: GitHub (demidovakatya/vvedenie-mashinnoe-obuchenie / r.md)
+Ringkasan: # R
+ 
+* [R in Action](https://www.manning.com/books/r-in-action)
+* [Basic Statistics](https://www.coursera.org/learn/basic-statistics)
+* [Анализ данных на R в примерах и задачах (Computer Science Center, videos)](http://www.youtube.com/playlist?list=PLlb7e2G7aSpSSa_PlFEwnd6-3gzAa08_m)
+* [Advanced R ...
