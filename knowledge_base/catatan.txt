@@ -12574,3 +12574,43 @@ Isi Pengetahuan:
 - [x] Implement a server-sent event stream for real-time recon module status and finding events without client polling.
 - [x] Build normalized target parsing and input validation for domains, IPv4/IPv6 addresses, email addresses, u
 ----------------------------------------
+
+Topik: GitHub Global: JDubas/gs_mobile / API.md
+Isi Pengetahuan:
+## Endpoints da API Flask
+
+## Dependências para rodar a API
+
+- Python 3
+- Flask
+- Flask-CORS
+- OracleDB
+
+```bash
+pip install flask
+pip install flask-cors
+pip install oracledb
+```
+
+Use o comnando abaixo para rodar a  api localmente:
+```bash
+npm run api
+```
+
+
+### POST /upload-image
+- **Descrição:** Upload de uma imagem para o servidor.
+
+### POST /login
+- **Descrição:** Autenticação do usuário.
+- **Exemplo: **  http://127.0.0.1:5000/login
+    ```json
+  {
+    "email": "example@example.com",
+    "senha": "senha"
+  }
+  ```
+
+### POST /recuperar-senha
+- **Descrição:** Recuperação de senha com base no 
+----------------------------------------
