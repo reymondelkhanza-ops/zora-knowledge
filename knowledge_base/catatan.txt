@@ -12096,3 +12096,30 @@ Isi Pengetahuan:
     click open telegram bot
 ```
 ----------------------------------------
+
+Topik: GitHub Global: an2in/Network-Forensics / wu.md
+Isi Pengetahuan:
+# Lets do network forensicsssssssssssss
+I am tasked with doing all these challenges in ~~1~~ 2 week**s** <img src="pepeluv.png" width="20" height="16" />.
+
+**Lab Cyberdefender**
+
+    PsExec Hunt
+    BlueSky Ransomware
+    HawkEye
+    PacketMaze
+    HoneyBot
+    Acoustic
+    WireDive
+**Viblo Asia CTF**
+
+    Netlab 1,2,6,7,8
+
+Lets do it bb.
+## PsExec Hunt
+I am given a pcap file and I need to asnwer 7 questions.
+
+**Question 1: To effectively trace the attacker's activities within our network, can you identify the IP address of the machine from which the attacker initially gained access?**
+
+I quic
+----------------------------------------
