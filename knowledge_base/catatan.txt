@@ -14198,3 +14198,24 @@ The package includes local skills under `resources/skills/`:
   application that uses PhalconKit. Its Phalcon baseline reference points to
   official native Phalcon 
 ----------------------------------------
+
+Topik: GitHub Global: svaksha/pythonidae / API.md
+Isi Pengetahuan:
++ [API](#api)
+   + [Git](#git)
+   + [Telegram](#telegram)
++ [LANGUAGES](#languages)
+   + [C-CXX](#cxx)
+   + [FORTRAN](#fortran)
+   + [PYTHON](#python)
+   + [SCALA](#scala)
+
+----
+
+# API
++ [flow-python](https://github.com/SpiderOak/flow-python) :: Python API to the [Semaphor client backend](https://spideroak.com/solutions/semaphor)
+
+## Git 
++ [Dulwich](https://www.dulwich.io/) :: Pure-Python Git implementation. [Source code](https://github.com/jelmer/dulwich).
++ [GitPython](https://github.com/gitpython-developers/GitPython) :: A python library used to interact with Git repositories. http://gitpy
+----------------------------------------
