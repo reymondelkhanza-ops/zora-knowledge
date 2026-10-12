@@ -11938,3 +11938,16 @@ The service exposes a small HTTP API for point-based image segmentation using SA
 - The predictor is kept in a global variable after initialization.
 - Device selection is automatic inside the app: `cuda` if available, otherw
 ----------------------------------------
+
+Topik: GitHub Global: aaronshaf/security-plus / 4.md
+Isi Pengetahuan:
+# 4.0 Identity and Access Management
+
+- [4.0 Identity and Access Management](#40-identity-and-access-management)
+  - [4.1 Compare and contrast identity and access management concepts](#41-compare-and-contrast-identity-and-access-management-concepts)
+    - [4.1.1 Identification, Authentication, Authorization and Accounting (AAA)](#411-identification-authentication-authorization-and-accounting-aaa)
+    - [4.1.2  Multifactor Authentication](#412--multifactor-authentication)
+    - [4.1.3 Federation](#413-federation)
+    - [4.1.4 Single sign-on](#414-single-sign-on)
+    - [4.1.5 Transitive trust](#
+----------------------------------------
