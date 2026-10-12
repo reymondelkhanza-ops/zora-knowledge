@@ -12810,3 +12810,47 @@ This page provides an overview of applications that support the Model Context Pr
 | Client                               | [Resources] | [Prompts] | [Tools] | [Sampling] | Roots | Notes                                                              |
 | ------------------------------------ | ----------- | --------- | ------- | ---
 ----------------------------------------
+
+Topik: GitHub Global: dabster108/MCP-Student-Recommendation-Server / MCP.md
+Isi Pengetahuan:
+# MCP Integration with FastAPI: Student Recommendation System
+
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Technology Stack](#technology-stack)
+- [How MCP Works with FastAPI](#how-mcp-works-with-fastapi)
+- [Working Mechanism](#working-mechanism)
+- [Key Features](#key-features)
+- [Components Breakdown](#components-breakdown)
+- [Data Flow](#data-flow)
+- [Integration Details](#integration-details)
+- [API Endpoints](#api-endpoints)
+- [MCP Server Implementation](#mcp-server-implementation)
+- [Use Cases](#use-cases)
+- [Benefits](#benefits)
+
+---
+
+## 🎯 Overview
+
+T
+----------------------------------------
+
+Topik: GitHub Global: bmadone/senior-software-engineer / ai.md
+Isi Pengetahuan:
+**Resources**
+
+**Foundations**
+
+-   [Attention Is All You Need (Transformer paper)](https://arxiv.org/abs/1706.03762)
+-   [Illustrated Transformer - Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+-   [Illustrated GPT-2 - Jay Alammar](https://jalammar.github.io/illustrated-gpt2/)
+-   [Fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/)
+-   [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
+
+**Large Language Models**
+
+-   [Anthropic Claude documentation](https://docs.anthropic.com/)
+-   [OpenAI Platform documentation](ht
+----------------------------------------
