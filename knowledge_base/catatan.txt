@@ -11181,3 +11181,55 @@ rag = CyberThreatRAG(db_path="./chroma_db", persist=True)
 
 Load CVE and NIST vulnerab
 ----------------------------------------
+
+Topik: GitHub Global: cvert-qc/pyjcall / doc.md
+Isi Pengetahuan:
+# PyJCall API Documentation
+
+This document provides a condensed overview of all methods available in the PyJCall library, organized by module.
+
+## Table of Contents
+
+- [Campaigns](#campaigns)
+- [Campaign Calls](#campaign-calls)
+- [Campaign Contacts](#campaign-contacts)
+- [Calls](#calls)
+- [Contacts](#contacts)
+
+## Campaigns
+
+### `list(page=None, per_page=None)`
+
+List all Sales Dialer campaigns.
+
+**Input:**
+- `page` (optional): The page number to read
+- `per_page` (optional): The number of results per page (default: 50, max: 100)
+
+**Output:**
+- Dictionary containing:
+  - `status`: Status of the
+----------------------------------------
+
+Topik: GitHub Global: theshashankk/DocuMindAI / BOT.md
+Isi Pengetahuan:
+# 🤖 DocuMind AI — Telethon Telegram Bot Guide
+
+```text
+ # © 2026 Shashank Sharma. All Rights Reserved. The Project: DocuMind AI — Multi-Agent Document & Contract Intelligence Engine
+```
+
+Author: **Shashank Sharma** · Portfolio: [https://theshashankk.qzz.io](https://theshashankk.qzz.io) · License: **Apache 2.0**
+
+---
+
+## ⚡ Quick Execution Guide (The Easy Way)
+
+To kick off the **entire application** — the Telegram Bot, the FastAPI backend REST API, and the Streamlit Web Dashboard — you don't need three separate commands. Just run:
+
+```bash
+python bot.py
+```
+
+> **🔥 How it works**: Running `python
+----------------------------------------
