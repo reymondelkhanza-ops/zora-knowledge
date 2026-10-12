@@ -12693,3 +12693,40 @@ Several months ago I began to learn deep learning.  I started with
 programming Python on a CUDA laptop.  This scale of parallel computing
 is 
 ----------------------------------------
+
+Topik: GitHub Global: melling/ComputerLanguages / go.md
+Isi Pengetahuan:
+# Go
+
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.md) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+
+## The Short List
++ [Awesome Go](https://github.com/avelino/awesome-go)
++ [Go in 5 Minutes](https://github.com/arschles/go-in-5-minutes)
+- http://www.goin5minutes.com/screencasts/index.html
++ [Go by Example](https://gobyexample.com)
+
+## Editor/IDE Support
+
++ [Visual Studio Code Plugin](https://
+----------------------------------------
+
+Topik: GitHub Global: julianjensen/dominators / RM.md
+Isi Pengetahuan:
+# dominators
+
+[![Coveralls Status][coveralls-image]][coveralls-url]
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][depstat-image]][depstat-url]
+[![npm version][npm-image]][npm-url]
+[![License][license-image]][license-url]
+[![Known Vulnerabilities][snyk-image]][snyk-url]
+[![david-dm][david-dm-image]][david-dm-url]
+
+> Various dominator tree generators.
+
+It implements two different methods for finding the immediate dominators of a graph.
+
+1. Implements a near-linear time iterative dominator generator based on the
+    paper [A Simple, Fast Dominance Algorithm](https://www.cs.ric
+----------------------------------------
