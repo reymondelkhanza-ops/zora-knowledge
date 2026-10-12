@@ -11790,3 +11790,21 @@ Response:
 Request:
 
 ----------------------------------------
+
+Topik: GitHub Global: kaiwu/sparkles / R0.md
+Isi Pengetahuan:
+# R0 — Trustworthy substrate and implemented baseline
+
+[Roadmap index](ROADMAP.md) · [Next: R1 capability catalog](R1.md)
+
+This phase records shared package contracts, dependency laws, completed
+arbitrations, Experimental vertical slices, and known authority/production-depth
+gaps. It is an evidence baseline, not a claim that the four trader workflows are
+complete. The lifecycle, course-demand gates, track laws, and finance-plugin
+rules in `ROADMAP.md` govern this file.
+
+## Shared packages before plugins
+
+These are reusable Hex libraries rather than Pi extensions. Building them first
+prevents e
+----------------------------------------
