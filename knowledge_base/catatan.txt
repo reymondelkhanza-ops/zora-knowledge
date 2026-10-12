@@ -12161,3 +12161,28 @@ To create and customize your Telegram Bot, search for [@BotFather](https://t.me/
 *   **Command**: `/newbot`
 *   **Name**: Choose a premium, human-readable name for 
 ----------------------------------------
+
+Topik: GitHub Global: wizardforcel/gainlo-interview-guide-zh / sd16.md
+Isi Pengetahuan:
+# 构建网页爬虫
+
+> 原文：[Build a Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
+
+> 译者：[飞龙](https://github.com/wizardforcel)
+
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> 自豪地采用[谷歌翻译](https://translate.google.cn/)
+
+让我们来谈谈这个流行的系统设计面试问题 - 如何建立一个网络爬虫？
+
+网络爬虫是当今最常用的系统之一。最流行的例子是 Google 使用爬虫从所有网站收集信息。除了搜索引擎之外，新闻网站还需要爬虫来聚合数据源。看来，只要你想聚合大量的信息，你可以考虑使用爬虫。
+
+建立一个网络爬虫有很多因素，特别是当你想扩展系统时。这就是为什么这已经成为最流行的系统设计面试问题之一。在这篇文章中，我们将讨论从基本爬虫到大型爬虫的主题，并讨论在面试中可能会遇到的各种问题。
+
+## 1 - 基本解决方案
+
+如何建立一个基本的网络爬虫？
+
+在系统设计面试之前，我们已经在《系统设计面试之前需要知道的八件事》中谈到，就是从简单的东西开始。让我们专注于构建在单线程上运行的基本网页爬虫。有了这
+----------------------------------------
