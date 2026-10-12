@@ -13823,3 +13823,18 @@ Isi Pengetahuan:
 + [Dulwich](https://www.dulwich.io/) :: Pure-Python Git implementation. [Source code](https://github.com/jelmer/dulwich).
 + [GitPython](https://github.com/gitpython-developers/GitPython) :: A python library used to interact with Git repositories. http://gitpy
 ----------------------------------------
+
+Topik: GitHub Global: fdhhhdjd/Class_NodeJs_Systems / BOT.md
+Isi Pengetahuan:
+# BOT 
+
+# 1. TELEGRAM
+
+## Into telegram enter with BotFather
+```cmd
+    /newbot
+    class_telegram
+    class_telegram_bot
+    click open telegram bot
+```
+----------------------------------------
