@@ -11593,3 +11593,19 @@ npm run api
 ### POST /recuperar-senha
 - **Descrição:** Recuperação de senha com base no 
 ----------------------------------------
+
+Topik: GitHub Global: asardell/IUT_SD1 / TP5.md
+Isi Pengetahuan:
+# TP5
+
+## Objectifs
+Voici les objectifs de ce chapitre :
+- [ ] Construire des jointures
+- [ ] Utiliser SQLite
+- [ ] Interroger une base de données
+
+
+:warning: L'ensemble des exercices sont à réaliser dans un seul script nommé `iut_sd1_r_tp5`
+
+Dans ce TP, nous allons voir les jointures et des rappels de manipulation de dataframe en travaillant sur quelques jeux de données présentant des statistiques de NBA depuis sa création. Nous utiliserons les données de GitHub mais vous pouvez obtenir plus d'info sur l'ensemble des données sur [Kaggle](https://www.kaggle.com/datasets/wyattowalsh/basketball)
+----------------------------------------
