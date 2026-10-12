@@ -12794,3 +12794,19 @@ To create and customize your Telegram Bot, search for [@BotFather](https://t.me/
 *   **Command**: `/newbot`
 *   **Name**: Choose a premium, human-readable name for 
 ----------------------------------------
+
+Topik: GitHub Global: procload/dnd-mcp / mcp.md
+Isi Pengetahuan:
+# Example Clients
+
+Source: https://modelcontextprotocol.io/clients
+
+A list of applications that support MCP integrations
+
+This page provides an overview of applications that support the Model Context Protocol (MCP). Each client may support different MCP features, allowing for varying levels of integration with MCP servers.
+
+## Feature support matrix
+
+| Client                               | [Resources] | [Prompts] | [Tools] | [Sampling] | Roots | Notes                                                              |
+| ------------------------------------ | ----------- | --------- | ------- | ---
+----------------------------------------
