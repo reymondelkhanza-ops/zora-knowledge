@@ -13077,3 +13077,21 @@ Isi Pengetahuan:
 
 T
 ----------------------------------------
+
+Topik: GitHub Global: proofcarryingdata/zupass / bot.md
+Isi Pengetahuan:
+# Dev Instructions for Testing ZKMS Bot
+
+_Doing these steps in order is more likely to result in success_
+
+### 0. Prerequisites
+
+- Install [Telegram Desktop](https://desktop.telegram.org/)
+- In the Telegram app, [Enable Web View Debug](https://core.telegram.org/bots/webapps#debug-mode-for-mini-apps)
+- Obtain a Telegram Bot [Token](https://core.telegram.org/bots/tutorial#obtain-your-bot-token)
+- Get a Pretix API token from a member of the 0xPARC PCD team.
+
+### 1. Set up environment
+
+In the environment file `apps/passport-server/.env`, fill in the `TELEGRAM_BOT_TOKEN` with the Telegram token you
+----------------------------------------
