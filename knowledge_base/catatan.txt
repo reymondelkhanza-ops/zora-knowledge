@@ -11997,3 +11997,33 @@ The Agora is a **Free Knowledge Commons** and an experimental distributed knowle
 
 *   **Radical Sovereignty & Decentralization:** The filesystem is the ultimate source of truth. The Agora acts as 
 ----------------------------------------
+
+Topik: GitHub Global: melling/ComputerLanguages / go.md
+Isi Pengetahuan:
+# Go
+
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.md) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+
+## The Short List
++ [Awesome Go](https://github.com/avelino/awesome-go)
++ [Go in 5 Minutes](https://github.com/arschles/go-in-5-minutes)
+- http://www.goin5minutes.com/screencasts/index.html
++ [Go by Example](https://gobyexample.com)
+
+## Editor/IDE Support
+
++ [Visual Studio Code Plugin](https://
+----------------------------------------
+
+Topik: GitHub Global: spal-cf/cert / ad.md
+Isi Pengetahuan:
+## Active Directory Theory
+
+* When an instance of Active Directory is configured, a domain is created such as corp.com . Within this domain, we can add various types of objects, including computer and user objects. These objects are orgnized with the help of Organizational Units (OU).
+
+* To gain complete control over all computers in AD, we could compromise a member of the Domain Admins group or a domain controller.
+
+* Domain controller contains all the password hashes of every single domain user account.
+
+* When applications like Exchange, SQL, or IIS are integrated into Active Directory, a u
+----------------------------------------
