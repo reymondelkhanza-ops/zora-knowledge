@@ -1,5 +1,5 @@
 {
-    "total_learned": 1964,
+    "total_learned": 1966,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -3864,7 +3864,15 @@
         {
             "topic": "WA: Yan",
             "timestamp": "2026-10-12 08:44:01"
+        },
+        {
+            "topic": "WA: CELARA&Bv3_910LTR",
+            "timestamp": "2026-10-12 08:44:59"
+        },
+        {
+            "topic": "WA: Yan",
+            "timestamp": "2026-10-12 08:45:11"
         }
     ],
-    "last_updated": "2026-10-12 08:44:57"
+    "last_updated": "2026-10-12 08:45:11"
 }
