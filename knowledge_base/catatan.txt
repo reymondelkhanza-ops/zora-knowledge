@@ -11690,3 +11690,49 @@ Isi Pengetahuan:
 + [UNSUPERVISED LEARNING](#unsupervised-learning)
    + [Neural Networks](#neural-networ
 ----------------------------------------
+
+Topik: GitHub Global: GenPRD/genprd-react-app / API.md
+Isi Pengetahuan:
+# GenPRD API Documentation
+
+## Base URL
+
+All API endpoints are prefixed with:
+
+```
+/api
+```
+
+For local development, the full URL would be:
+
+```
+http://localhost:3000/api
+```
+
+For production, the full URL would be:
+
+```
+https://express-backend-418864732285.asia-southeast2.run.app/api
+```
+
+## Authentication
+
+### Google OAuth
+
+#### GET /api/auth/google
+
+Initiates Google OAuth authentication flow.
+
+**Response:** Redirects to Google authentication page.
+
+#### GET /api/auth/google/callback
+
+Callback endpoint for Google OAuth authentication.
+
+**Response:**
+
+```json
+{
+  "status": "success",
+  "message
+----------------------------------------
