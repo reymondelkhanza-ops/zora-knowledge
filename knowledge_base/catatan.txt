@@ -11817,3 +11817,37 @@ Isi Pengetahuan:
 4. [hhvm](https://github.com/facebook/hhvm) [12751, 2308]: *A virtual machine designed for executing programs written in Hack and PHP. *
 5. [rethinkdb](https://github.com/rethinkdb/rethinkdb) [10691, 891]: *The
 ----------------------------------------
+
+Topik: GitHub Global: irlgaming/jsondb-public / faq.md
+Isi Pengetahuan:
+JSONDB FAQ
+
+## Description
+
+Frequently asked questions about JSONDB - this document is updated as new questions come up.
+
+## Why is there no Android support? (When will Android support be available?)
+
+There is! Just include the module source directly into your project.
+
+## Where can I find documentation and/or code examples?
+
+Documentation and an example application showing practical examples of the module in action are available at the following URL:
+
+https://github.com/irlgaming/jsondb-public
+
+## Can I migrate my application from SQLite to JSONDB?
+
+The process of migrating from SQLite would 
+----------------------------------------
+
+Topik: GitHub Global: deaconjs/ThousandVariantCallersRepo / SV.md
+Isi Pengetahuan:
+## Structural Variant Callers
+Identify break points and follow them.
+
+|Caller|Year|From|Study|Source|Algorithm|
+|------|----|----|-----|------|---------|
+|[popins](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#popins)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3801)|[source](https://github.com/bkehr/popins)|Assembly of unmapped reads across multiple samples, placing of contigs into reference genome, genotyping|
+|[svaba](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svaba)|2017|Broad Institute|[study](http://biorxiv.org/content/early/2017/0
+----------------------------------------
