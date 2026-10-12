@@ -13269,3 +13269,18 @@ Rather than being a(nother) feature in nodemon, and as per the [design principle
 
 In your `nodemon.json` (or in your `package.json`) you can include the following event handler to
 ----------------------------------------
+
+Topik: GitHub Global: fdhhhdjd/Class_NodeJs_Systems / BOT.md
+Isi Pengetahuan:
+# BOT 
+
+# 1. TELEGRAM
+
+## Into telegram enter with BotFather
+```cmd
+    /newbot
+    class_telegram
+    class_telegram_bot
+    click open telegram bot
+```
+----------------------------------------
