@@ -13380,3 +13380,43 @@ Isi Pengetahuan:
 1. [Git](#git)
 1. [Google Analytics](#google
 ----------------------------------------
+
+Topik: GitHub Global: JDubas/gs_mobile / API.md
+Isi Pengetahuan:
+## Endpoints da API Flask
+
+## Dependências para rodar a API
+
+- Python 3
+- Flask
+- Flask-CORS
+- OracleDB
+
+```bash
+pip install flask
+pip install flask-cors
+pip install oracledb
+```
+
+Use o comnando abaixo para rodar a  api localmente:
+```bash
+npm run api
+```
+
+
+### POST /upload-image
+- **Descrição:** Upload de uma imagem para o servidor.
+
+### POST /login
+- **Descrição:** Autenticação do usuário.
+- **Exemplo: **  http://127.0.0.1:5000/login
+    ```json
+  {
+    "email": "example@example.com",
+    "senha": "senha"
+  }
+  ```
+
+### POST /recuperar-senha
+- **Descrição:** Recuperação de senha com base no 
+----------------------------------------
