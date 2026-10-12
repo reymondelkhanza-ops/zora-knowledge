@@ -11874,3 +11874,44 @@ The service exposes a small HTTP API for point-based image segmentation using SA
 - The predictor is kept in a global variable after initialization.
 - Device selection is automatic inside the app: `cuda` if available, otherw
 ----------------------------------------
+
+Topik: GitHub Global: luminati-io/Awesome-Web-Scraping / r.md
+Isi Pengetahuan:
+# R Web Scraping
+
+This document contains a list of libraries and resources for web scraping in R.
+
+## Table of Contents
+
+- [Libraries](#libraries)
+  - [Network](#network)
+    - [HTTP Clients and WebSockets](#http-clients-and-websockets)
+    - [WebSockets](#websockets)
+    - [Other](#other)
+  - [Parsers](#parsers)
+    - [HTML/XML Parsers](#htmlxml-parsers)
+    - [URL Parsers](#url-parsers)
+    - [CSV Parsers](#csv-parsers)
+    - [Date and Time Parsers](#date-and-time-parsers)
+    - [PDF Parsers](#pdf-parsers)
+    - [Markdown Parsers](#markdown-parsers)
+    - [YAML Parsers](#yaml-parsers)
+    - 
+----------------------------------------
+
+Topik: GitHub Global: melling/ComputerLanguages / go.md
+Isi Pengetahuan:
+# Go
+
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.md) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+
+## The Short List
++ [Awesome Go](https://github.com/avelino/awesome-go)
++ [Go in 5 Minutes](https://github.com/arschles/go-in-5-minutes)
+- http://www.goin5minutes.com/screencasts/index.html
++ [Go by Example](https://gobyexample.com)
+
+## Editor/IDE Support
+
++ [Visual Studio Code Plugin](https://
+----------------------------------------
