@@ -1,5 +1,5 @@
 {
-    "total_learned": 1993,
+    "total_learned": 1995,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -3964,7 +3964,15 @@
         {
             "topic": "WA: By Noxiva offc",
             "timestamp": "2026-10-12 08:52:56"
+        },
+        {
+            "topic": "WA: Yan",
+            "timestamp": "2026-10-12 08:52:57"
+        },
+        {
+            "topic": "WA: Yan",
+            "timestamp": "2026-10-12 08:53:05"
         }
     ],
-    "last_updated": "2026-10-12 08:52:56"
+    "last_updated": "2026-10-12 08:53:05"
 }
