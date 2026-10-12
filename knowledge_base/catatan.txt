@@ -12368,3 +12368,23 @@ Identify break points and follow them.
 |[popins](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#popins)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3801)|[source](https://github.com/bkehr/popins)|Assembly of unmapped reads across multiple samples, placing of contigs into reference genome, genotyping|
 |[svaba](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svaba)|2017|Broad Institute|[study](http://biorxiv.org/content/early/2017/0
 ----------------------------------------
+
+Topik: GitHub Global: neosapience/typecast-api-mcp-server / PR.md
+Isi Pengetahuan:
+# feat/ssfm-v30: Add ssfm-v30 Model Support
+
+## Summary
+
+Add ssfm-v30 model support to the MCP server. Includes new emotion presets (whisper, toneup, tonedown), Smart Mode for context-aware emotion inference, and enhanced voice filtering via V2 Voices API.
+
+## Changes
+
+### Features
+
+- **ssfm-v30 model support**: Add SSFM_V30 to TTSModel enum
+- **New emotion presets**: whisper, toneup, tonedown (ssfm-v30 only)
+- **Preset Mode**: `PresetPrompt` model for explicit emotion control
+- **Smart Mode**: `SmartPrompt` model for context-aware emotion inference
+  - `previous_text`: Previous context text
+ 
+----------------------------------------
