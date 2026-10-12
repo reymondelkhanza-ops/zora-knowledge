@@ -12081,3 +12081,18 @@ Every new endpoint should document:
 - failure cases
 - related frontend co
 ----------------------------------------
+
+Topik: GitHub Global: fdhhhdjd/Class_NodeJs_Systems / BOT.md
+Isi Pengetahuan:
+# BOT 
+
+# 1. TELEGRAM
+
+## Into telegram enter with BotFather
+```cmd
+    /newbot
+    class_telegram
+    class_telegram_bot
+    click open telegram bot
+```
+----------------------------------------
