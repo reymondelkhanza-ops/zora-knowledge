@@ -1,5 +1,5 @@
 {
-    "total_learned": 1966,
+    "total_learned": 1967,
     "learned_history": [
         {
             "topic": "Termodinamika",
@@ -3872,7 +3872,11 @@
         {
             "topic": "WA: Yan",
             "timestamp": "2026-10-12 08:45:11"
+        },
+        {
+            "topic": "WA: Yan",
+            "timestamp": "2026-10-12 08:45:16"
         }
     ],
-    "last_updated": "2026-10-12 08:45:11"
+    "last_updated": "2026-10-12 08:45:16"
 }
