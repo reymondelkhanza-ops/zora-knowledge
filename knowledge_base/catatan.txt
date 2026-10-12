@@ -12564,3 +12564,13 @@ The Agora is a **Free Knowledge Commons** and an experimental distributed knowle
 
 *   **Radical Sovereignty & Decentralization:** The filesystem is the ultimate source of truth. The Agora acts as 
 ----------------------------------------
+
+Topik: GitHub Global: vincenzo-afk/ReconGPT / todo.md
+Isi Pengetahuan:
+# Project TODO
+
+- [x] Build a secure server-side API key configuration layer for Shodan, VirusTotal, AbuseIPDB, urlscan.io, IPinfo, and a user-supplied Groq/OpenAI LLM key; never expose keys in the browser.
+- [x] Create database schema and query helpers for recon runs, module events, normalized entities, entity relationships, analyst settings, and persisted reports.
+- [x] Implement a server-sent event stream for real-time recon module status and finding events without client polling.
+- [x] Build normalized target parsing and input validation for domains, IPv4/IPv6 addresses, email addresses, u
+----------------------------------------
