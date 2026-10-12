@@ -11338,3 +11338,57 @@ This page provides an overview of applications that support the Model Context Pr
 | Client                               | [Resources] | [Prompts] | [Tools] | [Sampling] | Roots | Notes                                                              |
 | ------------------------------------ | ----------- | --------- | ------- | ---
 ----------------------------------------
+
+Topik: GitHub Global: kickoffqi/pipeline_scanner / api.md
+Isi Pengetahuan:
+# Web API (Flask)
+
+This project includes a minimal Flask API wrapper around the scanner core.
+
+## Run (dev)
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+export FLASK_APP=wsgi.py
+export FLASK_DEBUG=1
+flask run --host 0.0.0.0 --port 5000
+```
+
+## Endpoints
+
+### `GET /api/health`
+
+Response:
+
+```json
+{"status":"ok"}
+```
+
+### `POST /api/policy/validate`
+
+Request:
+
+```json
+{
+  "allow_semver_tags": false,
+  "require_explicit_permissions": true
+}
+```
+
+Response:
+
+```json
+{
+  "valid": true,
+  "policy": { ...normalized... }
+}
+```
+
+### `POST /api/scan`
+
+Request:
+
+----------------------------------------
