@@ -12547,3 +12547,20 @@ Isi Pengetahuan:
 ```html
 <script src="//www.
 ----------------------------------------
+
+Topik: GitHub Global: flancian/agora-server / AGY.md
+Isi Pengetahuan:
+# Agora: The Cohesive View (AGY Synthesis)
+
+*Compiled by Antigravity (AGY) on 2026-05-22*
+
+This document synthesizes the goals, architecture, tasklists, and future direction of the Agora project across `~/agora`, `~/agora-server`, and `~/agora-bridge`. It serves as a unified map for our ongoing collaboration.
+
+---
+
+## 1. Project Philosophy & Core Goals
+
+The Agora is a **Free Knowledge Commons** and an experimental distributed knowledge graph built "for the benefit of all beings."
+
+*   **Radical Sovereignty & Decentralization:** The filesystem is the ultimate source of truth. The Agora acts as 
+----------------------------------------
