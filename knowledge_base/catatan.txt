@@ -11609,3 +11609,39 @@ Voici les objectifs de ce chapitre :
 
 Dans ce TP, nous allons voir les jointures et des rappels de manipulation de dataframe en travaillant sur quelques jeux de données présentant des statistiques de NBA depuis sa création. Nous utiliserons les données de GitHub mais vous pouvez obtenir plus d'info sur l'ensemble des données sur [Kaggle](https://www.kaggle.com/datasets/wyattowalsh/basketball)
 ----------------------------------------
+
+Topik: GitHub Global: micanny/solsniper / bot.md
+Isi Pengetahuan:
+# Production-Grade  solsniper - Implementation Specification
+
+## 🎯 Project Overview
+
+Build a high-performance, production-ready Solana token monitoring system that efficiently ingests, filters, enriches, and alerts on new token pool creations across multiple DEXs (Jupiter, Raydium, Orca,). The system must handle  entry-commercial-scale load while respecting rate limits and maintaining sub-second detection latency.
+
+---
+
+## 📋 Core Requirements
+
+### Objective
+Scan and save tokens from:
+- **Jupiter V6** (aggregator routing)
+- **Raydium AMM V4** (pool creation + liquidity)
+- **Orca Whirlpool** (co
+----------------------------------------
+
+Topik: GitHub Global: flancian/agora-server / AGY.md
+Isi Pengetahuan:
+# Agora: The Cohesive View (AGY Synthesis)
+
+*Compiled by Antigravity (AGY) on 2026-05-22*
+
+This document synthesizes the goals, architecture, tasklists, and future direction of the Agora project across `~/agora`, `~/agora-server`, and `~/agora-bridge`. It serves as a unified map for our ongoing collaboration.
+
+---
+
+## 1. Project Philosophy & Core Goals
+
+The Agora is a **Free Knowledge Commons** and an experimental distributed knowledge graph built "for the benefit of all beings."
+
+*   **Radical Sovereignty & Decentralization:** The filesystem is the ultimate source of truth. The Agora acts as 
+----------------------------------------
