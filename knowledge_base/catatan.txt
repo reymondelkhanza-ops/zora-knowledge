@@ -11032,3 +11032,70 @@ Contents:
 - `saas.db` — users (balance_usd), wallet_tx ledger, alipay_orders, user_tokens, … **(money)**
 - `saas.db.jwt_secret` — ses
 ----------------------------------------
+
+Topik: GitHub Global: theshashankk/DocuMindAI / BOT.md
+Isi Pengetahuan:
+# 🤖 DocuMind AI — Telethon Telegram Bot Guide
+
+```text
+ # © 2026 Shashank Sharma. All Rights Reserved. The Project: DocuMind AI — Multi-Agent Document & Contract Intelligence Engine
+```
+
+Author: **Shashank Sharma** · Portfolio: [https://theshashankk.qzz.io](https://theshashankk.qzz.io) · License: **Apache 2.0**
+
+---
+
+## ⚡ Quick Execution Guide (The Easy Way)
+
+To kick off the **entire application** — the Telegram Bot, the FastAPI backend REST API, and the Streamlit Web Dashboard — you don't need three separate commands. Just run:
+
+```bash
+python bot.py
+```
+
+> **🔥 How it works**: Running `python
+----------------------------------------
+
+Topik: GitHub Global: remy/nodemon / faq.md
+Isi Pengetahuan:
+# FAQ
+
+This is being added to as common issues occur on the [issues](http://github.com/remy/nodemon/issues), and where appropriate the answers will be added here.
+
+This is a working document, and if it makes sense, I'll take pull requests to help make it better.
+
+# How to clear the console on restart
+
+Rather than being a(nother) feature in nodemon, and as per the [design principles](https://github.com/remy/nodemon#design-principles) you can clear the console using nodemon's existing architecture.
+
+In your `nodemon.json` (or in your `package.json`) you can include the following event handler to
+----------------------------------------
+
+Topik: GitHub Global: shenwei356/awesome / c.md
+Isi Pengetahuan:
+# C
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Tutorial](#tutorial)
+    - [Guide](#guide)
+    - [Performance](#performance)
+    - [regexp](#regexp)
+- [Practice](#practice)
+- [C vs C++](#c-vs-c)
+- [Resources](#resources)
+- [Book](#book)
+- [Library](#library)
+    - [DB](#db)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+## Tutorial
+
+### Guide
+
+- [用一年时间如何能掌握 C++ ？](htt
+----------------------------------------
