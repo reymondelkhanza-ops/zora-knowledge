@@ -12456,3 +12456,25 @@ This document tracks contributions made by AI assistants (Claude Code) versus th
 - Thread-safe kernel cache with `threading.RLock()`
 - Double-checked locking pattern for
 ----------------------------------------
+
+Topik: GitHub Global: xinychen/tracebase / bib.md
+Isi Pengetahuan:
+> A short list of some related papers.
+
+### Hankel completion
+
+ 1. [Fast Hankel Tensor-Vector Products and Application to Exponential Data Fitting](https://arxiv.org/pdf/1401.6238.pdf). arXiv preprint, 2014.
+ 2. [Fast and provable algorithms for spectrally sparse signal reconstruction via low-rank Hankel matrix completion](http://dx.doi.org/10.1016/j.acha.2017.04.004). Applied and Computational Harmonic Analysis, 2017.
+ 3. [Hankel Matrix Nuclear Norm Regularized Tensor Completion for N-dimensional Exponential Signals](https://doi.org/10.1109/TSP.2017.2695566). IEEE Transactions on Signal Proce
+----------------------------------------
+
+Topik: GitHub Global: deaconjs/ThousandVariantCallersRepo / SV.md
+Isi Pengetahuan:
+## Structural Variant Callers
+Identify break points and follow them.
+
+|Caller|Year|From|Study|Source|Algorithm|
+|------|----|----|-----|------|---------|
+|[popins](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#popins)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3801)|[source](https://github.com/bkehr/popins)|Assembly of unmapped reads across multiple samples, placing of contigs into reference genome, genotyping|
+|[svaba](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svaba)|2017|Broad Institute|[study](http://biorxiv.org/content/early/2017/0
+----------------------------------------
