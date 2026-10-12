@@ -13618,3 +13618,32 @@ Voici les objectifs de ce chapitre :
 
 Dans ce TP, nous allons voir les jointures et des rappels de manipulation de dataframe en travaillant sur quelques jeux de données présentant des statistiques de NBA depuis sa création. Nous utiliserons les données de GitHub mais vous pouvez obtenir plus d'info sur l'ensemble des données sur [Kaggle](https://www.kaggle.com/datasets/wyattowalsh/basketball)
 ----------------------------------------
+
+Topik: GitHub Global: cvert-qc/pyjcall / doc.md
+Isi Pengetahuan:
+# PyJCall API Documentation
+
+This document provides a condensed overview of all methods available in the PyJCall library, organized by module.
+
+## Table of Contents
+
+- [Campaigns](#campaigns)
+- [Campaign Calls](#campaign-calls)
+- [Campaign Contacts](#campaign-contacts)
+- [Calls](#calls)
+- [Contacts](#contacts)
+
+## Campaigns
+
+### `list(page=None, per_page=None)`
+
+List all Sales Dialer campaigns.
+
+**Input:**
+- `page` (optional): The page number to read
+- `per_page` (optional): The number of results per page (default: 50, max: 100)
+
+**Output:**
+- Dictionary containing:
+  - `status`: Status of the
+----------------------------------------
