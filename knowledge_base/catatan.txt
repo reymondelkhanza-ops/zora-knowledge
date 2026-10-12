@@ -12186,3 +12186,21 @@ Isi Pengetahuan:
 
 在系统设计面试之前，我们已经在《系统设计面试之前需要知道的八件事》中谈到，就是从简单的东西开始。让我们专注于构建在单线程上运行的基本网页爬虫。有了这
 ----------------------------------------
+
+Topik: GitHub Global: svaksha/pythonidae / AI.md
+Isi Pengetahuan:
+**AI :: Artificial Intelligence, Cognitive Science, Machine Learning {(Un)Supervised/RL}, Neural Nets, NLP, etc...**
+
+
++ [§1. AI](#1-AI)
++ [§2. DATA SCIENCE](#2-DATA-SCIENCE)
++ [§3. MACHINE LEARNING](#3-MACHINE-LEARNING)
+   + [§3.1. Deep Learning](#3-1-Deep-Learning)
+   + [§3.2. Classification Algorithms](#3-2-Classification-Algorithms)
+   + [§3.3. Graph Theory](#3-3-Graph-Theory)
+   + [§3.4. GPU](#3-4-GPU)
++ [§4. NLP](#4-NLP)
+   + [§4.1. Computational Linguistics](#4-1-Computational-Linguistics)
+        + [§4.1.1. Named Entity Recognition](#4-1-1-Named-Entity-Recognition)
+   + [§4.2. Digital 
+----------------------------------------
