@@ -13941,3 +13941,32 @@ Isi Pengetahuan:
 - [Get ALL the links of a site](#get-all-the-links-of-a-site)
 - [Get site's Meta Data](#get-site-s-meta
 ----------------------------------------
+
+Topik: GitHub Global: Mybridge/learn-web-development / CN.md
+Isi Pengetahuan:
+# learn-web-development
+从2017年里最好的文章中学习 Web 开发
+
+<img src="background.png" width="800" alt="Mybridge"></a>
+
+[English Version](./README.md) | [中文版本](./CN.md)
+
+在过去的一年间（2017年），我们对比了近16000篇 Web 开发相关的文章，并从中挑出了最好的45篇。
+
+我们相信，向经验丰富的 Web 开发者学习会是促进你事业进步一个非常好的方式。该清单组织收录了2017年里最有用的那些学习指南，旨在让你学习起来更加轻松。在这些学习指南中，经验丰富的 Web 开发人员分享了他们在构建和发布 Web 应用方面的经验与教训。
+
+这份清单有20个关键主题：
+
+<img src="chart.png" width="1400" alt="Mybridge"></a>
+
+如果你想查看带图片的版本：[查看 Medium 链接](https://goo.gl/oh4HXE)
+
+## 目录
+1. [通用指南](#通用指南)
+1. [AWS](#aws)
+1. [Docker](#docker)
+1. [安全](#安全)
+1. [编程最佳实践](#编程最佳实践)
+1. [Git](#git)
+1. [Google Analytics](#google
+----------------------------------------
