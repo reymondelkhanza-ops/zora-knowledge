@@ -11138,3 +11138,46 @@ python bot.py
 
 > **🔥 How it works**: Running `python
 ----------------------------------------
+
+Topik: GitHub Global: aaronshaf/security-plus / 4.md
+Isi Pengetahuan:
+# 4.0 Identity and Access Management
+
+- [4.0 Identity and Access Management](#40-identity-and-access-management)
+  - [4.1 Compare and contrast identity and access management concepts](#41-compare-and-contrast-identity-and-access-management-concepts)
+    - [4.1.1 Identification, Authentication, Authorization and Accounting (AAA)](#411-identification-authentication-authorization-and-accounting-aaa)
+    - [4.1.2  Multifactor Authentication](#412--multifactor-authentication)
+    - [4.1.3 Federation](#413-federation)
+    - [4.1.4 Single sign-on](#414-single-sign-on)
+    - [4.1.5 Transitive trust](#
+----------------------------------------
+
+Topik: GitHub Global: ebenishere/AgenticAIProj / API.md
+Isi Pengetahuan:
+# 🔌 API Documentation
+
+Programming interface for Cyber Threat Intelligence RAG system.
+
+## CyberThreatRAG Class
+
+Main class for threat analysis. Use this to integrate RAG into your applications.
+
+### Initialization
+
+```python
+from rag.cyber_threat_rag import CyberThreatRAG
+
+# Create instance
+rag = CyberThreatRAG(db_path="./chroma_db", persist=True)
+```
+
+**Parameters:**
+- `db_path` (str): Path to store Chroma vector database. Default: `"./chroma_db"`
+- `persist` (bool): Save database to disk for reuse. Default: `True`
+
+### Methods
+
+#### load_data(cve_file, nist_file)
+
+Load CVE and NIST vulnerab
+----------------------------------------
